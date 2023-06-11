@@ -1,5 +1,5 @@
 Purchase Contract 1
-Seller: Ebay Corporation
+Seller: Ebay
 Buyer: David Johnson
 Product: Brand new Tesla Model S
 Price: $90,000

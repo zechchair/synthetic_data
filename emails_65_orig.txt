@@ -1,11 +1,11 @@
 Email 3:
-From: Jessica Turner jessica.turner@email.com
-To: Support Team support@company.com
+From: Jessica Turner jessica.turner@gmail.com
+To: Support Team support@plajo.com
 Subject: Product Inquiry
 Dear Support Team,
 I hope this email finds you well. I am writing to inquire about a specific product offered by your company. I would greatly appreciate your assistance in providing more information.
-Product Name: XYZ Pro-Series Camera
-Model Number: XYZ12345
+Product Name: GoPro Pro-Series Camera
+Model Number: AB57
 I am particularly interested in the technical specifications, pricing, and availability of this camera. Could you please provide detailed information regarding its features, capabilities, and any additional accessories that may be required?
 Furthermore, I would like to inquire about any ongoing promotions or discounts that may apply to this product. If possible, kindly provide an estimated delivery time for an order placed today.
 Thank you for your attention to this matter. I look forward to your prompt response and the possibility of acquiring this product.

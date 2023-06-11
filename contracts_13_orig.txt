@@ -1,10 +1,10 @@
 Rental Contract 2
 Contract Name: Cityview Apartments Lease Agreement
-Date: May 9, 2023
+Date: March 9, 2023
 This Lease Agreement (hereinafter referred to as the "Agreement") is entered into between:
 Landlord: Urban Living Properties, a company duly registered under the laws of the State of poland, represented by Mr. David Walker, residing at 9 Kedzie Terrace, Krasiczyn, Poland.
 Tenant: Mr. Erasmus Haslum, residing at 8 Linden Parkway, Humniska, Poland.
-Property: The Landlord hereby leases to the Tenant a residential apartment located at 184 Hudson Drive, Strzelin, Poland (hereinafter referred to as the "Apartment") for a term of one year, starting from June 1, 2023, to May 31, 2024.
+Property: The Landlord hereby leases to the Tenant a residential apartment located at 184 Hudson Drive, Strzelin, Poland (hereinafter referred to as the "Apartment") for a term of one year, starting from June 1, 2023, to March 31, 2024.
 Rent Payment: The Tenant agrees to pay a monthly rent of $2,000 (USD) for the Apartment. Rent shall be due and payable on the first day of each month during the term of this Agreement.
 Utilities: The Tenant shall be responsible for all utility expenses, including electricity, gas, water, and any other utilities required for the Apartment, unless otherwise specified in writing by the Landlord.
 Maintenance and Repairs: The Landlord shall be responsible for all major repairs and maintenance of the Apartment. However, the Tenant shall be responsible for any damages caused by their negligence or intentional actions.

@@ -1,5 +1,5 @@
 Purchase Contract 2
-This Purchase Agreement ("Agreement") is made and entered into as of [New Date], by and between the following parties:
+This Purchase Agreement ("Agreement") is made and entered into as of 10 March 2022, by and between the following parties:
 Seller:
 Name: Delia Carberry
 Address: 76042 Debs Way, Leiria, Castanheira de Pêra, Portugal
@@ -17,7 +17,7 @@ The Buyer agrees to pay the Purchase Price in the following manner:
 Initial Deposit: $150,000 to be paid upon signing this Agreement.
 Installments: The remaining amount of $600,000 shall be paid in 12 equal installments, with the first installment due on 15 May 2022.
 Closing:
-The closing of the purchase transaction shall take place on 22 May 2024 at a location agreed upon by both parties.
+The closing of the purchase transaction shall take place on 22 May 2023 at a location agreed upon by both parties.
 Representations and Warranties:
 a. Seller's Representations: The Seller represents that they have the authority to sell the property and there are no liens or encumbrances on the property.
 b. Buyer's Representations: The Buyer represents that they have the necessary funds to complete the transaction.
