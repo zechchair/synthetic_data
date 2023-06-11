@@ -3,15 +3,15 @@ Purchase Contract
 Contract Name: Oceanic Furniture Purchase Agreement
 This Purchase Contract ("Contract") is entered into on this 5th day of May 2023 ("Effective Date"), by and between:
 Buyer:
-Company Name: Luxe Interiors Inc.
-Registered Address: 123 Elegance Street, Opulent City, USA
-Represented by: Victoria Reynolds, Procurement Manager
+Company Name: Meedoo.
+Registered Address: 3 Schmedeman Lane, Novoselitsa, Ukraine
+Represented by: Bellina Eliasson, Procurement Manager
 Seller:
-Company Name: Oceanic Furnishings Ltd.
-Registered Address: 456 Seaside Avenue, Coastalville, USA
-Represented by: Benjamin Hayes, Sales Director
+Company Name: Mydo.
+Registered Address: 26440 Arrowood Trail, Yahil’nytsya, Ukraine
+Represented by: Sloane Gullick, Sales Director
 Details of the Product:
-Product: Milano Leather Sofa Set
+Product: Royale Leather Sofa Set
 Quantity: 10 sets
 Unit Price: $5,000
 Total Price: $50,000
@@ -36,5 +36,5 @@ This Contract shall be governed by and construed in accordance with the laws of 
 Agreed and accepted by:
 Buyer: Seller:
 Signature: ________________ Signature: ________________
-Name: Victoria Reynolds Name: Benjamin Hayes
+Name: Bellina Eliasson Name: Sloane Gullick
 Title: Procurement Manager Title: Sales Director

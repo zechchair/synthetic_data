@@ -6,7 +6,7 @@ Price: $80,000
 Payment Terms: $20,000 upfront, remaining amount to be paid in installments over 3 years
 Delivery Date: June 1st, 2023
 Warranty: 3 years
-This Purchase Agreement (the "Agreement") is made on May 4th, 2023, between XYZ Corporation (the "Seller") and John Smith (the "Buyer"). The Seller hereby agrees to sell and deliver to the Buyer the Product, a brand new Tesla Model S (the "Product"), on or before June 1st, 2023. In consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+This Purchase Agreement (the "Agreement") is made on May 4th, 2023, between Amazon Corporation (the "Seller") and John Smith (the "Buyer"). The Seller hereby agrees to sell and deliver to the Buyer the Product, a brand new Tesla Model S (the "Product"), on or before June 1st, 2023. In consideration of the mutual promises and covenants contained herein, the parties agree as follows:
 Product. The Seller shall deliver the Product to the Buyer in accordance with the Delivery Date.
 Price and Payment. The Buyer agrees to pay the Seller a total purchase price of $80,000, to be paid in installments over 3 years. The Buyer shall make an upfront payment of $20,000 upon execution of this Agreement. The remaining amount shall be paid in installments over 3 years in accordance with a payment schedule to be agreed upon by the parties.
 Warranty. The Seller warrants that the Product shall be free from defects in material and workmanship for a period of 3 years from the date of delivery.

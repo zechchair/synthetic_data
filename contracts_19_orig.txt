@@ -2,9 +2,9 @@ Contract 1:
 Contract Name: Sales Agreement for Software License
 This Sales Agreement (the "Agreement") is made and entered into this 1st day of September, 2023 (the "Effective Date"), by and between:
 Seller:
-Innovative Software Solutions Inc., a corporation organized and existing under the laws of the State of California, with its principal place of business at 123 Technology Avenue, San Francisco, California 94101, hereinafter referred to as the "Seller."
+Innovative Software Solutions Inc., a corporation organized and existing under the laws of Indonesia, with its principal place of business at 6488 Dawn Street, Linggamanik, Indonesia, hereinafter referred to as the "Seller."
 Buyer:
-Tech Ventures LLC, a limited liability company organized and existing under the laws of the State of New York, with its principal place of business at 456 Innovation Road, New York, New York 10001, hereinafter referred to as the "Buyer."
+Tech Ventures LLC, a limited liability company organized and existing under the laws of Indonesia, with its principal place of business at 9 Helena Plaza, Babakan, Indonesia, hereinafter referred to as the "Buyer."
 WHEREAS, the Seller owns and develops a proprietary software application known as "InnovaTech CRM";
 WHEREAS, the Buyer desires to purchase a license for the use of the InnovaTech CRM software;
 NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Seller and the Buyer hereby agree as follows:

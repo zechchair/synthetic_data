@@ -1,15 +1,15 @@
 Contract 1:
 Purchase Contract
-Contract Name: Verdant Furniture Purchase Agreement
-This Purchase Contract ("Contract") is entered into on this 14th day of September 2023 ("Effective Date"), by and between:
+Contract Name: Oceanic Furniture Purchase Agreement
+This Purchase Contract ("Contract") is entered into on this 5th day of May 2023 ("Effective Date"), by and between:
 Buyer:
-Company Name: Opulent Designs Ltd.
-Registered Address: 789 Magnolia Avenue, Splendorville, USA
-Represented by: Emily Bennett, Procurement Manager
+Company Name: Snaptags.
+Registered Address: 35 Charing Cross Crossing, Luhans’ke, Ukraine
+Represented by: Sloane Gullick, Procurement Manager
 Seller:
-Company Name: Azure Furnishings Inc.
-Registered Address: 321 Seabreeze Street, Coastal Haven, USA
-Represented by: Michael Anderson, Sales Director
+Company Name: Fanoodle.
+Registered Address: 92 Welch Plaza, Voloka, Ukraine
+Represented by: Blanch Martonfi, Sales Director
 Details of the Product:
 Product: Royale Leather Sofa Set
 Quantity: 15 sets
@@ -36,5 +36,5 @@ This Contract shall be governed by and construed in accordance with the laws of 
 Agreed and accepted by:
 Buyer: Seller:
 Signature: ________________ Signature: ________________
-Name: Emily Bennett Name: Michael Anderson
+Name: Sloane Gullick Name: Blanch Martonfi
 Title: Procurement Manager Title: Sales Director

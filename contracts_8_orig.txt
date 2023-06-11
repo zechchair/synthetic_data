@@ -1,23 +1,23 @@
 Purchase Contract 2
 This Purchase Agreement ("Agreement") is made and entered into as of [Date], by and between the following parties:
 Seller:
-Name: David Anderson
-Address: 321 Pine Street, Citytown, GHI-321
-Company: Anderson Realty
+Name: Sandye Khristoforov
+Address: 840 Aberg Alley, Boa Viagem, Brazil
+Company: Layo
 Buyer:
-Name: Sarah Thompson
-Address: 654 Cedar Avenue, Villageton, JKL-654
-Company: Thompson Properties
+Name: Wyatan Blanden
+Address: 0863 Westridge Point, Mococa, Brazil
+Company: Demivee
 Property Details:
-Address: 987 Oak Court, Townsville, MNO-987
+Address: 85359 Talmadge Road, Três Coroas, Brazil
 Type: Commercial Property
-Purchase Price: $[Purchase Price]
+Purchase Price: $900,000 
 Payment Terms:
 The Buyer agrees to pay the Purchase Price in the following manner:
-Initial Deposit: $[Initial Deposit] to be paid upon signing this Agreement.
-Installments: The remaining amount of $[Remaining Amount] shall be paid in [Number of Installments] equal installments, with the first installment due on [Due Date].
+Initial Deposit: $200,000 to be paid upon signing this Agreement.
+Installments: The remaining amount of $700,000 shall be paid in 10 equal installments, with the first installment due on 22 May 2023.
 Closing:
-The closing of the purchase transaction shall take place on [Closing Date] at a location agreed upon by both parties.
+The closing of the purchase transaction shall take place on 22 March 2024 at a location agreed upon by both parties.
 Representations and Warranties:
 a. Seller's Representations: The Seller represents that they have the authority to sell the property and there are no liens or encumbrances on the property.
 b. Buyer's Representations: The Buyer represents that they have the necessary funds to complete

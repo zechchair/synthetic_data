@@ -1,12 +1,12 @@
 Contract 2:
-Employment Contract between Emily Thompson and ABC Tech Innovations
-Date of Contract: September 15, 2024
+Employment Contract between Monte Smethurst and Yodoo Tech Innovations
+Date of Contract: September 15, 2023
 Position: Software Developer
-This Employment Contract (the “Agreement”) is made on the date stated above, between Emily Thompson (the “Employee”) and ABC Tech Innovations (the “Company”).
+This Employment Contract (the “Agreement”) is made on the date stated above, between Monte Smethurst (the “Employee”) and Yodoo Tech Innovations (the “Company”).
 The Employee agrees to work full-time as a Software Developer for the Company, and to perform all duties and responsibilities assigned to her by the Company.
 The Employee will receive an annual salary of $80,000, payable bi-weekly. The Employee will also be eligible for a performance-based bonus of up to 10% of her annual salary.
 The Employee’s employment may be terminated by the Company for cause, or by the Employee upon giving four weeks’ written notice to the Company.
 This Agreement constitutes the entire understanding of the parties and supersedes all prior discussions and agreements between them.
 Signed:
-Emily Thompson (Employee)
-Laura Davis (HR Director, ABC Tech Innovations)
+Monte Smethurst (Employee)
+Rosalind Meany (HR Director, Yodoo Tech Innovations)

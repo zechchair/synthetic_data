@@ -2,9 +2,9 @@ Contract 1:
 Contract Name: Non-Disclosure Agreement
 This Non-Disclosure Agreement (the "Agreement") is made and entered into this 1st day of September, 2023 (the "Effective Date"), by and between:
 Disclosing Party:
-Eagle Tech Solutions Inc., a corporation organized and existing under the laws of the State of California, with its principal place of business at 123 Technology Avenue, San Francisco, California 94101, hereinafter referred to as the "Disclosing Party."
+Eagle Tech Solutions Inc., a corporation organized and existing under the laws of the State of Springfield, with its principal place of business at 86 Commercial Trail, Illinois, Springfield, United States, hereinafter referred to as the "Disclosing Party."
 Receiving Party:
-Tech Innovators LLC, a limited liability company organized and existing under the laws of the State of New York, with its principal place of business at 456 Innovation Road, New York, New York 10001, hereinafter referred to as the "Receiving Party."
+Tech Innovators LLC, a limited liability company organized and existing under the laws of the State of New York, with its principal place of business at 078 Washington Lane, New York, Staten Island, United States, hereinafter referred to as the "Receiving Party."
 WHEREAS, the Disclosing Party possesses certain confidential and proprietary information;
 WHEREAS, the Receiving Party desires to receive such confidential information for the purpose of evaluating a potential business relationship;
 NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Disclosing Party and the Receiving Party hereby agree as follows:

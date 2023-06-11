@@ -1,8 +1,8 @@
 Rental Contract 2
 Tenant Name: John Smith
 Landlord Name: Willow Estates
-Property Address: 789 Willow Lane, Unit 200, Pleasantville, USA
+Property Address: 92730 Warner Avenue, Missouri, Jefferson City, United States
 Rental Term: 9 months
 Rent: $1,500 per month
 Security Deposit: $1,500
-This rental agreement is made on September 10th, 2023, between John Smith (the tenant) and Willow Estates (the landlord) for the rental of the property located at 789 Willow Lane, Unit 200, Pleasantville, USA. The rental term is for 9 months, starting on October 15th, 2023, and ending on July 14th, 2024. The monthly rent for this property is $1,500, payable on the 1st of each month. The tenant agrees to pay a security deposit of $1,500, which will be returned at the end of the rental term, provided there is no damage to the property.
+This rental agreement is made on September 10th, 2023, between John Smith (the tenant) and Willow Estates (the landlord) for the rental of the property located at 92730 Warner Avenue, Missouri, Jefferson City, United States. The rental term is for 9 months, starting on October 15th, 2023, and ending on July 14th, 2024. The monthly rent for this property is $1,500, payable on the 1st of each month. The tenant agrees to pay a security deposit of $1,500, which will be returned at the end of the rental term, provided there is no damage to the property.

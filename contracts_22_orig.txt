@@ -1,7 +1,7 @@
 Here are three synthetic Partnership contracts:
 Contract 1:
 Partnership Agreement between Global Consulting Group, Inc. and Summit Strategies LLC
-This agreement (the "Agreement") is made and entered into as of the 1st day of May, 2023, by and between Global Consulting Group, Inc., a Delaware corporation with its principal place of business at 123 Main St, Wilmington, DE 19801 ("GCG"), and Summit Strategies LLC, a New York limited liability company with its principal place of business at 456 5th Ave, New York, NY 10018 ("Summit").
+This agreement (the "Agreement") is made and entered into as of the 1st day of May, 2023, by and between Global Consulting Group, Inc., a  corporation with its principal place of business at 954 7th Crossing, Andalucia, Dos Hermanas, Spain ("GCG"), and Summit Strategies LLC, a New York limited liability company with its principal place of business at 456 5th Ave, New York, NY 10018 ("Summit").
 Purpose. The purpose of this Agreement is to establish a partnership between GCG and Summit (the "Partnership") for the purpose of providing consulting services to clients.
 Contributions. GCG shall contribute $100,000 in cash to the Partnership, and Summit shall contribute $50,000 in cash and equipment with a fair market value of $25,000.
 Profits and Losses. The Partnership's profits and losses shall be allocated 60% to GCG and 40% to Summit.

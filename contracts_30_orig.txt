@@ -1,8 +1,8 @@
 Rental Contract 2
 Tenant Name: David Lee
 Landlord Name: Redwood Properties
-Property Address: 456 Redwood Blvd, Unit 100, Anytown, USA
+Property Address: 0 Melrose Place, Florida, Jacksonville, United States
 Rental Term: 6 months
 Rent: $2,000 per month
 Security Deposit: $2,000
-This rental agreement is made on May 4th, 2023, between David Lee (the tenant) and Redwood Properties (the landlord) for the rental of the property located at 456 Redwood Blvd, Unit 100, Anytown, USA. The rental term is for 6 months, starting on June 1st, 2023, and ending on November 30th, 2023. The monthly rent for this property is $2,000, payable on the 1st of each month. The tenant agrees to pay a security deposit of $2,000, which will be returned at the end of the rental term, provided there is no damage to the property.
+This rental agreement is made on May 4th, 2023, between David Lee (the tenant) and Redwood Properties (the landlord) for the rental of the property located at 0 Melrose Place, Florida, Jacksonville, United States. The rental term is for 6 months, starting on June 1st, 2023, and ending on November 30th, 2023. The monthly rent for this property is $2,000, payable on the 1st of each month. The tenant agrees to pay a security deposit of $2,000, which will be returned at the end of the rental term, provided there is no damage to the property.
