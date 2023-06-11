@@ -1,7 +1,7 @@
 Contract 2:
 Seller: SportsTech Fitness Solutions
 Buyer: Sarah Thompson
-Product: Elliptical Trainer
+Product: Treadmill
 Price: $1,999
 Payment Terms: 50% upfront, 50% on delivery
 Delivery Date: September 10, 2023

@@ -1,5 +1,5 @@
 Rental Contract 3
 Contract Name: Urban Oasis Studio Apartment Rental Agreement
-Date: October 17, 2024
+Date: October 17, 2023
 This Rental Agreement (hereinafter referred to as the "Agreement") is entered into between:
-Landlord: Azure Properties Ltd
+Landlord: Urban Oasis Properties Ltd

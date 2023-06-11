@@ -1,10 +1,10 @@
 Contract 2:
 Seller: David Smith
 Buyer: Olivia Taylor
-Product: Orange Laptop Elite, Model: X5, Serial Number: 1234567890
+Product: Apple MacBook Pro, Model: M1, Serial Number: 9876543210
 Purchase Price: $2,000.00
 Payment Method: Debit Card
 Delivery Date: November 15, 2023
 Condition: Brand new in sealed box with complete accessories.
-Seller's Representations: The seller is an authorized retailer of Orange Laptop Elite products and the laptop is brand new and authentic.
-Buyer's Representations: The buyer has examined the specifications and consents to acquire the laptop.
+Seller's Representations: The seller is an authorized retailer of Apple products and the MacBook Pro is brand new and authentic.
+Buyer's Representations: The buyer has examined the specifications and consents to acquire the MacBook Pro.
