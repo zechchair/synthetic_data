@@ -1,7 +1,7 @@
 Contract 3:
 Seller: Green Valley Auto Sales
 Buyer: Michael Johnson
-Date: February 20, 2024
+Date: February 20, 2022
 Vehicle Purchase Agreement
 Green Valley Auto Sales
 This Vehicle Purchase Agreement ("Agreement") is made and entered into between Green Valley Auto Sales ("Seller") and Michael Johnson ("Buyer") on February 20, 2024.

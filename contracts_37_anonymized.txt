@@ -1,6 +1,6 @@
 Purchase Contract 1:
 Contract Name: Purchase Agreement between Clearview Electronics and Jane Johnson
-This Purchase Agreement ("Agreement") is made and entered into this 3rd day of August 2023 (the "Effective Date"), by and between Clearview Electronics, a corporation organized and existing under the laws of California, with its principal place of business at 789 Elm Street, Citytown, USA ("Seller"), and Jane Johnson, an individual with a mailing address at 321 Cedar Lane, Villagetown, USA ("Buyer").
+This Purchase Agreement ("Agreement") is made and entered into this 3rd day of August 2023 (the "Effective Date"), by and between Clearview Electronics, a corporation organized and existing under the laws of Arizona, with its principal place of business at 429 Reinke Hill, Arizona, Scottsdale, United States ("Seller"), and Jane Johnson, an individual with a mailing address at 29 Burrows Alley, Ohio, Cincinnati, United States ("Buyer").
 Purchase Item: Seller agrees to sell and Buyer agrees to purchase the following item:
 Product: XYZ Model ABC-123 Laptop
 Quantity: 1

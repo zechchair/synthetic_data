@@ -1,6 +1,6 @@
 Purchase Contract 1:
-Contract Name: Purchase Agreement between Clearview Electronics and John Smith
-This Purchase Agreement ("Agreement") is made and entered into this 1st day of May 2023 (the "Effective Date"), by and between Clearview Electronics, a corporation organized and existing under the laws of California, with its principal place of business at 123 Main Street, Cityville, USA ("Seller"), and John Smith, an individual with a mailing address at 456 Oak Avenue, Townsville, USA ("Buyer").
+Contract Name: Purchase Agreement between Clearview Electronics and Stephie Rayman
+This Purchase Agreement ("Agreement") is made and entered into this 1st day of May 2023 (the "Effective Date"), by and between Clearview Electronics, a corporation organized and existing under the laws of Texas, with its principal place of business at 73 East Way, Texas, Midland, United States ("Seller"), and John Smith, an individual with a mailing address at 86 Commercial Trail, Illinois, Springfield, United States ("Buyer").
 Purchase Item: Seller agrees to sell and Buyer agrees to purchase the following item:
 Product: XYZ Model ABC-123 Laptop
 Quantity: 1

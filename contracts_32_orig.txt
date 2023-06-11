@@ -1,7 +1,7 @@
 Contract 3:
 Seller: Green Motors
 Buyer: Daniel Wilson
-Date: December 20, 2024
+Date: December 20, 2022
 Vehicle Purchase Agreement
 Green Motors
 This Vehicle Purchase Agreement ("Agreement") is made and entered into between Green Motors ("Seller") and Daniel Wilson ("Buyer") on December 20, 2024.

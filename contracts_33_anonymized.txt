@@ -1,7 +1,7 @@
 Contract 3:
 Seller: Redwood Motors
 Buyer: James Thompson
-Date: May 10, 2025
+Date: May 10, 2023
 Vehicle Purchase Agreement
 Redwood Motors
 This Vehicle Purchase Agreement ("Agreement") is made and entered into between Redwood Motors ("Seller") and James Thompson ("Buyer") on May 10, 2025.

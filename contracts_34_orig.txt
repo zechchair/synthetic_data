@@ -1,6 +1,6 @@
 Contract 2:
 EMPLOYMENT CONTRACT
-This Employment Contract ("Contract") is made and entered into on this 4th day of May 2023, by and between Sarah Lee ("Employee") and XYZ Industries, Inc. ("Employer").
+This Employment Contract ("Contract") is made and entered into on this 4th day of May 2023, by and between Sarah Lee ("Employee") and Kwinu Industries, Inc. ("Employer").
 Employment. Employer hereby employs Employee in the position of Human Resources Manager, and Employee hereby accepts such employment, subject to the terms and conditions set forth in this Contract.
 Duties. Employee shall perform the duties and responsibilities as set forth in Exhibit A attached hereto and made a part hereof.
 Compensation. Employee shall be paid a salary of $90,000 per year, payable in bi-weekly installments. In addition, Employee shall be eligible for a performance bonus of up to 15% of Employee's annual salary, subject to the achievement of certain performance objectives.
@@ -11,6 +11,6 @@ Governing Law. This Contract shall be governed by and construed in accordance wi
 IN WITNESS WHEREOF, the parties have executed this Contract as of the date first above written.
 Sarah Lee
 Employee
-XYZ Industries, Inc.
+Kwinu Industries, Inc.
 By: David Lee
 Title: CEO
