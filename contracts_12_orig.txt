@@ -1,5 +1,5 @@
 Purchase Contract 1
-Seller: XYZ Corporation
+Seller: Amazon Corporation
 Buyer: John Smith
 Product: Brand new Tesla Model S
 Price: $80,000
