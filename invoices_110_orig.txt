@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: May 20, 2023
+Invoice Number: INV-2023-0520-003
+Customer Name: Anderson Marketing Solutions
+Customer Address: 7178 Bobwhite Circle, Dakoutun, China	
+Billing Email: billing@andersonmarketingsolutions.com
+Payment Due Date: June 20, 2023
+Item Description Quantity Unit Price Total
+Social Media Marketing 1 $1,500 $1,500
+Website Development 1 $2,500 $2,500
+Graphic Design 5 $200 $1,000
+Subtotal $5,000
+Sales Tax (8%) $400
+Total Due $5,400
+Thank you for choosing Anderson Marketing Solutions for your marketing needs. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@andersonmarketingsolutions.com.

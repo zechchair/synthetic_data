@@ -1,0 +1,22 @@
+Invoice 1:
+Invoice Number: INV-2022-001
+Date: June 23, 2022
+Customer: Hollie Garnham	
+Address: 36 Old Gate Hill, Cruz das Almas, Brazil	
+Email: HollieGarnham@gmail.com
+Phone: +55 (183) 809-5885
+Bill To:
+Realblab
+36 Old Gate Hill, Cruz das Almas, Brazil
+Description Quantity Unit Price Total
+Consulting Services 10 hours $100 $1,000
+Web Development 5 hours $150 $750
+Graphic Design 8 hours $75 $600
+Maintenance Services 2 hours $50 $100
+Subtotal: $2,450
+Tax (7%): $171.50
+Total: $2,621.50
+Payment Terms: Net 30 days
+Payment Method: Check
+Please make the payment by July 9, 2022.
+Thank you for your business!

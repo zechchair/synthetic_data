@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: July 12, 2023
+Due Date: July 27, 2023
+Invoice Number: INV-2023-001
+Customer: Johnson Industries
+Address: 8660 Bunker Hill Parkway, Texas, USA
+Email: billing@johnsonindustries.com
+Description Quantity Unit Price Total
+Website Development 1 $2,200 $2,200
+Graphic Design 3 $180 $540
+Content Writing 5 $45 $225
+Subtotal: $2,965
+Tax (7%): $207.55
+Total Amount Due: $3,172.55
+Please make the payment on or before the due date mentioned above. If you have any questions or concerns, please don't hesitate to contact us at billing@johnsonindustries.com.

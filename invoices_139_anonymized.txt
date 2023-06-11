@@ -1,0 +1,22 @@
+Invoice 3:
+Invoice Number: INV-824537
+Date: June 16, 2019
+Bill To:
+Company Name: Lazz
+Address: 86 Commercial Trail, Illinois, Springfield, USA
+Phone: +1 (217) 974-7977
+Email: accounting@lazz.com
+Ship To:
+Company Name: Lazz
+Address: 86 Commercial Trail, Illinois, Springfield, USA
+Phone: +1 (217) 974-7977
+Email: orders@lazz.com
+Item Description Quantity Unit Price Total
+Mug    10 $6.00 $60.00
+Bottle 8 $7.00 $56.00
+Cup    6 $9.00 $54.00
+Subtotal: $170.00
+Tax: $15.30
+Shipping: $16.00
+Total: $201.30
+Payment is due upon receipt of this invoice. Thank you for your business!

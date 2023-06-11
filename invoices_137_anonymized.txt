@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: May 12, 2024
+Invoice Number: INV-2024-0512-87
+Customer Name: Mita
+Customer Address: 817 Elmside Hill, Texas, Waco, United States
+Billing Email: billing@mita.com
+Payment Due Date: June 12, 2024
+Item Description Quantity Unit Price Total
+Building Materials 480 $12 $5,760
+Labor (Construction) 75 $30 $2,250
+Equipment Rental 12 $90 $1,080
+Subtotal $9,090
+Sales Tax (7%) $636.30
+Total Due $9,726.30
+Please remit the payment for this invoice on or before the due date mentioned above. If you have any questions or need further assistance, please contact our billing department at billing@wilsoncontractors.com.

@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: July 25, 2023
+Invoice Number: INV-2023-0725-003
+Customer Name: Anderson's Bookstore
+Customer Address: 5 Forest Run Terrace, Kohlu, Pakistan	
+Billing Email: billing@andersonsbooks.com
+Payment Due Date: August 25, 2023
+Item Quantity Unit Price Total
+Fiction Books 5 $15 $75
+Non-fiction Books 3 $20 $60
+Children's Books 2 $10 $20
+Subtotal: $155
+Sales Tax (8%): $12.40
+Total Due: $167.40
+Thank you for choosing Anderson's Bookstore. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@andersonsbooks.com.

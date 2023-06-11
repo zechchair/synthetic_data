@@ -1,0 +1,32 @@
+Contract 2:
+Employment Contract
+Contract Name: Pseudotech Sales Representative Employment Agreement
+This Employment Contract ("Contract") is made and entered into on this 20th day of September 2023 ("Effective Date"), by and between:
+Employer:
+Company Name: Pseudotech Corporation
+Registered Address: 789 Sales Lane, Promoville, USA
+Represented by: Emily Thompson, HR Manager
+Employee:
+Name: David Anderson
+Address: 987 Sales Boulevard, Advertstown, USA
+Position and Terms of Employment:
+Position: Sales Representative
+Date of Commencement: October 1, 2023
+Probationary Period: 90 days
+Employment Type: Full-time
+Salary: $70,000 per annum
+Terms and Conditions:
+Duties and Responsibilities:
+The Employee shall be responsible for generating sales leads, developing client relationships, and achieving sales targets.
+The Employee shall report to the Sales Manager and follow all company policies and procedures.
+Compensation:
+The Employee shall receive a monthly salary of $5,500, paid on the first working day of each month.
+The salary shall be subject to applicable taxes and deductions.
+Benefits:
+The Employee shall be eligible for health insurance, retirement benefits, and paid time off as per the company's policies.
+Confidentiality and Non-Disclosure:
+The Employee shall maintain the confidentiality of all proprietary and confidential information belonging to the Employer.
+Termination:
+Either party may terminate the employment by providing a written notice of 30 days.
+The Employer reserves the right to terminate the employment without notice in cases of gross misconduct or breach of contract.
+Governing

@@ -1,0 +1,4 @@
+Invoice No. Date Customer Name Description Quantity Rate Amount
+INV-540 2022-01-07 Kevin Lee Content Writing 3 $100 $300
+INV-541 2022-01-08 Nicole Wong Branding Consultation 1 $1,500 $1,500
+INV-542 2022-01-09 James Kim Photography Services 4 $250 $1,000

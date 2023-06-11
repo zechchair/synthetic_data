@@ -1,0 +1,40 @@
+Contract 1:
+Purchase Contract
+Contract Name: Oceanic Furniture Purchase Agreement
+This Purchase Contract ("Contract") is entered into on this 5th day of May 2023 ("Effective Date"), by and between:
+Buyer:
+Company Name: Luxe Interiors Inc.
+Registered Address: 123 Elegance Street, Opulent City, USA
+Represented by: Victoria Reynolds, Procurement Manager
+Seller:
+Company Name: Oceanic Furnishings Ltd.
+Registered Address: 456 Seaside Avenue, Coastalville, USA
+Represented by: Benjamin Hayes, Sales Director
+Details of the Product:
+Product: Milano Leather Sofa Set
+Quantity: 10 sets
+Unit Price: $5,000
+Total Price: $50,000
+Terms and Conditions:
+Payment Terms:
+The Buyer shall make a 50% down payment of $25,000 upon signing this Contract.
+The remaining balance of $25,000 shall be paid within 30 days from the date of delivery.
+Delivery:
+The Seller shall deliver the sofa sets to the Buyer's showroom within 14 business days from the Effective Date.
+The Seller shall be responsible for packaging and transportation costs.
+Product Specifications:
+The sofa sets shall conform to the specifications outlined in the Buyer's purchase order and the Seller's product catalog.
+Inspection and Acceptance:
+The Buyer shall have 5 business days from the date of delivery to inspect the sofa sets.
+If any sets are found to be damaged or not as per the specifications, the Seller shall replace them at no additional cost.
+Title and Risk of Loss:
+The title and risk of loss shall transfer to the Buyer upon delivery and acceptance of the sofa sets.
+Warranty:
+The Seller provides a warranty period of 1 year from the date of delivery, covering any manufacturing defects.
+Governing Law:
+This Contract shall be governed by and construed in accordance with the laws of the State of California.
+Agreed and accepted by:
+Buyer: Seller:
+Signature: ________________ Signature: ________________
+Name: Victoria Reynolds Name: Benjamin Hayes
+Title: Procurement Manager Title: Sales Director

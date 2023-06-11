@@ -1,0 +1,21 @@
+Invoice 2:
+Invoice Number: INV-20230618-035
+Date: June 18, 2023
+Bill To:
+Customer Name: Calvin Gentery
+Address: 1946 Loeprich Court, Braga, Calvos, Portugal
+Email: Calvin.gentery@outlook.com
+Phone: +351 (875) 860-0551
+Ship To:
+0 Kings Parkway, Setúbal, Foros da Catrapona, Portugal
+Item Quantity Rate Amount
+Web design 4 $110 $440
+Social media posts 3 $160 $480
+Subtotal: $920
+Tax (6%): $55.2
+Total Amount: $975.2
+Payment Due By: July 18, 2023
+Please make checks payable to:
+Dabshots
+76042 Debs Way, Leiria, Castanheira de Pêra, Portugal
+If you have any questions, please contact us at billing@dabshots.com.

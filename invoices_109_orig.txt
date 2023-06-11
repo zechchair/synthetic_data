@@ -1,0 +1,18 @@
+Invoice 2:
+Quatz Corporation
+2 Washington Parkway, 
+Sukapura, Indonesia
+Phone: 778-571-4407
+Invoice No: INV-15042023
+Date: April 15, 2023
+Bill To:
+Jane Smith
+69 Gale Road, Île-de-France, Paris La Défense, France
+Description Qty Rate Amount
+Watch titanium 20 $10 $200
+Silver hero 30 $15 $450
+Shipping and Handling 1 $50 $50
+Subtotal: $700
+Tax (5%): $35
+Total: $735
+Thank you for your purchase!

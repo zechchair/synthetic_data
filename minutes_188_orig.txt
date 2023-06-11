@@ -1,0 +1,16 @@
+Date: July 3, 2023
+Time: 2:00 PM - 3:00 PM
+Location: Conference Room A
+Attendees:
+Tom Kim, Project Manager
+Emily Lee, Software Engineer
+Sarah Brown, Quality Assurance Analyst
+John Smith, UX Designer
+Agenda:
+Review of progress on software development
+Discussion of any issues or roadblocks
+Update on timeline for completion
+Minutes:
+Tom Kim presented the progress made on the software development project. The team discussed any challenges faced and solutions to overcome them.
+Sarah Brown raised concerns about the application's compatibility with older hardware. The team discussed the issue and made plans to test the software on older hardware to ensure compatibility.
+The team reviewed the timeline for completion and made adjustments to ensure the project is delivered on time.

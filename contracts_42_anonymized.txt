@@ -1,0 +1,11 @@
+Contract 2:
+Seller: SportsTech Fitness Solutions
+Buyer: Sarah Thompson
+Product: Elliptical Trainer
+Price: $1,999
+Payment Terms: 50% upfront, 50% on delivery
+Delivery Date: September 10, 2023
+Warranty: 2-year manufacturer's warranty
+Agreed by:
+Seller: SportsTech Fitness Solutions (signature)
+Buyer: Sarah Thompson (signature)

@@ -1,0 +1,9 @@
+Invoice 3:
+Invoice Number: INV-20200512-012
+Date: May 12, 2020
+Customer: Fitness First Center
+Address: 674 Nova Road, Poitou-Charentes, La Rochelle, France	
+Item Description: Personal Training Sessions
+Quantity: 10 sessions
+Rate: $60 per session
+Total Amount: $600

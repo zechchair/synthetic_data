@@ -1,0 +1,22 @@
+Invoice 3:
+Invoice Number: INV-20230610-579
+Date: June 10, 2023
+Bill To:
+Company Name: Jaxnation
+Address: 1656 Anderson Circle, Takatsuki, Japan	
+Phone: +81 (803) 663-7556
+Email: accounting@Jaxnation.com
+Ship To:
+Company Name: Jamia
+Address: 75 Luster Road, Ube, Japan	
+Phone: +81 (803) 663-5353
+Email: orders@Jamia.com
+Item Quantity Unit Price Total Price
+Product D 10 $8.00 $80.00
+Product E 8 $10.00 $80.00
+Product F 6 $12.00 $72.00
+Subtotal: $232.00
+Tax: $20.88
+Shipping: $20.00
+Total: $272.88
+Payment is due upon receipt of this invoice. Thank you for your business!

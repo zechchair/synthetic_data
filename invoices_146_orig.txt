@@ -1,0 +1,10 @@
+Invoice #11
+Name: Orson Phipson
+Address: 1 Tomscot Crossing, Södermanland, Katrineholm, Sweden	
+Invoice Date: January 11, 2010
+Invoice Number: INV-92747
+Item Description: Social Media Content Creation
+Quantity: 32 posts
+Rate: $120/post
+Total: $3,840
+Notes: Designed and created engaging social media content for client's platforms, including copy and graphics.

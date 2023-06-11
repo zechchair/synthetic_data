@@ -1,0 +1,21 @@
+Invoice 2:
+Invoice Number: INV-20200218-524
+Date: February 18, 2020
+Bill To:
+Customer Name: Karina Cursons
+Address: 02 Stephen Junction, Palca, Peru
+Email: karina.@gmail.com
+Phone: +51 (430) 918-4761
+Ship To:
+Shipping Address: 06 Acker Crossing, Simbal, Peru	
+Item Quantity Rate Amount
+Web design 5 $100 $500
+Social media posts 2 $150 $300
+Subtotal: $800
+Tax (6%): $48.00
+Total Amount: $848.00
+Payment Due By: March 18, 2020
+Please make checks payable to:
+Talane
+0487 Hagan Pass, Lincha, Peru
+If you have any questions, please contact us at billing@talane.com.

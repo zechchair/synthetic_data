@@ -1,0 +1,10 @@
+Contract 2:
+Seller: James Brown
+Buyer: Emily Johnson
+Product: Apple MacBook Pro, Model: M1, Serial Number: 9876543210
+Purchase Price: $1,500.00
+Payment Method: Credit Card
+Delivery Date: September 1, 2023
+Condition: New with original packaging and all accessories.
+Seller's Representations: The seller is an authorized retailer of Apple products and the MacBook Pro is new and genuine.
+Buyer's Representations: The buyer has reviewed the specifications and agrees to purchase the MacBook Pro.

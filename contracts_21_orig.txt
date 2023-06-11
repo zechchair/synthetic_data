@@ -1,0 +1,17 @@
+Contract 2:
+Landlord: Evergreen Realty
+Tenant: Michael Anderson
+Rental Property: Meadowbrook Apartments, Unit 204
+Lease Term: 9 months
+Date: December 10, 2023
+Residential Lease Agreement
+Meadowbrook Apartments, Unit 204
+This Residential Lease Agreement ("Agreement") is made and entered into between Evergreen Realty ("Landlord") and Michael Anderson ("Tenant") on December 10, 2023, for the rental property located at Meadowbrook Apartments, Unit 204.
+Lease Term
+The lease term shall commence on December 15, 2023, and shall continue for a period of nine (9) months, terminating on September 14, 2024, unless otherwise extended or terminated as per the terms outlined in this Agreement.
+Rent Payment
+The Tenant agrees to pay a monthly rent of $1,800, due on the first day of each month. Rent shall be paid by cash, check, or electronic transfer to the Landlord's designated bank account. Late rent payments shall incur a late fee of 3% of the total monthly rent.
+Security Deposit
+The Tenant shall provide a security deposit of $2,000 prior to occupancy. The security deposit will be held by the Landlord as security for any damages caused by the Tenant or for any unpaid rent. The deposit will be refunded within thirty (30) days of the lease termination, minus any deductions for damages or unpaid rent.
+Utilities
+The Tenant

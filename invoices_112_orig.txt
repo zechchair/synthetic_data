@@ -1,0 +1,21 @@
+Invoice 3:
+WillaMcSherry
+175 Green Ridge Alley,
+Montería, Colombia	
+Phone: (201) 553-0420
+Email: billing@Willa-mc.sherry.com	
+Invoice No: INV-20230518
+Date: May 18, 2023
+Bill To:
+David Johnson
+6374 Alpine Plaza, Tân Hòa, Vietnam	
+Phone: (558) 271-3238
+Email: davidjohnson@gmail.com
+Description Qty Rate Amount
+Electric scooter 10 $15 $150
+Wheels 5 $20 $100
+Brakes Z 2 $30 $60
+Subtotal: $310
+Tax (5%): $15.50
+Total: $325.50
+Thank you for your business!

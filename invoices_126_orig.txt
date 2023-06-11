@@ -1,0 +1,20 @@
+Invoice 3
+Customer Information
+Name: David Lee
+Address: 86 Commercial Trail, Illinois, Springfield, United States	
+Phone Number: +1 (217) 974-7977
+Email: davidlee@gmail.com
+Invoice Information
+Invoice Number: INV-2021-474
+Invoice Date: March 1, 2021
+Due Date: March 31, 2021
+Description: Marketing Consulting Services
+Quantity: 10 hours
+Rate: $150/hour
+Subtotal: $1,500.00
+Tax: $150.00
+Total: $1,650.00
+Payment Information
+Payment Method: PayPal
+PayPal Email: davidlee@gmail.com
+Amount Paid: $1,650.00

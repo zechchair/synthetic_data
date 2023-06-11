@@ -1,0 +1,28 @@
+Contract 1:
+Lease Agreement
+This Lease Agreement ("Agreement") is entered into on this 12th day of October, 2021, between the undersigned parties:
+Landlord: Silverwood Rentals Ltd.
+Address: 789 Pine Street, Cityville, PQR 12345
+Phone: (555) 987-6543
+Email: info@silverwoodrentals.com
+Tenant: Emma Wilson
+Address: 123 Cedar Avenue, Townsville, STU 56789
+Phone: (555) 321-4567
+Email: emma.wilson@email.com
+Property Information:
+Address: 456 Oak Street, Townsville, STU 56789
+Type: Residential House
+Term: 24 months
+Rent: $1,200 per month
+Deposit: $1,800
+Terms and Conditions:
+The Tenant agrees to pay the monthly rent in full on or before the first day of each month.
+The Tenant acknowledges receipt of the Property in good condition and agrees to maintain it in the same condition throughout the tenancy.
+The Landlord agrees to provide necessary repairs and maintenance promptly.
+The Tenant shall not sublet the Property without prior written consent from the Landlord.
+The Landlord may terminate the Agreement if the Tenant fails to comply with the terms and conditions herein.
+Signatures:
+Landlord:
+Silverwood Rentals Ltd.
+Tenant:
+Emma Wilson

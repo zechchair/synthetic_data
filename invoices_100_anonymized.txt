@@ -1,0 +1,12 @@
+Invoice 3:
+Sender: Visionary Image Studio
+Recipient: Demimbu Boutique
+Invoice Number: VIS-2021-45
+Date: May 10, 2021
+Due Date: May 25, 2021
+Itemized List:
+Product Photography: 12 hours @ $110/hour
+Editing and Retouching: $550
+Print Production: $250
+Total: $1,920
+Goal: The invoice is from Visionary Image Studio to Demimbu Boutique for product photography services rendered, including photography, editing and retouching, and print production.

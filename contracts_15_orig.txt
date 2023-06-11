@@ -1,0 +1,12 @@
+Rental Contract 2
+Contract Name: Maple Grove Vacation Rental Agreement
+Date: May 9, 2023
+This Vacation Rental Agreement (hereinafter referred to as the "Agreement") is entered into between:
+Property Owner: Mr. Robert Johnson, an individual residing at 1234 Pine Lane, Woodland Town, NY 12345.
+Renter: Mr. Michael Roberts, an individual residing at 5678 Oak Street, Cityville, NY 12345.
+Property: The Property Owner hereby rents to the Renter the vacation property located at 7890 Maple Grove Road, Woodland Town, NY 12345.
+Rental Period: The rental period shall commence on June 15, 2023, and shall continue for a duration of two weeks, ending on June 29, 2023.
+Rental Fee: The Renter shall pay a total rental fee of $2,000 (USD) for the two-week period, payable in full upon signing this Agreement.
+Security Deposit: The Renter shall provide a security deposit of $500 (USD) prior to the commencement of the rental period. The security deposit shall be returned to the Renter within 14 days after the end of the rental period, subject to any deductions for damages or additional charges incurred.
+House Rules: The Renter shall comply with the house rules provided by the Property Owner, including restrictions on the number of occupants, noise levels, and any other guidelines necessary to maintain the property's condition.
+Termination: This Agreement shall terminate automatically at the end of the rental period specified unless terminated earlier by mutual agreement of both parties.

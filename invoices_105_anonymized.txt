@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: December 10, 2023
+Invoice Number: INV-2023-1210-003
+Customer Name: Wilson's Consulting Firm
+Customer Address: 2534 Ronald Regan Pass, Las Vegas, USA
+Billing Email: billing@wilsonsconsulting.com
+Payment Due Date: January 10, 2024
+Item Description Quantity Unit Price Total
+Business Strategy Consulting 5 $250 $1,250
+Financial Analysis 1 $600 $600
+Market Research 3 $175 $525
+Subtotal $2,375
+Sales Tax (8%) $190
+Total Due $2,565
+Thank you for choosing Wilson's Consulting Firm for your business needs. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@wilsonsconsulting.com.

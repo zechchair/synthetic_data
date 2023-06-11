@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20230512-038
+Date: May 12, 2023
+Customer: Johnson's Consulting Firm
+Address: 0863 Westridge Point, Mococa, Brazil
+Item Description: Business Consultation
+Quantity: 2 hours
+Rate: $250 per hour
+Total Amount: $500

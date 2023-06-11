@@ -1,0 +1,23 @@
+Invoice #11
+Company: Tasty Delights Pastry Shop
+Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
+Date: July 17, 2022
+Invoice Number: 3055
+Bill To: Samantha Smith
+Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
+Date: July 17, 2022
+Item #1: Custom Cake - $175
+Item #2: Cupcakes - $55
+Item #3: Cookies - $30
+Subtotal: $260
+Tax: $26.00
+Total: $286.00
+Dear Samantha,
+Thank you for choosing Sweet Treats Bakery for your baked goods needs. We have provided the following products for your order:
+Custom Cake: We have created a custom cake according to your specifications, using the freshest ingredients and our expert baking skills.
+Cupcakes: We have provided a dozen cupcakes, each with a unique and delicious flavor, perfect for any occasion.
+Cookies: We have provided a dozen cookies, each with a homemade taste and texture, sure to satisfy your sweet tooth.
+We have provided these products on July 15, 2022. The total cost of these products, including taxes, comes to $286.00. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you for choosing Sweet Treats Bakery for your baked goods needs.
+Sincerely,
+The Tasty Delights Pastry Shop Team

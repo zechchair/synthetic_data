@@ -1,0 +1,15 @@
+Invoice 2:
+Invoice Date: November 10, 2022
+Invoice Number: INV-2022-1110-829
+Customer Name: Anderson's Supermarket
+Customer Address: 709 Dixon Alley, Palalang, Indonesia
+Billing Email: billing@andersonssupermarket.com
+Payment Due Date: December 10, 2022
+Item Description Quantity Unit Price Total
+Milk (1 gallon) 10 $4.50 $45
+Bread (Loaf) 20 $2.20 $44
+Eggs (Dozen) 5 $2.75 $13.75
+Subtotal $102.75
+Sales Tax (6%) $6.16
+Total Due $108.91
+Thank you for choosing Anderson's Supermarket. We kindly request that you submit the payment for this invoice on or before the due date mentioned above. If you have any questions or require further assistance, please contact our billing department at billing@andersonssupermarket.com.

@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20160522-5295
+Date: May 22, 2016
+Customer: Aivee
+Address: 72147 Loeprich Way, Magoúla, Greece
+Item Description: Auto Parts and Accessories
+Quantity: 12 units
+Rate: $90 per unit
+Total Amount: $1,080

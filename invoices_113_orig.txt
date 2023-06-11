@@ -1,0 +1,17 @@
+Invoice 1:
+Company: Greenway Landscaping Services
+Invoice Date: April 28, 2023
+Invoice Number: GLS-2023-1275
+Bill To:
+Customer Name: Oakview Homeowners Association
+Address: 3478 Weeping Birch Place, Gramoteino, Russia	
+Phone: +7 (811) 692-6265
+Email: billing@oakviewhoa.com
+Description:
+Item 1: Lawn Maintenance - Quantity: 4 visits - Unit Price: $250 - Total: $1,000
+Item 2: Hedge Trimming - Quantity: 1 visit - Unit Price: $200 - Total: $200
+Item 3: Mulch Delivery - Quantity: 10 cubic yards - Unit Price: $50 - Total: $500
+Subtotal: $1,700
+Tax: $119
+Total: $1,819
+Payment Due By: May 12, 2023

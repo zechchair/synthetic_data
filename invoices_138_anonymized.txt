@@ -1,0 +1,10 @@
+Invoice #17
+Name: Michael Brown
+Address: 817 Elmside Hill, Texas, Waco USA
+Invoice Date: Decembre 17, 2009
+Invoice Number: INV-74
+Item Description: Graphic Design Services
+Quantity: 15 designs
+Rate: $100/design
+Total: $1,500
+Notes: Designed a variety of graphics and visual assets for client's marketing materials, including logos, infographics, and social media posts.

@@ -1,0 +1,17 @@
+Invoice 1:
+Company: Browse drive
+Invoice Date: January 10, 2023
+Invoice Number: GLS-2023-7632
+Bill To:
+Customer Name: Amine Bouirida
+Address: 73129 Cordelia Park, Sidi Bousber, Morocco	
+Phone: +212 (846) 264-2089
+Email: Browsedrive
+Description:
+Item 1: Lawn Maintenance - Quantity: 4 visits - Unit Price: $100 - Total: $400
+Item 2: Tree Trimming - Quantity: 2 trees - Unit Price: $150/tree - Total: $300
+Item 3: Garden Design - Quantity: 1 project - Unit Price: $900 - Total: $900
+Subtotal: $1,600
+Tax (6%): $96
+Total: $1,696
+Payment Due By: February 30, 2023

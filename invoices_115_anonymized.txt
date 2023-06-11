@@ -1,0 +1,19 @@
+Invoice 1:
+Invoice Number: INV-20210221-02554
+Date: February 21, 2021
+Bill To:
+Customer Name: Smith & Co.
+Address: 97 Brentwood Parkway, Lisboa, São Pedro, Portugal
+Email: smithco@smith.com
+Phone:+351 (760) 383-2076
+Item Quantity Unit Price Amount
+Product A 5 $12 $60
+Product B 2 $18 $36
+Shipping $7
+Subtotal: $103
+Tax (7%): $7.21
+Total Amount: $110.21
+Payment Due By: March 21, 2021
+Please remit payment to the following address:
+RenadoRibou	
+2 Pine View Junction, Jönköping, Jönköping, Sweden

@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: December 15, 2008
+Invoice Number: INV-2008-1215-737
+Customer Name: Youspan
+Customer Address: 98 Mcguire Plaza, Solnice, Czech Republic
+Billing Email: billing@youspan.com
+Payment Due Date: January 15, 2009
+Item Description Quantity Unit Price Total
+Oil Change 4 $40 $160
+Brake Inspection 1 $30 $30
+Tire Rotation 2 $25 $50
+Subtotal $240
+Sales Tax (5%) $12
+Total Due $252
+Thank you for choosing Fivebridge Auto Repair. We appreciate your business and kindly request that you make the payment for this invoice on or before the due date mentioned above. If you have any questions or require further assistance, please contact our support department at support@fivebridge.com.

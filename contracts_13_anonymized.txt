@@ -1,0 +1,11 @@
+Rental Contract 2
+Contract Name: Cityscape Apartments Lease Agreement
+Date: July 15, 2023
+This Lease Agreement (hereinafter referred to as the "Agreement") is entered into between:
+Landlord: Urban Homes Inc., a company duly registered under the laws of the State of Metropolis, represented by Mr. Daniel Mitchell, residing at 1234 Parkside Drive, Metropolis, NY 67890.
+Tenant: Mr. Thomas Anderson, residing at 5678 Elmwood Lane, Metropolis, NY 67890.
+Property: The Landlord hereby leases to the Tenant a residential apartment located at 321 Cityscape Avenue, Metropolis, NY 67890 (hereinafter referred to as the "Apartment") for a term of one year, starting from August 1, 2023, to July 31, 2024.
+Rent Payment: The Tenant agrees to pay a monthly rent of $1,500 (USD) for the Apartment. Rent shall be due and payable on the first day of each month during the term of this Agreement.
+Utilities: The Tenant shall be responsible for all utility expenses, including electricity, gas, water, and any other utilities required for the Apartment, unless otherwise specified in writing by the Landlord.
+Maintenance and Repairs: The Landlord shall be responsible for all major repairs and maintenance of the Apartment. However, the Tenant shall be responsible for any damages caused by their negligence or intentional actions.
+Security Deposit: The Tenant shall deposit an amount of $2,000 (USD) as a security

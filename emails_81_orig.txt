@@ -1,0 +1,16 @@
+Email 3:
+Subject: Invitation to Product Launch Event
+From: Marketing Team marketingteam@globaltech.com
+To: Michael Roberts michael.roberts@example.com
+Dear Michael Roberts,
+We are thrilled to invite you to the exclusive unveiling of our latest innovation at GlobalTech. As a valued customer, we believe you would appreciate being among the first to witness the revolutionary technology that will shape the future of the industry.
+Event Details:
+Date: July 5, 2023
+Time: 6:00 PM - 8:00 PM
+Location: Innovation Center, GlobalTech Headquarters, 123 Innovation Avenue, Techville
+Join us for an engaging evening where you can explore the cutting-edge features of our new product, network with industry experts, and enjoy a cocktail reception. We are confident that this event will provide valuable insights and networking opportunities for technology enthusiasts like yourself.
+To secure your spot at this exclusive event, please RSVP by June 25th. Limited seats are available, and we encourage you to respond at your earliest convenience. Should you have any questions or require further information, please do not hesitate to contact our Marketing Team at marketingteam@globaltech.com.
+We look forward to welcoming you to the future of technology.
+Best regards,
+Marketing Team
+GlobalTech

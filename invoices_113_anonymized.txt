@@ -1,0 +1,17 @@
+Invoice 1:
+Company: Evergreen Solutions
+Invoice Date: May 28, 2020
+Invoice Number: ELS-2020-1275
+Bill To:
+Customer Name: Willowview Property Management
+Address: 260 Leroy Pass, Florida, Daytona Beach, USA	
+Phone: +1 (636) 337-4127
+Email: billing@willowviewpm.com
+Description:
+Item 1: Lawn Maintenance - Quantity: 4 visits - Unit Price: $200 - Total: $800
+Item 2: Hedge Trimming - Quantity: 1 visit - Unit Price: $250 - Total: $250
+Item 3: Mulch Delivery - Quantity: 12 cubic yards - Unit Price: $50 - Total: $600
+Subtotal: $1,650
+Tax: $120
+Total: $1,770
+Payment Due By: June 12, 2020

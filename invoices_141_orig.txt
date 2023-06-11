@@ -1,0 +1,22 @@
+Invoice 1:
+Invoice Number: INV-2023-5242
+Date: March 10, 2023
+Customer: Alta Moncrieffe
+Address: 0863 Westridge Point, Mococa, Brazil	
+Email: AltaMoncrieffe@outlook.com
+Phone: +55 (895) 851-6859
+Bill To:
+Kanoodle Co
+0863 Westridge Point, Mococa, Brazil	
+Description Quantity Unit Price Total
+Consulting Services 10 hours $150 $1,500
+Web Development 5 hours $100 $500
+Graphic Design 10 hours $75 $750
+Maintenance Services 1 hours $50 $50
+Subtotal: $2,800
+Tax (7%): $196
+Total: $2996
+Payment Terms: Net 30 days
+Payment Method: Check
+Please make the payment by April 9, 2023.
+Thank you for your business!

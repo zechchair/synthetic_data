@@ -1,0 +1,12 @@
+Contract 2:
+Employment Contract between David Thompson and Stellar Solutions
+Date of Contract: August 12, 2023
+Position: Software Developer
+This employment agreement (the "Agreement") is made between David Thompson (the "Employee") and Stellar Solutions (the "Employer") on the date stated above.
+The Employee agrees to work as a Software Developer for the Employer. The Employee's duties will include, but are not limited to, developing software, testing software, and troubleshooting software issues.
+The Employee will receive an annual salary of $62,000, to be paid in bi-weekly installments. The Employee will be eligible for health insurance, dental insurance, and a 401(k) plan.
+The Employer may terminate the Employee's employment at any time for any reason. The Employee may terminate his employment by giving the Employer two weeks' notice.
+This Agreement constitutes the entire understanding of the parties and supersedes all prior discussions and agreements between them.
+Signed:
+David Thompson (Employee)
+Emma Wilson (Representative of Stellar Solutions)

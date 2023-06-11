@@ -1,0 +1,21 @@
+Invoice #9
+Company: Green Cleaners
+Address: 713 Rigney Center, Dubu, China
+Date: June 9, 2006
+Invoice Number: 0275
+Bill To: Emily Davis
+Address: 46 Helena Drive, Eshan, China
+Item #1: Deep Cleaning - $180
+Item #2: Carpet Cleaning - $135
+Item #3: Window Cleaning - $90
+Subtotal: $405
+Tax: $40.50
+Total: $445.50
+Dear Emily,
+Thank you for choosing Green Cleaners for your cleaning needs. We have provided the following services for your home:
+Deep Cleaning: We have thoroughly cleaned and sanitized your home, including dusting, vacuuming, and disinfecting all surfaces.
+Carpet Cleaning: We have cleaned your carpets using our eco-friendly cleaning solution, removing any stains and dirt and leaving your carpets looking fresh and new.
+Window Cleaning: We have cleaned all of your windows, inside and out, ensuring they are spotless and crystal clear.
+Please let us know if you have any questions or concerns. We appreciate your business!
+Sincerely,
+Green Cleaners

@@ -1,0 +1,26 @@
+Contract 1:
+Contract Name: Confidentiality Agreement for Business Partners
+This Confidentiality Agreement (the "Agreement") is made and entered into this 1st day of July, 2023 (the "Effective Date"), by and between:
+Disclosing Party:
+GlobalTech Corporation, a corporation organized and existing under the laws of the State of California, with its principal place of business at 123 Innovation Avenue, San Francisco, California 94101, represented by Mr. Benjamin Thompson, hereinafter referred to as the "Disclosing Party."
+Receiving Party:
+Tech Innovations Inc., a corporation organized and existing under the laws of the State of New York, with its principal place of business at 456 Tech Road, New York, New York 10001, represented by Ms. Sarah Johnson, hereinafter referred to as the "Receiving Party."
+WHEREAS, the Disclosing Party possesses certain confidential information related to its business operations;
+WHEREAS, the Receiving Party desires to access and use the confidential information for the purpose of evaluating a potential business partnership;
+NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Disclosing Party and the Receiving Party hereby agree as follows:
+Definition of Confidential Information: The term "Confidential Information" shall include any non-public information, trade secrets, business strategies, financial data, technical specifications, or other proprietary information disclosed by the Disclosing Party to the Receiving Party.
+Non-Disclosure and Non-Use: The Receiving Party shall not disclose or use the Confidential Information for any purpose other than the evaluation of the potential business partnership. The Receiving Party shall exercise reasonable care to protect the Confidential Information from unauthorized access, use, or disclosure.
+Exceptions: The obligations of confidentiality shall not apply to information that:
+a) Was already known to the Receiving Party prior to its disclosure by the Disclosing Party;
+b) Becomes publicly available without breach of this Agreement;
+c) Is received from a third party without any obligation of confidentiality;
+d) Is required to be disclosed by law or court order.
+Return of Information: Upon request or termination of discussions between the parties, the Receiving Party shall promptly return or destroy all tangible and electronic copies of the Confidential Information, including any notes or summaries thereof.
+Governing Law and Jurisdiction: This Agreement shall be governed by and construed in accordance with the laws of the State of California. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California.
+IN WITNESS WHEREOF, the parties have executed this Confidentiality Agreement as of the Effective Date.
+GlobalTech Corporation
+Benjamin Thompson
+Authorized Representative
+Tech Innovations Inc.
+Sarah Johnson
+Authorized Representative

@@ -1,0 +1,5 @@
+Confidentiality Contract 3:
+Contract Name: Mutual Non-Disclosure Agreement between InnovateTech Inc. and SecureData Solutions
+This Mutual Non-Disclosure Agreement ("Agreement") is made and entered into this 10th day of July 2023 (the "Effective Date"), by and between InnovateTech Inc., a corporation organized and existing under the laws of Nevada, with its principal place of business at 567 Pine Street, Cityville, USA ("Party A"), and SecureData Solutions, a limited liability company organized and existing under the laws of Texas, with its principal place of business at 890 Cedar Avenue, Townsville, USA ("Party B").
+Purpose: Party A and Party B (collectively referred to as the "Parties") desire to exchange certain confidential and proprietary information for the purpose of exploring potential business opportunities.
+Confidentiality Obligations: Each

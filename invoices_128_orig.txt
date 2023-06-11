@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20220616-745
+Date: June 16, 2022
+Customer: Smith's Legal Services
+Address: 4844 Fallview Parkway, Florianópolis, Brazil	
+Item Description: Legal Consultation
+Quantity: 2 hours
+Rate: $300 per hour
+Total Amount: $600

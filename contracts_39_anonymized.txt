@@ -1,0 +1,7 @@
+Lease Contract 2:
+Contract Name: Commercial Lease Agreement between Silver Square Inc. and NebulaTech Solutions
+This Commercial Lease Agreement ("Agreement") is made and entered into this 1st day of November 2024 (the "Effective Date"), by and between Silver Square Inc., a corporation organized and existing under the laws of California, with its principal place of business at 789 Willow Street, Townsville, USA ("Landlord"), and NebulaTech Solutions, a corporation organized and existing under the laws of New York, with its principal place of business at 456 Maple Avenue, Somewhere City, USA ("Tenant").
+Premises: Landlord hereby leases to Tenant, and Tenant hereby rents from Landlord, a commercial space located at Suite 101, Silver Square, 123 Main Street, Townsville, USA (the "Premises").
+Term: The initial term of this lease shall be for three years, commencing on the Effective Date and ending on the 30th day of November 2027, unless otherwise extended or terminated as provided in this Agreement.
+Rent and Payment: Tenant agrees to pay a monthly rent of $3,500, payable in advance on the first day of each month, without demand, to Landlord at the address specified in this Agreement.
+Maintenance and Repairs: Tenant shall be responsible for the maintenance and repairs of the interior of the Premises, while Landlord shall be responsible for the maintenance and repairs of the common areas of the building.

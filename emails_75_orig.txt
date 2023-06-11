@@ -1,0 +1,6 @@
+Email 29:
+From: Robert Mitchell robert.mitchell@example.com
+To: Sarah Johnson sarah.johnson@example.com
+Subject: Invitation to Panel Discussion - Future of Artificial Intelligence
+Dear Sarah,
+I hope this email finds you well.

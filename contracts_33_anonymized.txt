@@ -1,0 +1,9 @@
+Contract 3:
+Seller: Redwood Motors
+Buyer: James Thompson
+Date: May 10, 2025
+Vehicle Purchase Agreement
+Redwood Motors
+This Vehicle Purchase Agreement ("Agreement") is made and entered into between Redwood Motors ("Seller") and James Thompson ("Buyer") on May 10, 2025.
+Vehicle Description
+The Seller agrees to sell and the Buyer agrees to purchase a used 2016 Honda Accord, VIN: 123456

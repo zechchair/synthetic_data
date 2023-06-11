@@ -1,0 +1,22 @@
+Invoice 1:
+Invoice Number: INV-20230928-724
+Date: September 28, 2022
+Bill To:
+Company Name: Emerald Enterprises
+Address: 69 Gale Road, Île-de-France, Paris La Défense, France	
+Phone: 538-103-5388
+Email: billing@emeraldent.com
+Ship To:
+Company Name: Emerald Enterprises
+Address: 8 Bashford Crossing, Rhône-Alpes, Cluses, France	
+Phone: 538-103-5388
+Email: billing@emeraldent.com
+Description Quantity Unit Price Total Price
+Wifi Router 4 $12.00 $48.00
+Keyboard 2 $25.00 $50.00
+Mouse C 1 $18.00 $18.00
+Subtotal: $116.00
+Tax: $10.44
+Shipping: $8.00
+Total: $134.44
+Please remit payment by december 13, 2023. Thank you for your business!

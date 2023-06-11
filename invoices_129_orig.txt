@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: April 5, 2023
+Invoice Number: INV-2023-0405-72
+Customer Name: Anderson Consulting Services
+Customer Address: 954 7th Crossing, Andalucia, Dos Hermanas, Spain
+Billing Email: billing@andersonconsulting.com
+Payment Due Date: May 5, 2023
+Item Description Quantity Unit Price Total
+Business Analysis 8 $150 $1,200
+Project Management 5 $200 $1,000
+Software Development 3 $300 $900
+Subtotal $3,100
+Sales Tax (8%) $248
+Total Due $3,348
+Thank you for choosing Anderson Consulting Services. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@andersonconsulting.com.

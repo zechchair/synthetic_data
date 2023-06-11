@@ -1,0 +1,23 @@
+Purchase Contract 2
+This Purchase Agreement ("Agreement") is made and entered into as of [New Date], by and between the following parties:
+Seller:
+Name: Michael Johnson
+Address: 123 Elm Street, Cityville, ABC-123
+Company: Johnson Realty
+Buyer:
+Name: Emily Wilson
+Address: 456 Maple Avenue, Hamletown, DEF-456
+Company: Wilson Properties
+Property Details:
+Address: 789 Pine Lane, Villagetown, XYZ-789
+Type: Commercial Property
+Purchase Price: $[New Purchase Price]
+Payment Terms:
+The Buyer agrees to pay the Purchase Price in the following manner:
+Initial Deposit: $[New Initial Deposit] to be paid upon signing this Agreement.
+Installments: The remaining amount of $[New Remaining Amount] shall be paid in [New Number of Installments] equal installments, with the first installment due on [New Due Date].
+Closing:
+The closing of the purchase transaction shall take place on [New Closing Date] at a location agreed upon by both parties.
+Representations and Warranties:
+a. Seller's Representations: The Seller represents that they have the authority to sell the property and there are no liens or encumbrances on the property.
+b. Buyer's Representations: The Buyer represents that they have the necessary funds to complete the transaction.

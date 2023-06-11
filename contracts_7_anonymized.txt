@@ -1,0 +1,10 @@
+Confidentiality Contract 2
+Contract Name: ZetaCorp Solutions Non-Disclosure Agreement
+Date: August 17, 2023
+This Non-Disclosure Agreement (hereinafter referred to as the "Agreement") is entered into between:
+Disclosing Party: ZetaCorp Solutions Ltd., a company duly registered under the laws of the State of Novum, represented by Ms. Emily Collins, residing at 1234 Progress Boulevard, Novum, CA 67890.
+Receiving Party: Mr. William Johnson, an individual residing at 5678 Innovation Lane, Novum, CA 67890.
+Definition of Confidential Information: The term "Confidential Information" shall include any proprietary or confidential information disclosed by the Disclosing Party to the Receiving Party, including, but not limited to, technical data, business plans, marketing strategies, and client information.
+Non-Disclosure Obligations: The Receiving Party agrees to maintain the Confidential Information received from the Disclosing Party in strict confidence. The Receiving Party shall not disclose or use the Confidential Information for any purpose other than as necessary to fulfill the intended business relationship between the parties.
+Non-Compete Agreement: The Receiving Party agrees not to engage in any business activities that directly compete with the services offered by the Disclosing Party for a period of two years from the date of this Agreement.
+Permitted Disclosure: The Receiving Party may disclose the Confidential Information to its employees,

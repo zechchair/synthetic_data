@@ -1,0 +1,26 @@
+Contract 1:
+Residential Lease Agreement
+This Residential Lease Agreement ("Agreement") is made and entered into on this 12th day of September, 2021, between the undersigned parties:
+Landlord: Evergreen Realty Inc.
+Address: 789 Evergreen Street, Greenfield, PQR 12345
+Phone: (555) 678-9012
+Email: info@evergreenrealty.com
+Tenant: Olivia Adams
+Address: 456 Oak Avenue, Maplewood, STU 98765
+Phone: (555) 901-2345
+Email: olivia.adams@email.com
+Property: 123 Elm Street, Apartment 3C, Maplewood, STU 98765
+Lease Term: 1 year
+Monthly Rent: $900
+Security Deposit: $1,000
+Terms and Conditions:
+The Tenant agrees to pay the monthly rent on or before the 1st day of each month.
+The Landlord shall be responsible for the maintenance and repairs of the property.
+The Tenant shall not make any alterations or modifications to the property without the written consent of the Landlord.
+The Tenant shall comply with all applicable laws, rules, and regulations during the tenancy.
+This Agreement shall be governed by and construed in accordance with the laws of the state of PQR.
+Signatures:
+Landlord:
+Evergreen Realty Inc.
+Tenant:
+Olivia Adams

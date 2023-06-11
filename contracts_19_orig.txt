@@ -1,0 +1,21 @@
+Contract 1:
+Contract Name: Sales Agreement for Software License
+This Sales Agreement (the "Agreement") is made and entered into this 1st day of September, 2023 (the "Effective Date"), by and between:
+Seller:
+Innovative Software Solutions Inc., a corporation organized and existing under the laws of the State of California, with its principal place of business at 123 Technology Avenue, San Francisco, California 94101, hereinafter referred to as the "Seller."
+Buyer:
+Tech Ventures LLC, a limited liability company organized and existing under the laws of the State of New York, with its principal place of business at 456 Innovation Road, New York, New York 10001, hereinafter referred to as the "Buyer."
+WHEREAS, the Seller owns and develops a proprietary software application known as "InnovaTech CRM";
+WHEREAS, the Buyer desires to purchase a license for the use of the InnovaTech CRM software;
+NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Seller and the Buyer hereby agree as follows:
+License Grant: The Seller hereby grants the Buyer a non-exclusive, non-transferable license to use the InnovaTech CRM software for internal business purposes. The license is limited to the number of user accounts specified in Exhibit A.
+License Fee: In consideration for the license grant, the Buyer shall pay a one-time license fee of $50,000 (USD) to the Seller. The payment shall be made within 30 days of the Effective Date.
+Support and Maintenance: The Seller shall provide technical support and software updates to the Buyer for a period of one year from the Effective Date, free of charge. After the one-year period, the Buyer may choose to renew the support and maintenance services at the prevailing rates.
+Ownership and Restrictions: The Buyer acknowledges that the InnovaTech CRM software and all related intellectual property rights are owned by the Seller. The Buyer shall not modify, reverse engineer, or distribute the software without the prior written consent of the Seller.
+Warranty and Disclaimer: The Seller warrants that the InnovaTech CRM software shall operate in accordance with the specifications provided. However, the Seller disclaims all other warranties, whether expressed or implied, including but not limited to fitness for a particular purpose and non-infringement.
+Governing Law and Jurisdiction: This Agreement shall be governed by and construed in accordance with the laws of the State of California. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California.
+IN WITNESS WHEREOF, the parties have executed this Sales Agreement as of the Effective Date.
+Innovative Software Solutions Inc.
+Authorized Representative
+Tech Ventures LLC
+Authorized Representative

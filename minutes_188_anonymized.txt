@@ -1,0 +1,16 @@
+Date: September 14, 2023
+Time: 10:00 AM - 11:00 AM
+Location: Conference Room B
+Attendees:
+David Rodriguez, Project Manager
+Alice Green, Software Engineer
+Daniel Taylor, Quality Assurance Analyst
+Michelle Johnson, UX Designer
+Agenda:
+Review of progress on software development
+Discussion of any issues or roadblocks
+Update on timeline for completion
+Minutes:
+David Rodriguez presented the progress made on the software development project. The team discussed any challenges faced and solutions to overcome them.
+Daniel Taylor raised concerns about the application's compatibility with older hardware. The team discussed the issue and made plans to test the software on older hardware to ensure compatibility.
+The team reviewed the timeline for completion and made adjustments to ensure the project is delivered on time.

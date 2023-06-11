@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: February 14, 2023
+Invoice Number: INV-2023-0214-001
+Customer Name: Smith & Partners Law Firm
+Customer Address: 4 Grasskamp Point, Île-de-France, Paris 09, France
+Billing Email: billing@smithandpartners.com
+Payment Due Date: March 14, 2023
+Item Description Quantity Unit Price Total
+Legal Consultation 5 $200 $1,000
+Document Review 2 $150 $300
+Court Representation 1 $500 $500
+Subtotal $1,800
+Sales Tax (9%) $162
+Total Due $1,962
+Please remit the payment for this invoice on or before the due date mentioned above. If you have any questions or need further assistance, please contact our billing department at billing@smithandpartners.com.

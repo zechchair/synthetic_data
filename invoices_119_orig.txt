@@ -1,0 +1,17 @@
+Invoice 1:
+Company: Ossie Hymas
+Address: 42387 Stoughton Way, Hufang, China	
+Invoice Number: INV20230516-658
+Date: May 16, 2023
+Bill To:
+John Doe
+099 Burrows Road, Matina, Costa Rica
+Description Quantity Unit Price Total
+Product A 5 units $20 $100
+Product B 2 units $30 $60
+Shipping and Handling $10 $10
+Subtotal: $170
+Tax (7%): $11.90
+Total: $181.90
+Payment terms: Due upon receipt.
+Thank you for your business!

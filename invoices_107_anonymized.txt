@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: November 10, 2023
+Invoice Number: INV-2023-1110-001
+Customer Name: Johnson's Electronics
+Customer Address: 45 Duke Plaza, Gotland, Visby, Sweden
+Billing Email: billing@johnsonselectronics.com
+Payment Due Date: December 10, 2023
+Item Description Quantity Unit Price Total
+Power Drill 2 $110 $220
+Screwdriver Set 1 $55 $55
+Hammer 3 $30 $90
+Subtotal $365
+Sales Tax (7%) $25.55
+Total Due $390.55
+Please remit the payment for this invoice on or before the due date mentioned above. If you have any questions or need further assistance, please contact our billing department at billing@johnsonselectronics.com.

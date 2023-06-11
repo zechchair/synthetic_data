@@ -1,0 +1,15 @@
+Contract 3:
+Vacation Rental Agreement
+This Vacation Rental Agreement ("Agreement") is entered into on this 18th day of August, 2023, between the undersigned parties:
+Landlord: Coastal Getaways
+Address: 9 Bellgrove Avenue, Las Vegas, Venezuela
+Phone:+58 (666) 342-5047
+Email: reservations@coastalgetaways.com
+Tenant: Ive Phalp
+Address: 13 Shasta Crossing, Yangdang,Venezuela
+Phone: +58 (666) 423-6926
+Email: Ive.phalp@outlook.com
+Property Information:
+Address: 580 Randy Center, Alzamay, Venezuela
+Type: Vacation Home
+Term: 1 week (August 25th, 2023 - September 1st, 2023)

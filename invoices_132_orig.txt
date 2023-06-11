@@ -1,0 +1,21 @@
+Invoice #9
+Company: EcoFriendly Cleaning
+Address: 9138 Badeau Hill, Dengfang, China
+Date: January 9, 2023
+Invoice Number: 1009
+Bill To: Samantha Johnson
+Address: 72398 Warbler Place, Luopu, China
+Item #1: Deep Cleaning - $200
+Item #2: Carpet Cleaning - $150
+Item #3: Window Cleaning - $100
+Subtotal: $450
+Tax: $45
+Total: $495
+Dear Samantha,
+Thank you for choosing EcoFriendly Cleaning for your cleaning needs. We have provided the following services for your home:
+Deep Cleaning: We have thoroughly cleaned and sanitized your home, including dusting, vacuuming, and disinfecting all surfaces.
+Carpet Cleaning: We have cleaned your carpets using our eco-friendly cleaning solution, removing any stains and dirt and leaving your carpets looking fresh and new.
+Window Cleaning: We have cleaned all of your windows, inside and out, ensuring they are spotless and crystal clear.
+Please let us know if you have any questions or concerns. We appreciate your business!
+Sincerely,
+EcoFriendly Cleaning

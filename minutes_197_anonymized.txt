@@ -1,0 +1,16 @@
+Date: November 15, 2023
+Time: 2:00 PM - 3:00 PM
+Location: Virtual Meeting
+Attendees:
+David Johnson, Project Manager
+Emma Davis, Software Engineer
+Sophia Wilson, Quality Assurance Analyst
+Daniel Thompson, UX Designer
+Agenda:
+Review of project plan
+Discussion of any issues or risks
+Update on next steps
+Minutes:
+David Johnson presented the project plan and progress made so far. The team reviewed the plan and made necessary changes.
+Sophia Wilson raised concerns about the project's timeline and suggested ways to mitigate the risk of delays. The team discussed and made plans to address the issue.
+The team discussed the next steps and assigned responsibilities for completing the project within the given timeline.

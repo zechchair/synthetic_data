@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20230621-044
+Date: July 21, 2023
+Customer: Johnson's Bookstore
+Address: 2 Hintze Junction, Bordeau, France
+Item Description: IT Consulting Services
+Quantity: 6 hours
+Rate: $150 per hour
+Total Amount: $900

@@ -1,0 +1,21 @@
+Invoice #4
+Company: BlueSprout
+Address: 9033 Clyde Gallagher Circle, Kastrat, Albania	
+Date: July 4, 2002
+Invoice Number: 7282
+Bill To: Emily Davis
+Address:9 Little Fleur Junction, Kastrat, Albania	
+Item #1: Lawn Maintenance Service - $180
+Item #2: Tree Pruning - $120
+Item #3: Leaf Cleanup - $90
+Subtotal: $390
+Tax: $39
+Total: $429
+Dear Emily,
+Thank you for choosing BlueSprout for your lawn care needs. We have provided the following services as per our agreement:
+Lawn Mowing Service: We have mowed your lawn to the desired height and also trimmed the edges for a clean look.
+Tree Trimming: We have trimmed the overgrown branches from your trees for safety and aesthetics.
+Leaf Removal: We have cleared the leaves and debris from your yard, ensuring a neat and tidy appearance.
+We have provided these services on May 1, 2023. The total cost of these services, including taxes, comes to $495. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you,
+The BlueSprout Team

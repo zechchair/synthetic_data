@@ -1,0 +1,11 @@
+Email 2:
+Subject: Important Update: Password Reset Request
+From: Security Team securityteam@yourcompany.com
+To: John Johnson john.johnson@example.com
+Dear John Johnson,
+We recently received a request to reset the password for your account at YourCompany. To ensure the security of your account, we are sending you this email to verify the password reset.
+If you initiated this request, please click on the following link to proceed with the password reset process: [insert password reset link]. If you did not request this change, please disregard this email, and your password will remain unchanged.
+As a precautionary meaThank you for your attention to this matter.
+Best regards,
+Security Team
+YourCompany

@@ -1,0 +1,25 @@
+Meeting Date: April 25, 2023
+Meeting Time: 2:30 PM - 3:45 PM
+Location: Conference Room B, Yodoo Co.
+Attendees:
+Dr. Catherine Reed (Project Manager)
+David Collins (Software Engineer)
+Jennifer Parker (UX Designer)
+Robert Ramirez (Business Analyst)
+Agenda:
+Project Status Update
+User Interface Redesign
+QA and Testing Plan
+Discussion on Stakeholder Feedback
+Minutes:
+The meeting started at 2:30 PM, with Dr. Catherine Reed leading the discussion. All attendees were present and actively participated in the meeting.
+Agenda Item 1: Project Status Update
+Dr. Catherine Reed provided an overview of the project status, highlighting milestones achieved, tasks pending, and any roadblocks encountered. The team members shared their progress and discussed potential solutions for the challenges faced.
+Agenda Item 2: User Interface Redesign
+Jennifer Parker presented the proposed user interface redesign. She showcased wireframes and explained the rationale behind the changes. The team discussed the usability aspects and provided suggestions for improvement.
+Agenda Item 3: QA and Testing Plan
+David Collins discussed the QA and testing plan for the project. He outlined the testing phases, including functional testing, integration testing, and user acceptance testing. The team provided feedback and shared ideas for enhancing the testing process.
+Agenda Item 4: Discussion on Stakeholder Feedback
+Robert Ramirez presented the feedback received from key stakeholders. He summarized the concerns, suggestions, and expectations expressed by the stakeholders. The team members discussed potential actions to address the feedback and ensure stakeholder satisfaction.
+Conclusion:
+The meeting concluded at 3:45 PM with a summary of the action items and responsibilities assigned to each team member. Dr. Catherine Reed thanked everyone for their active participation. The next meeting was scheduled for May 10, 2023

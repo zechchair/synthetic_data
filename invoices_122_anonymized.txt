@@ -1,0 +1,12 @@
+Invoice 2:
+Invoice Number: 65454
+Date: 02/04/2023
+Bill To:
+Marlon Fabbro
+78 Holmberg Crossing,
+Shahumyan, Armenia	
+Description Quantity Rate Amount
+Website Hosting 1 year $250.00 $250.00
+Domain Registration 1 year $30.00 $30.00
+Email Hosting 1 year $150.00 $150.00
+Total: $430.00

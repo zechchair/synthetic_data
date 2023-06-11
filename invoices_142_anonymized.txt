@@ -1,0 +1,17 @@
+Invoice 1:
+Company: Livepath
+Invoice Date: June 12, 2022
+Invoice Number: ELS-2022-7632
+Bill To:
+Customer Name: Gav Kelle
+Address: 959 Shasta Place, British Columbia, Fruitvale, Canada	
+Phone: +1 (787) 476-7586
+Email: billing@Livepath.com
+Description:
+Item 1: Lawn Maintenance - Quantity: 4 visits - Unit Price: $150 - Total: $600
+Item 2: Tree Trimming - Quantity: 2 trees - Unit Price: $200/tree - Total: $400
+Item 3: Garden Design - Quantity: 1 project - Unit Price: $800 - Total: $800
+Subtotal: $1,800
+Tax (6%): $108
+Total: $1,908
+Payment Due By: June 30, 2022

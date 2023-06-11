@@ -1,0 +1,20 @@
+Invoice 3
+Customer Information
+Name: John Smith
+Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
+Phone Number: +1 (636) 337-4127
+Email: johnsmith@outlook.com
+Invoice Information
+Invoice Number: INV-2020-574
+Invoice Date: May 10, 2020
+Due Date: May 31, 2020
+Description: Marketing Consulting Services
+Quantity: 8 hours
+Rate: $175/hour
+Subtotal: $1,400.00
+Tax: $140.00
+Total: $1,540.00
+Payment Information
+Payment Method: PayPal
+PayPal Email: johnsmith@outlook.com
+Amount Paid: $1,540.00

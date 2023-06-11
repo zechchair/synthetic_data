@@ -1,0 +1,20 @@
+Invoice #15
+Company: Elite Cleaning Services
+Address: 6662 Armistice Junction, Louisiana, Lafayette, United States	
+Date: May 15, 2023
+Invoice Number: 1015
+Bill To: Susan Lee
+Address: 635 Pine Ave, Texas, Waco, United States
+Item #1: House Cleaning - $150
+Item #2: Window Cleaning - $75
+Subtotal: $225
+Tax: $22.50
+Total: $247.50
+Dear Susan,
+Thank you for choosing Elite Cleaning Services for your cleaning needs. We have provided the following services for your home:
+House Cleaning: We have thoroughly cleaned your home, including dusting, vacuuming, and cleaning of all surfaces and appliances.
+Window Cleaning: We have cleaned all of your windows, inside and out, leaving them spotless and streak-free.
+We have provided these services on May 15, 2023. The total cost of these services, including taxes, comes to $247.50. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you for choosing Elite Cleaning Services for your cleaning needs.
+Sincerely,
+The Elite Cleaning Services Team

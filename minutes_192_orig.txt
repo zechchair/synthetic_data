@@ -1,0 +1,21 @@
+Structure: Attendees, Agenda, Discussion, Action items
+Content: Marketing strategy
+Length: 1 page
+Business Domain: Advertising
+Attendees:
+Jane Smith
+John Doe
+Bob Johnson
+Sam Lee
+Agenda:
+Introductions
+Review of current marketing strategy
+Brainstorming new ideas
+Assign action items
+Discussion:
+Jane presented the current marketing strategy and identified areas for improvement
+The team brainstormed new ideas, including partnering with influencers and using social media advertising
+Bob and Sam were assigned to research potential influencers while John will lead the social media advertising campaign
+Action items:
+Bob and Sam will present their influencer research at the next meeting
+John will provide an update on the social media advertising campaign progress

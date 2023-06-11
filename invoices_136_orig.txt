@@ -1,0 +1,18 @@
+Invoice 2:
+Invoice Number: 73634
+Date: August 16, 2023
+Bill To:
+Company Name: Hetti Wilkerson
+Address: 92 Memorial Park, Tha Mai, Thailand	
+Phone: +66 (956) 247-5219
+Email: billing@HettiWilkerson.com
+
+Item Quantity Unit Price Total Price
+Website   2 $100.00 $200.00
+Keyboard  3 $150.00 $450.00
+laptops   1 $200.00 $200.00
+Subtotal: $850.00
+Tax: $76.50
+Shipping: $25.00
+Total: $951.50
+Please make payment within 30 days of the invoice date. Thank you for your business!

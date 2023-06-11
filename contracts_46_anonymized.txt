@@ -1,0 +1,12 @@
+Contract 2:
+Sales Contract between Emily Johnson and ABC Electronics Ltd.
+Date of Contract: October 15, 2023
+Product: Dishwasher
+This Sales Contract (the "Agreement") is made on the date stated above, between Emily Johnson (the "Buyer") and ABC Electronics Ltd. (the "Seller").
+The Buyer agrees to purchase one Dishwasher from the Seller, which will be delivered to the Buyer's address within 14 days of the date of this Agreement. The purchase price for the Dishwasher is $1,800, payable in full at the time of delivery.
+The Seller warrants that the Dishwasher will be free from defects in material and workmanship for a period of one year from the date of delivery.
+In the event of any defects in the Dishwasher, the Seller will repair or replace the Dishwasher at no additional charge to the Buyer, provided that the defect is not caused by misuse or negligence on the part of the Buyer.
+This Agreement constitutes the entire understanding of the parties and supersedes all prior discussions and agreements between them.
+Signed:
+Emily Johnson (Buyer)
+Michael Harris (Sales Representative, ABC Electronics Ltd.)

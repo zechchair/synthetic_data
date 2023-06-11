@@ -1,0 +1,22 @@
+Invoice #11
+Company: Sweet Treats Bakery
+Address: 316 Hagan Point, North Carolina, Charlotte, United States
+Date: May 11, 2023
+Invoice Number: 1011
+Bill To: Jane Doe
+Address: 316 Hagan Point, North Carolina, Charlotte, United States
+Item #1: Custom Cake - $150
+Item #2: Cupcakes - $50
+Item #3: Cookies - $25
+Subtotal: $225
+Tax: $22.50
+Total: $247.50
+Dear Jane,
+Thank you for choosing Sweet Treats Bakery for your baked goods needs. We have provided the following products for your order:
+Custom Cake: We have created a custom cake according to your specifications, using the freshest ingredients and our expert baking skills.
+Cupcakes: We have provided a dozen cupcakes, each with a unique and delicious flavor, perfect for any occasion.
+Cookies: We have provided a dozen cookies, each with a homemade taste and texture, sure to satisfy your sweet tooth.
+We have provided these products on May 8, 2023. The total cost of these products, including taxes, comes to $247.50. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you for choosing Sweet Treats Bakery for your baked goods needs.
+Sincerely,
+The Sweet Treats Bakery Team

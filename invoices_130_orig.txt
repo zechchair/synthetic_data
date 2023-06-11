@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20220209-525
+Date: February 9, 2022
+Customer: Smith's Printing Solutions
+Address: 3855 Nevada Lane, Puebla, Guadalupe, Mexico	
+Item Description: Printing and Copying Services
+Quantity: 500 copies
+Rate: $0.10 per copy
+Total Amount: $50

@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: October 12, 2022
+Invoice Number: INV-2022-1012-37
+Customer Name: Johnson & Co. Consulting
+Customer Address: 16248 Lawn Parkway, Madrid, Madrid, Spain
+Billing Email: billing@johnsonandco.com
+Payment Due Date: November 12, 2022
+Item Description Quantity Unit Price Total
+Business Analysis 8 $160 $1,280
+Project Management 5 $210 $1,050
+Software Development 3 $320 $960
+Subtotal $3,290
+Sales Tax (9%) $296.10
+Total Due $3,586.10
+Thank you for choosing Johnson & Co. Consulting. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonandco.com.

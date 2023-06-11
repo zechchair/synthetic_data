@@ -1,0 +1,40 @@
+Contract 1:
+Purchase Contract
+Contract Name: Verdant Furniture Purchase Agreement
+This Purchase Contract ("Contract") is entered into on this 14th day of September 2023 ("Effective Date"), by and between:
+Buyer:
+Company Name: Opulent Designs Ltd.
+Registered Address: 789 Magnolia Avenue, Splendorville, USA
+Represented by: Emily Bennett, Procurement Manager
+Seller:
+Company Name: Azure Furnishings Inc.
+Registered Address: 321 Seabreeze Street, Coastal Haven, USA
+Represented by: Michael Anderson, Sales Director
+Details of the Product:
+Product: Royale Leather Sofa Set
+Quantity: 15 sets
+Unit Price: $6,500
+Total Price: $97,500
+Terms and Conditions:
+Payment Terms:
+The Buyer shall make a 50% down payment of $48,750 upon signing this Contract.
+The remaining balance of $48,750 shall be paid within 45 days from the date of delivery.
+Delivery:
+The Seller shall deliver the sofa sets to the Buyer's showroom within 21 business days from the Effective Date.
+The Seller shall be responsible for packaging and transportation costs.
+Product Specifications:
+The sofa sets shall conform to the specifications outlined in the Buyer's purchase order and the Seller's product catalog.
+Inspection and Acceptance:
+The Buyer shall have 7 business days from the date of delivery to inspect the sofa sets.
+If any sets are found to be damaged or not as per the specifications, the Seller shall replace them at no additional cost.
+Title and Risk of Loss:
+The title and risk of loss shall transfer to the Buyer upon delivery and acceptance of the sofa sets.
+Warranty:
+The Seller provides a warranty period of 2 years from the date of delivery, covering any manufacturing defects.
+Governing Law:
+This Contract shall be governed by and construed in accordance with the laws of the State of New York.
+Agreed and accepted by:
+Buyer: Seller:
+Signature: ________________ Signature: ________________
+Name: Emily Bennett Name: Michael Anderson
+Title: Procurement Manager Title: Sales Director

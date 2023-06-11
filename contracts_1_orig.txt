@@ -1,0 +1,15 @@
+Contract 3:
+Vacation Rental Agreement
+This Vacation Rental Agreement ("Agreement") is entered into on this 18th day of May, 2023, between the undersigned parties:
+Landlord: Seaside Vacation Rentals
+Address: 6 Sugar Road, La Unión, Venezuela
+Phone: +56 (646) 634-6464
+Email: reservations@seasidevacations.com
+Tenant: Nelly Steinson	
+Address: 25631 Ryan Junction, Santa Rita, Venezuela	
+Phone: +58 (840) 812-3450
+Email: Nelly.steinson@gmail.com
+Property Information:
+Address: 9 Clove Trail, Mirimire, Venezuela
+Type: Vacation Home
+Term: 1 week (May 20th, 2023 - May 27th, 2023)

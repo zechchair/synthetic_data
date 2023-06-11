@@ -1,0 +1,12 @@
+Email 1:
+Subject: Invitation to Exclusive Art Exhibition
+From: Gallery Events events@artgallery.com
+To: Emma Thompson emma.thompson@gmail.com
+Dear Emma Thompson,
+We are delighted to extend a special invitation to you for the opening reception of our upcoming art exhibition, "Expressions of Nature." This highly anticipated event will feature renowned artists from around the world, showcasing their captivating interpretations of the natural world through various art forms.
+Event Details:
+Date: [Event Date]
+Time: [Event Time]
+Venue: [Art Gallery Name]
+Address: [Gallery Address]
+The opening reception will provide a unique opportunity to meet the artists, explore their incredible artwork, and engage in thought-prov

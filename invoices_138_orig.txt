@@ -1,0 +1,10 @@
+Invoice #17
+Name: John Davis
+Address: 6662 Armistice Junction, Louisiana, Lafayette, USA
+Invoice Date: March 17, 2023
+Invoice Number: INV-906
+Item Description: Graphic Design Services
+Quantity: 10 designs
+Rate: $500/design
+Total: $5,000
+Notes: Designed a variety of graphics and visual assets for client's marketing materials, including logos, infographics, and social media posts.

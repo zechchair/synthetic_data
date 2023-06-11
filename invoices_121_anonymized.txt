@@ -1,0 +1,9 @@
+Invoice 1:
+Invoice Number: INV-20200221-835
+Date: February 21, 2020
+Customer: Smith's Supplies
+Address: 53 Southridge Lane, Caitang, China	
+Item Description: Plumbing Fixtures and Accessories
+Quantity: 10 units
+Rate: $110 per unit
+Total Amount: $1,100

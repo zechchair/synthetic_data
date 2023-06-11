@@ -1,0 +1,10 @@
+Invoice 1
+| Invoice No. | Date       | Due Date   | Customer Name        | Total Amount |
+|-------------|------------|------------|----------------------|--------------|
+| INV-001     | 2021-07-15 | 2021-08-15 | John's Auto Service | $1,400.00    |
+| Item Description           | Quantity | Price/Unit | Amount |
+|-----------------------------|----------|-------------|---------|
+| Engine Repair             | 1         | $800.00     | $800.00 |
+| Oil Change & Filter      | 1         | $50.00      | $50.00   |
+| Transmission Replacement | 1         | $350.00     | $350.00 |
+| Labor Charge              | 4         | $50.00      | $200.00 |

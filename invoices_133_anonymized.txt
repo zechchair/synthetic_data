@@ -1,0 +1,10 @@
+Invoice 1
+| Invoice No. | Date | Due Date | Customer Name | Total Amount |
+|-------------|------------|------------|-------------------|--------------|
+| INV-001 | 2023-01-05 | 2023-02-05 | Smith's Auto Care | $1,600.00 |
+| Item Description | Quantity | Price/Unit | Amount |
+|---------------------------|----------|-------------|---------|
+| Engine Maintenance | 1 | $900.00 | $900.00 |
+| Oil Change & Filter | 1 | $60.00 | $60.00 |
+| Transmission Repair | 1 | $400.00 | $400.00 |
+| Labor Cost | 4 | $60.00 | $240.00 |

@@ -1,0 +1,8 @@
+Invoice 2
+Invoice To: John Smith
+Invoice From: Lajo Corporation
+Description Amount
+Website Design $7,500.00
+Maintenance Fees $1,200.00
+Sales Tax $975.00
+Total Amount: $9,675.00

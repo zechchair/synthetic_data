@@ -1,0 +1,21 @@
+Invoice #4
+Company: GreenLeaf
+Address: 6 Hintze Parkway, Banjar Pande, Indonesia	
+Date: June 4, 2023
+Invoice Number: 1004
+Bill To: Susan Johnson
+Address: 7579 Birchwood Road, Sarongan, Indonesia
+Item #1: Lawn Maintenance Service - $200
+Item #2: Tree Pruning - $150
+Item #3: Leaf Cleanup - $100
+Subtotal: $450
+Tax: $45
+Total: $495
+Dear Susan,
+Thank you for choosing GreenLeaf for your lawn care needs. We have provided the following services as per our agreement:
+Lawn Mowing Service: We have mowed your lawn to the desired height and also trimmed the edges for a clean look.
+Tree Trimming: We have trimmed the overgrown branches from your trees for safety and aesthetics.
+Leaf Removal: We have cleared the leaves and debris from your yard, ensuring a neat and tidy appearance.
+We have provided these services on May 1, 2023. The total cost of these services, including taxes, comes to $495. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you,
+The GreenLeaf Team

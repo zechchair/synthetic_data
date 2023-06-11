@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: November 5, 2023
+Invoice Number: INV-2023-1105-003
+Customer Name: Johnson's Accounting Services
+Customer Address: 5097 Kensington Pass, Newyork, USA
+Billing Email: billing@johnsonsaccounting.com
+Payment Due Date: December 5, 2023
+Item Description Quantity Unit Price Total
+Financial Consulting 5 $200 $1,000
+Tax Preparation 1 $500 $500
+Bookkeeping Services 3 $150 $450
+Subtotal $1,950
+Sales Tax (8%) $156
+Total Due $2,106
+Thank you for choosing Johnson's Accounting Services for your financial needs. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonsaccounting.com.

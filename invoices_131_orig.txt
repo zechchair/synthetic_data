@@ -1,0 +1,24 @@
+Invoice 2:
+Invoice Number: INV-2023-825
+Date: January 8, 2023
+Due Date: January 30, 2023
+Bill To:
+Company Name: Alpha Electronics
+Address: 4472 Forest Dale Lane, Québec, Dorval, Canada
+Email: billing@alphaelectronics.com
+Phone: +1 (258) 976-9277
+Description Quantity Unit Price Total
+Smart TVs (Model: STV-1001) 5 $500 $2,500
+Home Theater Systems (Model: HTS-2022) 2 $800 $1,600
+Speaker Set (Model: SS-55) 4 $150 $600
+Subtotal: $4,700
+Tax (5%): $235
+Shipping: $100
+Total: $5,035
+Payment Details:
+Payment Method: Bank Transfer
+Account Name: Alpha Electronics
+Account Number: 987654321
+Bank Name: City Bank
+Branch Code: 12345
+Please ensure the payment is made by the due date mentioned on the invoice. We appreciate your business!

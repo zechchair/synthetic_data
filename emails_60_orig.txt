@@ -1,0 +1,6 @@
+Email 3:
+From: Richard Adams richard.adams@example.com
+To: Jennifer Roberts jennifer.roberts@example.com
+Subject: Urgent: Account Payment Due
+Dear Jennifer,
+I hope this email finds you well. We are writing to remind you about the pending payment for your account with Adams & Co. As of the last billing cycle, your outstanding balance amounts to $2,500. Payment for this invoice was due on April

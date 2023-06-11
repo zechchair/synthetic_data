@@ -1,0 +1,22 @@
+Invoice 3:
+Invoice Number: INV-9854328
+Date: March 16, 2023
+Bill To:
+Company Name: Topiclounge
+Address: 861 Mayfield Lane, Pennsylvania, Wilkes Barre, USA
+Phone: +1 (253) 530-6617
+Email: accounting@Topiclounge.com
+Ship To:
+Company Name: Topiclounge
+Address: 861 Mayfield Lane, Pennsylvania, Wilkes Barre, USA
+Phone: +1 (253) 530-6617
+Email: orders@Topiclounge.com
+Item Description Quantity Unit Price Total
+Mug    10 $5.00 $50.00
+Bottle 8 $8.00 $64.00
+Cup    6 $10.00 $60.00
+Subtotal: $174.00
+Tax: $15.66
+Shipping: $15.00
+Total: $204.66
+Payment is due upon receipt of this invoice. Thank you for your business!

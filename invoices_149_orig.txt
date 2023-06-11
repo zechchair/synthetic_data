@@ -1,0 +1,15 @@
+Invoice 3:
+Invoice Date: November 12, 2023
+Invoice Number: INV-2023-1112-4242
+Customer Name: Devcast
+Customer Address: 750 Judy Circle, Provincie Zuid-Holland, Delft, Netherlands
+Billing Email: billing@devcast.com
+Payment Due Date: December 22, 2023
+Item Description Quantity Unit Price Total
+Oil Change 3 $30 $90
+Brake Inspection 1 $50 $50
+Tire Rotation 2 $20 $40
+Subtotal $180
+Sales Tax (6%) $10.80
+Total Due $190.80
+Thank you for choosing Eamia Auto Repair. We appreciate your business and kindly request that you make the payment for this invoice on or before the due date mentioned above. If you have any questions or require further assistance, please contact our support department at support@eamia.com.

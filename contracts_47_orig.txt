@@ -1,0 +1,26 @@
+Contract 1:
+Residential Lease Agreement
+This Residential Lease Agreement ("Agreement") is made and entered into on this 12th day of May, 2023, between the undersigned parties:
+Landlord: Hillside Properties LLC
+Address: 123 Hillside Avenue, Cityville, ABC 45678
+Phone: (555) 123-4567
+Email: info@hillsideproperties.com
+Tenant: Emma Johnson
+Address: 456 Main Street, Townsville, XYZ 98765
+Phone: (555) 987-6543
+Email: emma.johnson@email.com
+Property: 789 Elm Street, Apartment 2B, Townsville, XYZ 98765
+Lease Term: 1 year
+Monthly Rent: $1,200
+Security Deposit: $1,500
+Terms and Conditions:
+The Tenant agrees to pay the monthly rent on or before the 1st day of each month.
+The Landlord shall be responsible for the maintenance and repairs of the property.
+The Tenant shall not make any alterations or modifications to the property without the written consent of the Landlord.
+The Tenant shall comply with all applicable laws, rules, and regulations during the tenancy.
+This Agreement shall be governed by and construed in accordance with the laws of the state of ABC.
+Signatures:
+Landlord:
+Hillside Properties LLC
+Tenant:
+Emma Johnson

@@ -1,0 +1,20 @@
+Invoice #15
+Company: Sparkling Cleaners
+Address: 817 Elmside Hill, Texas, Waco, United States	
+Date: September 8, 2023
+Invoice Number: 3032
+Bill To: Emily Thompson
+Address: 03862 Pawling Point, Texas, Waco, United States
+Item #1: House Cleaning - $185
+Item #2: Window Cleaning - $90
+Subtotal: $275
+Tax: $27.50
+Total: $302.50
+Dear Emily,
+Thank you for choosing Sparkling Cleaners for your cleaning needs. We have provided the following services for your home:
+House Cleaning: We have thoroughly cleaned your home, including dusting, vacuuming, and cleaning of all surfaces and appliances.
+Window Cleaning: We have cleaned all of your windows, inside and out, leaving them spotless and streak-free.
+We have provided these services on September 8, 2023. The total cost of these services, including taxes, comes to $302.50. We have attached an invoice for your records. Please let us know if you have any questions or concerns.
+Thank you for choosing Sparkling Cleaners for your cleaning needs.
+Sincerely,
+The Sparkling Cleaners Team

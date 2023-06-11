@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: January 5, 2023
+Due Date: January 20, 2023
+Invoice Number: INV-2023-001
+Customer: Smith Enterprises
+Address: 60496 Steensland Crossing, Los angles, USA
+Email: billing@smithenterprises.com
+Description Quantity Unit Price Total
+Website Development 1 $2,500 $2,500
+Graphic Design 3 $200 $600
+Content Writing 5 $50 $250
+Subtotal: $3,350
+Tax (7%): $234.50
+Total Amount Due: $3,584.50
+Please make the payment on or before the due date mentioned above. If you have any questions or concerns, please don't hesitate to contact us at billing@smithenterprises.com.

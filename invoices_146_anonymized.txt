@@ -1,0 +1,10 @@
+Invoice #11
+Name: Joice Durbridge
+Address: 56071 Spenser Way, Požarevac, Serbia
+Invoice Date: April 22, 2023
+Invoice Number: INV-56252
+Item Description: Social Media Content Creation
+Quantity: 25 posts
+Rate: $80/post
+Total: $2,000
+Notes: Designed and created engaging social media content for client's platforms, including copy and graphics.

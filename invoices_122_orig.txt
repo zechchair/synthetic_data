@@ -1,0 +1,12 @@
+Invoice 2:
+Invoice Number: 45324
+Date: 07/15/2021
+Bill To:
+Nowell Bechley
+442 Beilfuss Center,
+Zhaxirabdain, China	
+Description Quantity Rate Amount
+Website Hosting 1 year $500.00 $500.00
+Domain Registration 1 year $50.00 $50.00
+Email Hosting 1 year $200.00 $200.00
+Total: $750.00

@@ -1,0 +1,10 @@
+Invoice #16
+Name: Emma Smith
+Address: 429 Jenifer Pass, Ontario, Toronto, Canada	
+Invoice Date: May 16, 2008
+Invoice Number: INV-111362
+Item Description: Content Writing Services
+Quantity: 50 articles
+Rate: $100/article
+Total: $5,000
+Notes: Created high-quality, SEO-friendly content for client's website, covering a wide range of topics in their industry.

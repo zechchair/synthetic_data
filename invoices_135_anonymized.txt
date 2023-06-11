@@ -1,0 +1,20 @@
+Invoice #1
+Company: Yakijo
+Address: 09 Grover Parkway, Munjungan, Indonesia
+Phone: +62 (966) 601-7858
+Email: info@Yakijo.com
+Invoice No: INV-20230110
+Date: January 10, 2023
+Bill To:
+Margareta Sapwell
+747 Maple Avenue, Munjungan, Indonesia	
+Phone: +62 (695) 509-6548
+Email: MargaretaSapwell@Yakijo.com
+Item Description Quantity Amount
+Web design 6 $300
+Marketing  2 $90
+Deployment 3 $120
+Subtotal: $510
+Tax (7%): $35,7
+Total: $545,7
+Please make the payment by February 30, 2023. Thank you for your business!

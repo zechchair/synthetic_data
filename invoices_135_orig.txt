@@ -1,0 +1,20 @@
+Invoice 1:
+Twinder
+2376 Twin Pines Terrace, Tebara, Indonesia
+Phone: +62 (272) 781-9465
+Email: info@Twinder.com
+Invoice No: INV-20230616
+Date: June 16, 2023
+Bill To:
+Gawain Caston
+709 Dixon Alley, Palalang, Indonesia	
+Phone: +62 (587) 621-3619
+Email: GawainCaston@Twinder.com
+Item Description Quantity Amount
+Web design 5 $50
+Marketing  3 $45
+Deployment 2 $40
+Subtotal: $135
+Tax (7%): $9.45
+Total: $144.45
+Please make the payment by May 30, 2023. Thank you for your business!

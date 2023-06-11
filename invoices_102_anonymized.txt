@@ -1,0 +1,8 @@
+Invoice 2
+Invoice To: Sarah Johnson
+Invoice From: Midel Enterprises
+Description: Amount
+Product Development: $8,200.00
+Technical Support: $1,500.00
+Sales Tax: $1,032.50
+Total Amount: $10,732.50

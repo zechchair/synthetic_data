@@ -1,0 +1,19 @@
+Invoice 1:
+Invoice Number: INV-20230521-85578
+Date: May 21, 2023
+Bill To:
+Customer Name: FreddySkein Corporation
+Address:25404 Scott Lane, Besole, Indonesia	
+Email: FreddySkeincorp@example.com
+Phone: +62 (520) 833-1221
+Item Quantity Unit Price Amount
+Product A 5 $10 $50
+Product B 2 $15 $30
+Shipping $5
+Subtotal: $85
+Tax (6%): $5.10
+Total Amount: $90.10
+Payment Due By: June 21, 2023
+Please remit payment to the following address:
+EdivaWhal Corporation
+060 Gale Trail, Kuala Lumpur, Kuala Lumpur, Malaysia

@@ -1,0 +1,12 @@
+Contract 2:
+Sales Contract between Sarah Williams and XYZ Appliances Inc.
+Date of Contract: July 1, 2023
+Product: Refrigerator
+This Sales Contract (the “Agreement”) is made on the date stated above, between Sarah Williams (the “Buyer”) and XYZ Appliances Inc. (the “Seller”).
+The Buyer agrees to purchase one Refrigerator from the Seller, which will be delivered to the Buyer's address within 14 days of the date of this Agreement. The purchase price for the Refrigerator is $1,200, payable in full at the time of delivery.
+The Seller warrants that the Refrigerator will be free from defects in material and workmanship for a period of one year from the date of delivery.
+In the event of any defects in the Refrigerator, the Seller will repair or replace the Refrigerator at no additional charge to the Buyer, provided that the defect is not caused by misuse or negligence on the part of the Buyer.
+This Agreement constitutes the entire understanding of the parties and supersedes all prior discussions and agreements between them.
+Signed:
+Sarah Williams (Buyer)
+David Lee (Sales Representative, XYZ Appliances Inc.)

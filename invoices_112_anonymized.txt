@@ -1,0 +1,21 @@
+Invoice 3:
+RandolphCamblin
+90652 Roxbury Street,
+Ambanja, Madagascar	
+Phone: (633) 582-9389
+Email: billing@Randolph-camblin.com
+Invoice No: INV-20231105
+Date: November 5, 2023
+Bill To:
+Michael Smith
+1052 Del Mar Crossing, Mariano Moreno, Argentina
+Phone: (280) 438-9220
+Email: michaelsmith@outlook.com
+Description Qty Rate Amount
+Product X 10 $12 $120
+Product Y 5 $18 $90
+Product Z 2 $25 $50
+Subtotal: $260
+Tax (5%): $13.00
+Total: $273.00
+Thank you for your business!

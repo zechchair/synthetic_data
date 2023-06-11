@@ -1,0 +1,11 @@
+Email 3:
+From: Emily Wilson emily.wilson@email.com
+To: Support Team support@company.com
+Subject: Request for Technical Assistance
+Dear Support Team,
+I hope this email finds you well. I am experiencing some technical difficulties with the software I purchased from your company. I would appreciate your assistance in resolving the issue.
+The problem I am facing is that the software frequently crashes when I attempt to save large files. This has resulted in the loss of important data, causing significant inconvenience and productivity loss.
+Could you please guide me on how to troubleshoot this issue or provide a software update to resolve the problem? I rely on this software for my work, and it is crucial that it functions reliably.
+Thank you for your attention to this matter. I appreciate your prompt assistance in rectifying the situation.
+Best regards,
+Emily Wilson

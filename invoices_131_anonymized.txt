@@ -1,0 +1,24 @@
+Invoice 2:
+Invoice Number: INV-2000-736
+Date: January 15, 2000
+Due Date: February 10, 2000
+Bill To:
+Company Name: Zeta Solutions
+Address: 0 Sugar Circle, Braga, Seara, Portugal	
+Email: billing@zetasolutions.com
+Phone: +351 (375) 352-7196
+Description Quantity Unit Price Total
+Smart TVs (Model: STV-2002) 5 $450 $2,250
+Home Theater Systems (Model: HTS-2001) 2 $700 $1,400
+Speaker Set (Model: SS-66) 4 $125 $500
+Subtotal: $4,150
+Tax (6%): $249
+Shipping: $80
+Total: $4,479
+Payment Details:
+Payment Method: Credit Card
+Account Name: Zeta Solutions
+Account Number: 123456789
+Bank Name: Town Bank
+Branch Code: 54321
+Please ensure the payment is made by the due date mentioned on the invoice. We appreciate your business!

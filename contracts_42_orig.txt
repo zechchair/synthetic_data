@@ -1,0 +1,11 @@
+Contract 2:
+Seller: FitForLife Gym Equipment
+Buyer: Rachel Jackson
+Product: Treadmill
+Price: $1,199
+Payment Terms: 50% upfront, 50% on delivery
+Delivery Date: June 15, 2023
+Warranty: 2-year manufacturer's warranty
+Agreed by:
+Seller: FitForLife Gym Equipment (signature)
+Buyer: Rachel Jackson (signature)

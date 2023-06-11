@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: June 9, 2023
+Invoice Number: INV-2023-0609-002
+Customer Name: Anderson & Associates Legal Services
+Customer Address: 5563 Lunder Hill, Korisós, Greece	
+Billing Email: billing@andersonlegal.com
+Payment Due Date: July 9, 2023
+Item Description Quantity Unit Price Total
+Legal Consultation 3 $250 $750
+Document Review 1 $175 $175
+Court Representation 2 $600 $1,200
+Subtotal $2,125
+Sales Tax (7%) $148.75
+Total Due $2,273.75
+Please remit the payment for this invoice on or before the due date mentioned above. If you have any questions or need further assistance, please contact our billing department at billing@andersonlegal.com.

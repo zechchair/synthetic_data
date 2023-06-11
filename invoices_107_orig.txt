@@ -1,0 +1,15 @@
+Invoice 1:
+Invoice Date: August 23, 2023
+Invoice Number: INV-2023-0823-001
+Customer Name: Smith's Hardware Store
+Customer Address: 14402 Florence Point, Ketapang, Indonesia	
+Billing Email: billing@smithshardware.com
+Payment Due Date: September 23, 2023
+Item Description Quantity Unit Price Total
+Power Drill 2 $100 $200
+Screwdriver Set 1 $50 $50
+Hammer 3 $25 $75
+Subtotal $325
+Sales Tax (7%) $22.75
+Total Due $347.75
+Please submit the payment for this invoice on or before the due date mentioned above. If you have any questions or need further assistance, please contact our billing department at billing@smithshardware.com.

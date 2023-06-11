@@ -1,0 +1,18 @@
+Invoice 2:
+Gabcube Corporation
+2314 Eagle Crest Lane, 
+Huanchillas, Argentina
+Phone: 	246-580-0163
+Invoice No: INV-10052023
+Date: May 10, 2023
+Bill To:
+John Doe
+8796 Susan Court, Île-de-France, Sainte-Geneviève-des-Bois, France	
+Description Qty Rate Amount
+Watch titanium 20 $12 $240
+Silver hero 30 $18 $540
+Shipping and Handling 1 $40 $40
+Subtotal: $820
+Tax (5%): $41
+Total: $861
+Thank you for your purchase!

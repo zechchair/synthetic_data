@@ -1,0 +1,22 @@
+Invoice 3:
+Invoice Number: INV-20230516-309
+Date: May 16, 2023
+Bill To:
+Company Name: Jabbercube
+Address: 20 Elka Plaza, Obama, Japan	
+Phone: +81 (813) 735-8339
+Email: accounting@Jabbercube.com
+Ship To:
+Company Name: Quimba
+Address: 27 Kipling Road, Toyonaka, Japan
+Phone: +81 (813) 735-8364
+Email: orders@Quimba.com
+Item Quantity Unit Price Total Price
+Product D 10 $5.00 $50.00
+Product E 8 $8.00 $64.00
+Product F 6 $10.00 $60.00
+Subtotal: $174.00
+Tax: $15.66
+Shipping: $15.00
+Total: $204.66
+Payment is due upon receipt of this invoice. Thank you for your business!

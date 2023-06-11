@@ -1,0 +1,10 @@
+Invoice #16
+Name: Emily Jones
+Address: 570 Loomis Court, Alberta, Calmar, Canada	
+Invoice Date: March 20, 2023
+Invoice Number: INV-53592
+Item Description: Content Writing Services
+Quantity: 10 articles
+Rate: $200/article
+Total: $2,000
+Notes: Created high-quality, SEO-friendly content for client's website, covering a wide range of topics in their industry.

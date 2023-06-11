@@ -1,0 +1,10 @@
+Confidentiality Contract 2
+Company Name: Brilliant Innovations Ltd.
+Employee Name: Emily Anderson
+Confidential Information: Financial Reports
+Effective Date: September 12th, 2023
+Term: 3 years
+This confidentiality agreement (the "Agreement") is made on September 12th, 2023, between Brilliant Innovations Ltd. (the "Company") and Emily Anderson (the "Employee"). The Company desires to disclose to the Employee certain Confidential Information (as defined below) for the purpose of assisting the Company in financial planning. In consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+Confidential Information. "Confidential Information" shall mean any and all financial reports, projections, assessments, or any other proprietary information that is designated as confidential by the Company.
+Non-Disclosure and Non-Use. The Employee agrees to hold in strict confidence and not to disclose, communicate, or use in any manner, directly or indirectly, any Confidential Information of the Company, except as required by law or authorized in writing by the Company.
+Term. This Agreement shall be effective as of the date first written above and shall continue for a period of 3 years.

@@ -1,0 +1,9 @@
+Invoice 2:
+Invoice Number: INV-20281212-88353
+Date: Decembre 12, 2018
+Customer: Youtags
+Address: 5848 Kedzie Court, Koutsopódi, Greece	
+Item Description: Auto Parts and Accessories
+Quantity: 10 units
+Rate: $100 per unit
+Total Amount: $1,000

@@ -1,0 +1,5 @@
+Invoice Set 3
+Invoice No. Date Customer Name Description Quantity Rate Amount
+INV-70 2023-02-15 Andrew Carter Content Writing 3 $120 $360
+INV-71 2023-02-16 Emma Foster Branding Consultation 1 $1,800 $1,800
+INV-72 2023-02-17 Daniel Mitchell Photography Services 4 $280 $1,120

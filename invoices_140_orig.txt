@@ -1,0 +1,17 @@
+Invoice 3:
+Twitter Works
+429 Reinke Hill, Arizona, Scottsdale, USA
+Phone: +1 (623) 524-0883
+Invoice No: INV-596348
+Date: May 10, 2023
+Bill To:
+David Johnson
+429 Reinke Hill, Arizona, Scottsdale, USA
+Description Qty Rate Amount
+Monthly Subscription 1 $50 $50
+Training Course 1 $300 $300
+Software License 5 $100 $500
+Subtotal: $850
+Tax (7%): $59.50
+Total: $909.50
+Thank you for your business!

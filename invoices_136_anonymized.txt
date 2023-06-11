@@ -1,0 +1,18 @@
+Invoice 2:
+Invoice Number: 712556
+Date: September 16, 2015
+Bill To:
+Company Name: Wordpedia
+Address: 3 Parkside Lane, Bang Pa-in, Thailand
+Phone: +66 (706) 884-9448
+Email: billing@Wordpedia.com
+
+Item Quantity Unit Price Total Price
+Website   2 $120.00 $240.00
+Keyboard  3 $180.00 $540.00
+laptops   1 $250.00 $250.00
+Subtotal: $1,030.00
+Tax: $92.70
+Shipping: $35.00
+Total: $1,157.70
+Please make payment within 30 days of the invoice date. Thank you for your business!
