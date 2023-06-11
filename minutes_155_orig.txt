@@ -1,11 +1,11 @@
 Date: August 5, 2023
 Attendees:
-Jennifer Lee, CEO of Lee Industries
-David Kim, COO of Lee Industries
-Kevin Park, CIO of Lee Industries
-Grace Lee, Head of IT
+Jennifer Jina, CEO of Jina Industries
+David Kim, COO of Jina Industries
+Kevin Park, CIO of Jina Industries
+Grace Jina, Head of IT
 Meeting Agenda: Discuss IT infrastructure and cybersecurity measures
-The meeting was called to order at 2:00 PM by Jennifer Lee, CEO of Lee Industries. The attendees discussed the company's IT infrastructure and cybersecurity measures. Grace Lee, Head of IT, presented a report on the company's IT infrastructure and identified potential areas for improvement.
-Kevin Park, CIO of Lee Industries, presented a plan to enhance the company's cybersecurity measures. The attendees discussed the feasibility of the proposed plan and made additional suggestions for optimization.
-David Kim, COO of Lee Industries, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed cybersecurity measures.
+The meeting was called to order at 2:00 PM by Jennifer Jina, CEO of Jina Industries. The attendees discussed the company's IT infrastructure and cybersecurity measures. Grace Jina, Head of IT, presented a report on the company's IT infrastructure and identified potential areas for improvement.
+Kevin Park, CIO of Jina Industries, presented a plan to enhance the company's cybersecurity measures. The attendees discussed the feasibility of the proposed plan and made additional suggestions for optimization.
+David Kim, COO of Jina Industries, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed cybersecurity measures.
 The meeting was adjourned at 4:00 PM.

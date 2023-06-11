@@ -1,6 +1,6 @@
 Meeting Date: April 25, 2023
 Meeting Time: 2:30 PM - 3:45 PM
-Location: Conference Room B, Yodoo Co.
+Location: Conference Room 3, Yodoo Co.
 Attendees:
 Dr. Catherine Reed (Project Manager)
 David Collins (Software Engineer)

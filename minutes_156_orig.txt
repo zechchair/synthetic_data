@@ -1,6 +1,6 @@
 Date: October 15, 2023
 Time: 9:00 AM - 10:00 AM
-Location: Conference Room B
+Location: Conference Room 8
 Attendees:
 John Smith, CEO
 Emily Lee, CTO

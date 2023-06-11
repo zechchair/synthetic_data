@@ -1,6 +1,6 @@
-Meeting Date: October 17, 2023
+Meeting Date: October 17, 2017
 Meeting Time: 9:30 AM - 11:00 AM
-Location: Conference Room B, XYZ Solutions
+Location: Conference Room 7, Kazu
 Attendees:
 James Johnson (Project Manager)
 Sophie Collins (Lead Developer)
@@ -26,4 +26,4 @@ The team discussed the communication channels and frequency of project updates. 
 Agenda Item 5: Any Other Business
 The attendees shared a few miscellaneous points, including resource requirements, training needs, and potential risks. Action items were assigned and documented.
 Conclusion:
-The meeting concluded at 11:00 AM with a summary of the discussed action items and responsibilities. James Johnson thanked the team for their participation and enthusiasm. The next meeting was scheduled for October 31, 2023, at the same location and time.
+The meeting concluded at 11:00 AM with a summary of the discussed action items and responsibilities. James Johnson thanked the team for their participation and enthusiasm. The next meeting was scheduled for October 31, 2017, at the same location and time.

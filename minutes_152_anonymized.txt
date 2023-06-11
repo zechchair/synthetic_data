@@ -1,6 +1,6 @@
 Meeting Date: September 7, 2025
 Meeting Time: 10:00 AM - 11:15 AM
-Location: Conference Room A, Rhycero Co.
+Location: Conference Room 10, Rhycero Co.
 Attendees:
 Dr. Elizabeth Foster (Project Manager)
 Daniel Mitchell (Software Engineer)

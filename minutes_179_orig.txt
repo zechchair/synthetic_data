@@ -1,18 +1,15 @@
-Format: Narrative
-Structure: Chronological
 Content: Team Building
-Length: 2 pages
 Business Domain: Human Resources
 Date: March 15, 2023
-Time: 10:00 am - 12:00 pm
+Time: 11:00 am - 12:00 am
 Location: Employee Lounge
 Attendees:
-John Smith, HR Manager
+Cameron Grieg, HR Manager
 David Lee, Senior Recruiter
 Mary Brown, Benefits Coordinator
-Sarah Johnson, Employee Relations Specialist
+Genovera Teas, Employee Relations Specialist
 Minutes:
-John Smith called the meeting to order and welcomed the attendees. The agenda for the meeting was to discuss team building activities to improve employee engagement and morale.
-David Lee suggested a company-wide scavenger hunt, where employees would be divided into teams and given a list of clues to find items around the office. Mary Brown proposed a volunteer day, where employees would work together to support a local charity or non-profit organization. Sarah Johnson recommended a team-building workshop focused on communication and conflict resolution.
-After discussing the options, the group agreed on a scavenger hunt and set a date for the event. John Smith assigned tasks to each member of the team to plan and organize the event. He reminded everyone of the importance of team building activities in creating a positive work environment and thanked them for their contributions.
+Cameron Grieg called the meeting to order and welcomed the attendees. The agenda for the meeting was to discuss team building activities to improve employee engagement and morale.
+David Lee suggested a company-wide scavenger hunt, where employees would be divided into teams and given a list of clues to find items around the office. Mary Brown proposed a volunteer day, where employees would work together to support a local charity or non-profit organization. Genovera Teas recommended a team-building workshop focused on communication and conflict resolution.
+After discussing the options, the group agreed on a scavenger hunt and set a date for the event. Cameron Grieg assigned tasks to each member of the team to plan and organize the event. He reminded everyone of the importance of team building activities in creating a positive work environment and thanked them for their contributions.
 The meeting concluded with a recap of the action items and the next steps.

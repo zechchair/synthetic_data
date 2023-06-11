@@ -1,11 +1,11 @@
 Date: May 4, 2023
 Attendees:
 James Lee, CEO of Lee Enterprises
-Lily Chen, COO of Lee Enterprises
-Michael Wong, CTO of Lee Enterprises
-Steven Kim, Head of Product Development
+Lily Kiddye, COO of Lee Enterprises
+Michael Ledbury, CTO of Lee Enterprises
+Steven Orkney, Head of Product Development
 Meeting Agenda: Discuss new product development
-The meeting was called to order at 2:00 PM by James Lee, CEO of Lee Enterprises. The attendees discussed the development of a new product. Steven Kim, Head of Product Development, presented a prototype of the product and the attendees provided feedback on the design and functionality.
-Michael Wong, CTO of Lee Enterprises, raised concerns about the technical feasibility of the product. The attendees discussed potential solutions and agreed to review the technical specifications.
-Lily Chen, COO of Lee Enterprises, presented a timeline for the product development and launch. The attendees discussed the feasibility of the timeline and made suggestions for improvement.
-The meeting was adjourned at 3:30 PM.
+The meeting was called to order at 4:00 PM by James Lee, CEO of Lee Enterprises. The attendees discussed the development of a new product. Steven Orkney, Head of Product Development, presented a prototype of the product and the attendees provided feedback on the design and functionality.
+Michael Ledbury, CTO of Lee Enterprises, raised concerns about the technical feasibility of the product. The attendees discussed potential solutions and agreed to review the technical specifications.
+Lily Kiddye, COO of Lee Enterprises, presented a timeline for the product development and launch. The attendees discussed the feasibility of the timeline and made suggestions for improvement.
+The meeting was adjourned at 6:30 PM.

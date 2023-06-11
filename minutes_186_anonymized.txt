@@ -1,12 +1,12 @@
 Date: October 1, 2023
 Time: 9:00 AM - 10:30 AM
-Location: Conference Room B, Innovate Solutions
+Location: Conference Room, Innovate Solutions
 Attendees:
 Richard Mitchell (Chairperson)
 Emily Turner
-James Collins
 Sophia Johnson
 Andrew Roberts
+James Collins
 Agenda:
 Welcome and introductions
 Approval of previous meeting minutes
@@ -19,8 +19,8 @@ Next meeting date and time
 Adjournment
 Minutes:
 Welcome and introductions:
-The chairperson, Richard Mitchell, called the meeting to order at 9:00 AM in Conference Room B at Innovate Solutions. He greeted all attendees and requested each member to briefly introduce themselves.
-Approval of previous The minutes of the last meeting held on September 28, 2023, were presented for review. After careful consideration, the minutes were approved without any revisions.
+The chairperson, Richard Mitchell, called the meeting to order at 9:00 AM in Conference Room at Innovate Solutions. He greeted all attendees and requested each member to briefly introduce themselves.
+Approval of previous The minutes of the last meeting held on September 28, 2023, were distributed and reviewed. After a careful review, the minutes were approved without any changes.
 Sales performance review:
 Emily Turner presented a comprehensive sales performance report for the quarter. She discussed the achievements, challenges, and opportunities in meeting sales targets. The team engaged in a discussion to identify strategies for improving sales effectiveness and meeting future goals.
 Discussion on customer satisfaction survey results:
@@ -28,7 +28,7 @@ James Collins shared the results of the recent customer satisfaction survey. He 
 New product development update:
 Sophia Johnson provided an update on the new product development. She discussed the progress made, including research, design, and prototype development. The team provided valuable input and discussed the next steps in the development process.
 Team building activity planning:
-Andrew Roberts initiated a discussion on planning a team building activity. He presented a few options and discussed the benefits of fostering collaboration and team spirit. The team shared their preferences and decided on a team lunch and recreational games.
+Andrew Roberts initiated a discussion on planning a team building activity. He presented a few options and discussed the benefits of fostering collaboration and team spirit. The team shared their preferences and decided on a hiking and picnic excursion.
 Any other business:
 Richard Mitchell opened the floor for any additional topics or concerns. Emily Turner raised a question regarding the upcoming industry conference, and the team discussed the possibility of participating as attendees or exhibitors.
 Next meeting date and time:

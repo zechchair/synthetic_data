@@ -1,11 +1,11 @@
 Date: June 12, 2023
 Attendees:
-Andrew Kim, CEO of Kim Enterprises
-Michelle Lee, COO of Kim Enterprises
-Thomas Park, CTO of Kim Enterprises
+Andrew Yatman, CEO of Yatman Enterprises
+Michelle Lee, COO of Yatman Enterprises
+Thomas Park, CTO of Yatman Enterprises
 Kevin Chen, Head of Engineering
 Meeting Agenda: Discuss progress of new software development project
-The meeting was called to order at 1:00 PM by Andrew Kim, CEO of Kim Enterprises. The attendees discussed the progress of a new software development project and initiatives to ensure timely completion. Kevin Chen, Head of Engineering, provided an update on the project's status and identified potential risks and challenges.
-Thomas Park, CTO of Kim Enterprises, provided feedback on the proposed plan and made suggestions for improvement. The attendees discussed the feasibility of the proposed plan and made additional suggestions for optimization.
-Michelle Lee, COO of Kim Enterprises, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed strategies to ensure timely completion of the project.
+The meeting was called to order at 1:00 PM by Andrew Yatman, CEO of Yatman Enterprises. The attendees discussed the progress of a new software development project and initiatives to ensure timely completion. Kevin Chen, Head of Engineering, provided an update on the project's status and identified potential risks and challenges.
+Thomas Park, CTO of Yatman Enterprises, provided feedback on the proposed plan and made suggestions for improvement. The attendees discussed the feasibility of the proposed plan and made additional suggestions for optimization.
+Michelle Lee, COO of Yatman Enterprises, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed strategies to ensure timely completion of the project.
 The meeting was adjourned at 3:00 PM.

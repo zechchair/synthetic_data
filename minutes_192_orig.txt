@@ -1,9 +1,7 @@
-Structure: Attendees, Agenda, Discussion, Action items
 Content: Marketing strategy
-Length: 1 page
 Business Domain: Advertising
 Attendees:
-Jane Smith
+Jane Creighton
 John Doe
 Bob Johnson
 Sam Lee

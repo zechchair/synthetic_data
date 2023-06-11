@@ -1,6 +1,4 @@
-Structure: Attendees, Agenda, Discussion, Action items
 Content: Marketing strategy
-Length: 1 page
 Business Domain: Advertising
 Attendees:
 Emily Wilson

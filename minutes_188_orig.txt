@@ -1,11 +1,11 @@
 Date: July 3, 2023
 Time: 2:00 PM - 3:00 PM
-Location: Conference Room A
+Location: Room 12
 Attendees:
 Tom Kim, Project Manager
 Emily Lee, Software Engineer
 Sarah Brown, Quality Assurance Analyst
-John Smith, UX Designer
+Tony Verry, UX Designer
 Agenda:
 Review of progress on software development
 Discussion of any issues or roadblocks

@@ -1,13 +1,10 @@
-Format: Table
-Structure: Attendees, Agenda, Discussion, Action items
 Content: Financial Report
-Length: 1 page
 Business Domain: Accounting
 Attendees:
-Robert Johnson
-Michael Davis
-Laura Thompson
-Emily Wilson
+Robert Johnson  CEO
+Michael Davis   CFO 
+Laura Thompson  Controller
+Emily Wilson    Accountant
 Agenda:
 Review of financial statements
 Discussion of financial health

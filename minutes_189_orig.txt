@@ -1,13 +1,10 @@
-Format: Table
-Structure: Attendees, Agenda, Discussion, Action items
 Content: Financial Report
-Length: 1 page
 Business Domain: Accounting
 Attendees:
-CEO
-CFO
-Controller
-Accountant
+Lucky Kingcote CEO
+Mariam Bogue CFO
+Feodora Mackett	Controller
+Davis Elford Accountant
 Agenda:
 Review of financial statements
 Discussion of financial health

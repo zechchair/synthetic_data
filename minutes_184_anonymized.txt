@@ -1,4 +1,4 @@
-Date: June 15th, 2023
+Date: June 15th, 2008
 Time: 10:30 AM
 Location: Virtual Meeting
 Attendees:
@@ -11,8 +11,8 @@ Discuss Issues and Risks
 Action Items Review
 Minutes:
 10:30 AM - Robert Wilson starts the meeting and welcomes the attendees.
-10:35 AM - Linda Adams presents the progress report, indicating that the project is on track and meeting the expected milestones.
-10:50 AM - Daniel Ramirez raises a concern about the effectiveness of the QA process and suggests implementing additional testing measures.
-11:05 AM - The team discusses the concern and agrees to review the testing plan to enhance the quality assurance procedures.
+10:35 AM - Linda Adams presents the progress report, indicating that the project is on schedule and within budget.
+10:50 AM - Daniel Ramirez raises an issue with the QA process, stating that some defects are being missed during testing.
+11:05 AM - The team discusses the issue and agrees to revise the testing plan to address the problem.
 11:20 AM - Robert Wilson reviews the action items from the previous meeting and confirms that all tasks have been completed.
-11:30 AM - The meeting concludes with a discussion of potential risks and the next steps for the project.
+11:30 AM - The meeting concludes with a discussion of risks and next steps.
