@@ -1,5 +1,5 @@
 SALES AGREEMENT
-This Sales Agreement (the "Agreement") is made and entered into as of the 1st day of May, 2023 (the "Effective Date"), by and between SmartTech, Inc. a Delaware corporation with its principal place of business at 05680 Oneill Park, Delaware, Wilmington, United States ("Seller"), and BlueSky LLC, a Michigan limited liability company with its principal place of business at 456 36420 Dwight Lane, Michigan, Detroit, United States ("Buyer").
+This Sales Agreement (the "Agreement") is made and entered into as of the 1st day of May, 2023 (the "Effective Date"), by and between SmartTech, Inc. a Delaware corporation with its principal place of business at 05680 Oneill Park, Delaware, Wilmington, United States ("Seller"), and BlueSky LLC, a Michigan limited liability company with its principal place of business at 9610 Ridge Oak Terrace, Washington, Seattle, United States ("Buyer").
 Sale of Goods. Seller agrees to sell and Buyer agrees to purchase 500 units of the SmartPhone model X, each priced at $1,000, for a total purchase price of $500,000 (the "Purchase Price").
 Payment. Buyer shall pay the Purchase Price in full within 30 days from the date of the invoice issued by Seller.
 Delivery. Seller shall deliver the Goods to Buyer at Buyer's designated location within 14 days after receipt of payment in full.

@@ -1,6 +1,6 @@
 Contract 2:
 EMPLOYMENT CONTRACT
-This Employment Contract ("Contract") is made and entered into on this 4th day of June 2023, by and between Emma Thompson ("Employee") and Innojam Corporation ("Employer").
+This Employment Contract ("Contract") is made and entered into on this 4th day of June 2023, by and between Emma Batty ("Employee") and Innojam Corporation ("Employer").
 Employment. Employer hereby employs Employee in the position of Marketing Director, and Employee hereby accepts such employment, subject to the terms and conditions set forth in this Contract.
 Duties. Employee shall perform the duties and responsibilities as set forth in Exhibit A attached hereto and made a part hereof.
 Compensation. Employee shall be paid a salary of $80,000 per year, payable in bi-weekly installments. In addition, Employee shall be eligible for a performance bonus of up to 10% of Employee's annual salary, subject to the achievement of certain performance objectives.
@@ -9,7 +9,7 @@ Term. The term of this Contract shall commence on June 20, 2023, and shall conti
 Confidentiality. Employee agrees to maintain the confidentiality of all confidential and proprietary information of Employer and shall not disclose such information to any third party without the prior written consent of Employer.
 Governing Law. This Contract shall be governed by and construed in accordance with the laws of the State of California.
 IN WITNESS WHEREOF, the parties have executed this Contract as of the date first above written.
-Emma Thompson
+Emma Batty
 Employee
 Innojam Corporation
 By: Robert Anderson

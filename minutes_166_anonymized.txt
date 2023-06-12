@@ -3,7 +3,7 @@ Time: 9:30 AM - 10:30 AM
 Location: Virtual Meeting
 Attendees:
 Linda Wilson, CEO
-David Thompson, CTO
+David Fadian, CTO
 Amy Davis, CFO
 Richard Adams, COO
 Agenda:
@@ -12,5 +12,5 @@ Discussion of investment opportunities
 Update on employee retention and development
 Minutes:
 Amy Davis presented the financial report for the last quarter. The team reviewed the results and discussed ways to improve the company's financial performance.
-David Thompson shared potential investment opportunities for the company, and the team discussed the feasibility and benefits of each opportunity.
+David Fadian shared potential investment opportunities for the company, and the team discussed the feasibility and benefits of each opportunity.
 Richard Adams provided an update on employee retention and development programs. The team discussed ways to improve employee satisfaction and reduce turnover rates.

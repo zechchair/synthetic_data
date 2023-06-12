@@ -4,7 +4,7 @@ This Residential Lease Agreement ("Agreement") is made and entered into this 9th
 Landlord:
 Oakview Apartments, a property management company organized and existing under the laws of Canada, with its principal place of business at 37 Lotheville Circle, Alberta, Airdrie, Canada, represented by Mr. Rhett Hearnes, hereinafter referred to as "Landlord".
 Tenant:
-Emma Thompson, an individual residing at 3898 Bunting Alley, British Columbia, Prince Rupert, Canada, hereinafter referred to as "Tenant".
+Emma Shurville, an individual residing at 3898 Bunting Alley, British Columbia, Prince Rupert, Canada, hereinafter referred to as "Tenant".
 Agreement:
 Property: Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, the residential property located at 5814 Jackson Way, Québec, Saint-Raymond, Canada, (hereinafter referred to as the "Premises").
 Term: The term of this Lease shall be for one year, commencing on the 1st day of June, 2023, and ending on the 31st day of February, 2024. Tenant shall have the option to renew the Lease upon expiration, subject to the terms and conditions set forth in a separate renewal agreement.
@@ -18,5 +18,5 @@ IN WITNESS WHEREOF, the parties hereto have executed this Residential Lease Agre
 /s/ Rhett Hearnes
 Rhett Hearnes, Landlord
 Oakview Apartments
-/s/ Emma Thompson
-Emma Thompson, Tenant
+/s/ Emma Shurville
+Emma Shurville, Tenant

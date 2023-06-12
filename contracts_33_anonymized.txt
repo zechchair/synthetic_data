@@ -1,9 +1,9 @@
 Contract 3:
 Seller: Redwood Motors
-Buyer: James Thompson
+Buyer: James Batty
 Date: May 10, 2023
 Vehicle Purchase Agreement
 Redwood Motors
-This Vehicle Purchase Agreement ("Agreement") is made and entered into between Redwood Motors ("Seller") and James Thompson ("Buyer") on May 10, 2025.
+This Vehicle Purchase Agreement ("Agreement") is made and entered into between Redwood Motors ("Seller") and James Batty ("Buyer") on May 10, 2025.
 Vehicle Description
 The Seller agrees to sell and the Buyer agrees to purchase a used 2016 Honda Accord, VIN: GM739

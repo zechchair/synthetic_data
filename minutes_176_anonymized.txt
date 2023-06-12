@@ -2,7 +2,7 @@ Date: September 15, 2023
 Time: 2:30 PM - 3:30 PM
 Location: Online Conference
 Attendees:
-Daniel Thompson, CEO
+Daniel Kittley, CEO
 James Evans, CTO
 Olivia Wilson, COO
 Lucas Roberts, CMO
@@ -13,4 +13,4 @@ Brainstorming session for new product features
 Minutes:
 James Evans the progress made on the development of the new product. The team discussed the timeline for completion and any potential issues that may arise.
 Olivia Wilson presented the marketing strategy for the new product launch. The team discussed the target audience and potential marketing channels.
-Daniel Thompson led a brainstorming session for new product features. The team discussed ideas for new features and prioritized them based on customer needs.
+Daniel Kittley led a brainstorming session for new product features. The team discussed ideas for new features and prioritized them based on customer needs.

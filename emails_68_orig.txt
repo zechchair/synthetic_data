@@ -1,5 +1,5 @@
 Email 3:
-From: Olivia Thompson olivia.thompson@hotmail.com
+From: Olivia Addeycott olivia.thompson@hotmail.com
 To: Support Team support@Rhyboxsoftware.com
 Subject: Request for Technical Assistance
 Dear Support Team,
@@ -8,4 +8,4 @@ The problem I am facing is that the software frequently crashes when I attempt t
 Could you please guide me on how to troubleshoot this issue or provide a software update to resolve the problem? I rely on this software for my work, and it is crucial that it functions reliably.
 Thank you for your attention to this matter. I appreciate your prompt assistance in rectifying the situation.
 Best regards,
-Olivia Thompson
+Olivia Addeycott

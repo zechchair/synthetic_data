@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Number: INV-20230512-039
 Date: May 12, 2023
-Customer: Thompson's Bookstore
+Customer: Dawtry's Bookstore
 Address: 64899 Washington Plaza	, Washington, USA
 Item Description: Book Purchase
 Quantity: 5 books

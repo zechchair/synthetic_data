@@ -9,7 +9,7 @@ Nova Industries, represented by:
 Name: Ms. Olivia Roberts
 Address: 6662 Armistice Junction, Louisiana, Lafayette, United States
 Solaris Technologies, represented by:
-Name: Mr. Ethan Thompson
+Name: Mr. Ethan Batty
 Address: 861 Mayfield Lane, Pennsylvania, Wilkes Barre, United States
 Collectively referred to as the "Partners."
 Nature of Partnership: The Partners agree to form a technology solutions partnership under the name "Stellar Solutions."
@@ -21,7 +21,7 @@ Management and Decision-Making: The Partners shall jointly manage the business a
 Dissolution: The partnership may be dissolved by mutual agreement of the Partners or upon the occurrence of certain events, including bankruptcy or death of a Partner. In the event of dissolution, the assets and liabilities of the partnership shall be distributed among the Partners in proportion to their capital contributions.
 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of Starland.
 Partners:
-/s/ Alexander Hayes /s/ Olivia Roberts /s/ Ethan Thompson
+/s/ Alexander Hayes /s/ Olivia Roberts /s/ Ethan Batty
 Signature Signature Signature
 Date: Date: Date:
 May 20, 2023 May 20, 2023 May 20, 2023

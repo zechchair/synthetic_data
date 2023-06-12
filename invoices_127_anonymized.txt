@@ -3,7 +3,7 @@ Company: Sparkling Cleaners
 Address: 817 Elmside Hill, Texas, Waco, United States	
 Date: September 8, 2023
 Invoice Number: 3032
-Bill To: Emily Thompson
+Bill To: Emily Dawtry
 Address: 03862 Pawling Point, Texas, Waco, United States
 Item #1: House Cleaning - $185
 Item #2: Window Cleaning - $90

@@ -3,7 +3,7 @@ Time: 2:30 PM - 4:00 PM
 Location: Conference Room B, Dabvine Corporation
 Attendees:
 Laura Bumpass (Chair)
-Michael Thompson
+Michael Fadian
 Emily Martinez
 Daniel Walker
 Sarah Turner
@@ -15,7 +15,7 @@ Next steps and closing
 Minutes:
 The meeting began at 2:30 PM, chaired by Laura Bumpass. She welcomed the attendees and outlined the agenda for the meeting.
 Project status update:
-Michael Thompson provided a comprehensive update on the project's status, highlighting completed milestones, ongoing activities, and any deviations from the original plan. He discussed the overall progress and addressed any concerns or issues raised by the team members. The team members acknowledged the update and expressed their support.
+Michael Fadian provided a comprehensive update on the project's status, highlighting completed milestones, ongoing activities, and any deviations from the original plan. He discussed the overall progress and addressed any concerns or issues raised by the team members. The team members acknowledged the update and expressed their support.
 Quality assurance review:
 Emily Martinez led a discussion on the quality assurance process for the project. She emphasized the importance of maintaining high standards and ensuring deliverables meet the required quality criteria. The team members shared their perspectives on quality assurance practices and suggested improvements. They agreed on implementing regular quality checks and feedback loops to enhance the project's quality.
 Communication plan discussion:
@@ -23,7 +23,7 @@ Daniel Walker presented a draft communication plan for the project, outlining ke
 Next steps and closing:
 Sarah Turner summarized the key decisions and action items discussed during the meeting. She emphasized the importance of clear communication, adherence to quality standards, and timely execution. The team members confirmed their understanding of the next steps and committed to their respective responsibilities.
 Action Items:
-Michael Thompson to provide an updated project timeline to stakeholders by September 5.
+Michael Fadian to provide an updated project timeline to stakeholders by September 5.
 Emily Martinez to establish a quality assurance checklist and share it with the team for implementation by September 3.
 Daniel Walker to finalize the communication plan and distribute it to the team and stakeholders by September 8.
 Sarah Turner to schedule a follow-up meeting to review progress and address any outstanding issues by September 9.

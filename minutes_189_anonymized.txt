@@ -3,7 +3,7 @@ Business Domain: Accounting
 Attendees:
 Robert Grocutt  CEO
 Michael Davis   CFO 
-Laura Thompson  Controller
+Laura Winspare  Controller
 Emily Wilson    Accountant
 Agenda:
 Review of financial statements

@@ -4,7 +4,7 @@ Location: Hilton Hotel, Los Angeles
 Attendees:
 Sarah Bumpass, Sales Director
 Daniel Ramirez, Marketing Manager
-Michael Thompson, Project Manager
+Michael Kittley, Project Manager
 Agenda:
 Review Sales Performance
 Discuss Marketing Strategy for Next Year
@@ -13,4 +13,4 @@ Minutes:
 10:00 AM - Sarah Bumpass starts the meeting and welcomes the attendees.
 10:05 AM - Daniel Ramirez presents the marketing plan for the next year, highlighting the target audience, marketing channels, and budget.
 10:20 AM - Sarah Bumpass presents the sales performance report and discusses the areas that need improvement.
-10:35 AM - Michael Thompson reviews the project milestones and provides an update on the progress.
+10:35 AM - Michael Kittley reviews the project milestones and provides an update on the progress.

@@ -2,11 +2,11 @@ Lease Contract 1:
 Residential Lease Agreement - Oakview Apartments
 This Residential Lease Agreement ("Agreement") is made and entered into this 9th day of August, 2025, by and between:
 Landlord:
-Oakview Apartments, a property management company organized and existing under the laws of the State of California, with its principal place of business at 5678 Elm Street, Los Angeles, CA 90003, represented by Mr. Matthew Johnhamson, hereinafter referred to as "Landlord".
+Oakview Apartments, a property management company organized and existing under the laws of the State of California, with its principal place of business at 9 Bellgrove Avenue,, Los Angeles, CA 90003, represented by Mr. Matthew Johnhamson, hereinafter referred to as "Landlord".
 Tenant:
-Olivia Taylor, an individual residing at 9 Fieldstone Plaza, Los Angeles, CA 90004, hereinafter referred to as "Tenant".
+Olivia Goodwill, an individual residing at 9 Fieldstone Plaza, Los Angeles, CA 90004, hereinafter referred to as "Tenant".
 Agreement:
-Property: Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, the residential property located at 567 Willow Lane, Apartment 890, Los Angeles, CA 90002 (hereinafter referred to as the "Premises").
+Property: Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, the residential property located at 925 Straubel Center, Apartment 890, Los Angeles, CA 90002 (hereinafter referred to as the "Premises").
 Term: The term of this Lease shall be for one year, commencing on the 1st day of September, 2025, and ending on the 31st day of August, 2026. Tenant shall have the option to renew the Lease upon expiration, subject to the terms and conditions set forth in a separate renewal agreement.
 Rent and Payment: Tenant agrees to pay a monthly rent of $1,800 USD, due on the 1st day of each month. Rent shall be paid by check or electronic transfer to the designated bank account provided by Landlord.
 Security Deposit: Tenant shall deposit with Landlord a security deposit of $2,500 USD upon signing this Agreement. The security deposit will be held by Landlord as security for any damages to the Premises beyond normal wear and tear or unpaid rent. It will be returned to Tenant within 30 days after the termination of the Lease, less any deductions for damages or unpaid rent.
@@ -18,5 +18,5 @@ IN WITNESS WHEREOF, the parties hereto have executed this Residential Lease Agre
 /s/ Matthew Johnhamson
 Matthew Johnhamson, Landlord
 Oakview Apartments
-/s/ Olivia Taylor
-Olivia Taylor, Tenant
+/s/ Olivia Goodwill
+Olivia Goodwill, Tenant

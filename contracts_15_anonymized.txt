@@ -2,7 +2,7 @@ Rental Contract 2
 Contract Name: Oakwood Villa Vacation Rental Agreement
 Date: August 17, 2023
 This Vacation Rental Agreement (hereinafter referred to as the "Agreement") is entered into between:
-Property Owner: Mr. David Thompson, an individual residing at 6662 Armistice Junction, Louisiana, Lafayette, United States.
+Property Owner: Mr. David Shurville, an individual residing at 6662 Armistice Junction, Louisiana, Lafayette, United States.
 Renter: Mr. Christopher Anderson, an individual residing at 861 Mayfield Lane, Pennsylvania, Wilkes Barre, United States.
 Property: The Property Owner hereby rents to the Renter the vacation property located at 9610 Ridge Oak Terrace, Washington, Seattle, United States.
 Rental Period: The rental period shall commence on September 3, 2023, and shall continue for a duration of two weeks, ending on September 17, 2023.

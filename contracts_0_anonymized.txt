@@ -1,11 +1,11 @@
 Contract 2:
 Company: SecureWare Solutions
-Employee: Daniel Thompson
+Employee: Daniel Shurville
 Position: Warehouse Supervisor
 Date: February 9, 2025
 Employment Agreement
 SecureWare Solutions
-This Employment Agreement ("Agreement") is made and entered into by and between SecureWare Solutions ("Company") and Daniel Thompson ("Employee") on February 9, 2025.
+This Employment Agreement ("Agreement") is made and entered into by and between SecureWare Solutions ("Company") and Daniel Shurville ("Employee") on February 9, 2025.
 Position and Responsibilities
 The Company employs the Employee as a Warehouse Supervisor. The Employee will be responsible for overseeing daily warehouse operations, managing inventory, coordinating shipments, and ensuring compliance with safety regulations.
 Compensation
@@ -17,7 +17,7 @@ The Employee's regular work schedule shall be Monday to Friday, from 8:00 AM to 
 Non-Competition
 During the employment term and for a period of one (1) year following the termination of this Agreement, the Employee agrees not to engage in any employment or business activities that directly compete with the Company's operations within a 50-mile radius of its headquarters.
 Signed on this 9th day of February, 2025.
-Daniel Thompson (Employee)
+Daniel Shurville (Employee)
 Jennifer Anderson
 Operations Manager
 SecureWare Solutions

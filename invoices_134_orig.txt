@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Number: 52458
 Date: May 12, 2023
-Customer: Thompson's Fitness Center
+Customer: Dawtry's Fitness Center
 Address: 840 Aberg Alley, Boa Viagem, Brazil
 Item Description: Monthly Gym Membership
 Quantity: 1 membership

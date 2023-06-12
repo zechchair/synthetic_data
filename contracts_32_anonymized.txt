@@ -1,10 +1,10 @@
 Contract 3:
 Seller: Blue Wheels
-Buyer: Michael Thompson
+Buyer: Michael Batty
 Date: February 10, 2023
 Vehicle Purchase Agreement
 Blue Wheels
-This Vehicle Purchase Agreement ("Agreement") is made and entered into between Blue Wheels ("Seller") and Michael Thompson ("Buyer") on February 10, 2026.
+This Vehicle Purchase Agreement ("Agreement") is made and entered into between Blue Wheels ("Seller") and Michael Batty ("Buyer") on February 10, 2026.
 Vehicle Description
 The Seller agrees to sell and the Buyer agrees to purchase a used 2019 Honda Accord, VIN: GM739, with 40,000 miles on the odometer.
 Purchase Price

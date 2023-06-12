@@ -2,7 +2,7 @@ Date: March 15th, 2024
 Time: 10:00 AM
 Location: Conference Room B, Tech Hub Campus, Sunnyville, California
 Attendees:
-Mark Thompson, CEO
+Mark Fadian, CEO
 Laura Turner, CFO
 Rachel Adams, EVP of Business Development
 Samuel Chen, EVP of Artificial Intelligence and Research
@@ -11,5 +11,5 @@ Review of Q4 financial statements
 Discussion on mergers and acquisitions
 Update on AI research and development
 Minutes:
-Mark Thompson opened the meeting by reviewing the Q4 financial statements. The company had exceeded its revenue targets by 20%, and the profit margins were higher than the target. All attendees expressed satisfaction with the financial results.
+Mark Fadian opened the meeting by reviewing the Q4 financial statements. The company had exceeded its revenue targets by 20%, and the profit margins were higher than the target. All attendees expressed satisfaction with the financial results.
 Rachel Adams led the discussion on mergers and acquisitions. She presented a proposal for acquiring a startup that specialized in AR technology. The proposal was discussed, and all attendees agreed to explore the opportunity further.

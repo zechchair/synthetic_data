@@ -2,9 +2,9 @@ Contract 1:
 Contract Name: Confidentiality Agreement for Business Partners
 This Confidentiality Agreement (the "Agreement") is made and entered into this 5th day of September, 2023 (the "Effective Date"), by and between:
 Disclosing Party:
-Emerald Industries, a corporation organized and existing under the laws of the State of California, with its principal place of business at 789 Innovation Street, San Francisco, California 94101, represented by Mr. Daniel Clark, hereinafter referred to as the "Disclosing Party."
+Emerald Industries, a corporation organized and existing under the laws of the State of California, with its principal place of business at 4 Manitowish Place, San Francisco, California 94101, represented by Mr. Daniel Clark, hereinafter referred to as the "Disclosing Party."
 Receiving Party:
-SilverTech Solutions, a corporation organized and existing under the laws of the State of New York, with its principal place of business at 234 Tech Avenue, New York, New York 10001, represented by Ms. Emily Anderson, hereinafter referred to as the "Receiving Party."
+SilverTech Solutions, a corporation organized and existing under the laws of the State of New York, with its principal place of business at 42128 Ryan Junction, Languedoc-Roussillon, New York 10001, represented by Ms. Emily Anderson, hereinafter referred to as the "Receiving Party."
 WHEREAS, the Disclosing Party possesses certain confidential information related to its business operations;
 WHEREAS, the Receiving Party desires to access and use the confidential information for the purpose of evaluating a potential business partnership;
 NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Disclosing Party and the Receiving Party hereby agree as follows:

@@ -2,7 +2,7 @@ Date: January 10, 2020
 Time: 10:00 AM - 11:00 AM
 Location: Virtual Meeting
 Attendees:
-Ken Thompson, Director of Sales
+Ken Fadian, Director of Sales
 Emma Davis, Director of Marketing
 Robert Wilson, Director of Operations
 Olivia Lee, Director of Customer Support
@@ -11,6 +11,6 @@ Review of sales performance
 Discussion of customer feedback
 Update on operational efficiency
 Minutes:
-Ken Thompson presented the sales performance report. The team reviewed the report and discussed potential improvements to increase sales.
+Ken Fadian presented the sales performance report. The team reviewed the report and discussed potential improvements to increase sales.
 Emma Davis presented the customer feedback report. The team discussed the feedback and made recommendations to improve customer satisfaction.
 Robert Wilson provided an update on the operational efficiency of the company. The team discussed the areas that needed improvement and made suggestions for optimization.
