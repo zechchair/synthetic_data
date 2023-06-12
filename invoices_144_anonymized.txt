@@ -1,5 +1,5 @@
 Invoice #16
-Name: Emma Smith
+Name: Emma Chaplain
 Address: 429 Jenifer Pass, Ontario, Toronto, Canada	
 Invoice Date: May 16, 2008
 Invoice Number: INV-111362

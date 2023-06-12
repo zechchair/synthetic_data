@@ -1,7 +1,7 @@
 Contract 2:
-Seller: David Smith
+Seller: David Humbie
 Buyer: Olivia Taylor
-Product: Apple MacBook Pro, Model: M1, Serial Number: 9876543210
+Product: Apple MacBook Pro, Model: M1, Serial Number: 9276374091
 Purchase Price: $2,000.00
 Payment Method: Debit Card
 Delivery Date: November 15, 2023

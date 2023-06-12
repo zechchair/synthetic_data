@@ -1,7 +1,7 @@
 Attendees:
 Samantha Jones
 David Wilson
-Amy Brown
+Amy Shank
 William Jackson
 Date: September 10th, 2021
 Location: The Boardroom, The Ritz Carlton
@@ -17,6 +17,6 @@ Samantha Jones opened the meeting at 9:00 am and welcomed everyone to the boardr
 Approval of the agenda
 The agenda was approved without any objections.
 Updates on the company's financial performance
-David Wilson presented the company's financial report for the last quarter, highlighting the increase in revenue and profits. Amy Brown mentioned some areas that needed improvement and suggested some measures to address them.
+David Wilson presented the company's financial report for the last quarter, highlighting the increase in revenue and profits. Amy Shank mentioned some areas that needed improvement and suggested some measures to address them.
 Discussion on company strategy
 William Jackson led a discussion on the company's strategy for the next year. The team brainstorm

@@ -1,8 +1,8 @@
 Invoice 2:
 Invoice Date: September 5, 2023
 Invoice Number: INV-2023-0905-002
-Customer Name: Johnson's Grocery Store
-Customer Address: 789 Elm Street, Cityville, USA
+Customer Name: Nicholas's Grocery Store
+Customer Address: 7 Mayer Avenue, Santarém, Vila Chã de Ourique, USA
 Billing Email: billing@johnsonsgrocery.com
 Payment Due Date: October 5, 2023
 Item Description Quantity Unit Price Total
@@ -12,4 +12,4 @@ Eggs (Dozen) 5 $2.50 $12.50
 Subtotal $92.50
 Sales Tax (6%) $5.55
 Total Due $98.05
-Thank you for choosing Johnson's Grocery Store. Kindly remit the payment for this invoice on or before the due date mentioned above. If you have any inquiries or require further assistance, please contact our billing department at billing@johnsonsgrocery.com.
+Thank you for choosing Nicholas's Grocery Store. Kindly remit the payment for this invoice on or before the due date mentioned above. If you have any inquiries or require further assistance, please contact our billing department at billing@johnsonsgrocery.com.

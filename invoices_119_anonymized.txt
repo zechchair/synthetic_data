@@ -4,7 +4,7 @@ Address: 4778 Mcguire Pass, Sufālat Samā’il, Oman
 Invoice Number: INV20230516-830
 Date: June 3, 2023
 Bill To:
-Jane Smith
+Jane Cuzen
 9 Bellgrove Avenue, Las Vegas, Venezuela
 Description Quantity Unit Price Total
 Product X 3 units $25 $75

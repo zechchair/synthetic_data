@@ -4,7 +4,7 @@ Location: Grand Hyatt, San Francisco
 Attendees:
 Rachel Lee, Sales Director
 David Rodriguez, Marketing Manager
-James Brown, Project Manager
+James Shank, Project Manager
 Agenda:
 Review Sales Performance
 Discuss Marketing Strategy for Next Year
@@ -13,4 +13,4 @@ Minutes:
 2:00 PM - Rachel Lee starts the meeting and welcomes the attendees.
 2:05 PM - David Rodriguez presents the marketing plan for the next year, highlighting the target audience, marketing channels, and budget.
 2:20 PM - Rachel Lee presents the sales performance report and discusses the areas that need improvement.
-2:35 PM - James Brown reviews the project milestones and provides an update on the progress
+2:35 PM - James Shank reviews the project milestones and provides an update on the progress

@@ -3,7 +3,7 @@ Company: GreenLeaf
 Address: 6 Hintze Parkway, Banjar Pande, Indonesia	
 Date: June 4, 2023
 Invoice Number: 1004
-Bill To: Susan Johnson
+Bill To: Susan Nicholas
 Address: 7579 Birchwood Road, Sarongan, Indonesia
 Item #1: Lawn Maintenance Service - $200
 Item #2: Tree Pruning - $150

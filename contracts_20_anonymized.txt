@@ -1,4 +1,0 @@
-Confidentiality Contract 3:
-Contract Name: Non-Disclosure Agreement between HealthCare Plus and John Anderson
-This Non-Disclosure Agreement ("Agreement") is made and entered into this 25th day of May 2023 (the "Effective Date"), by and between HealthCare Plus, a healthcare provider organized and existing under the laws of New York, with its principal place of business at 123 Harmony Lane, Riverside, USA ("Disclosing Party"), and John Anderson, an individual with a mailing address at 456 Maple Drive, Brookville, USA ("Receiving Party").
-Confidential Information:

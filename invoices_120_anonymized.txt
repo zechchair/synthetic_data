@@ -3,7 +3,7 @@ Company: Tasty Delights Pastry Shop
 Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
 Date: July 17, 2022
 Invoice Number: 3055
-Bill To: Samantha Smith
+Bill To: Samantha Castele
 Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
 Date: July 17, 2022
 Item #1: Custom Cake - $175

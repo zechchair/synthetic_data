@@ -1,7 +1,7 @@
 Invoice 1:
 Invoice Date: February 14, 2023
 Invoice Number: INV-2023-0214-001
-Customer Name: Smith & Partners Law Firm
+Customer Name: Cuzen & Partners Law Firm
 Customer Address: 4 Grasskamp Point, Île-de-France, Paris 09, France
 Billing Email: billing@smithandpartners.com
 Payment Due Date: March 14, 2023

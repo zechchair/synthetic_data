@@ -3,7 +3,7 @@ Company: EcoFriendly Cleaning
 Address: 9138 Badeau Hill, Dengfang, China
 Date: January 9, 2023
 Invoice Number: 1009
-Bill To: Samantha Johnson
+Bill To: Samantha Nicholas
 Address: 72398 Warbler Place, Luopu, China
 Item #1: Deep Cleaning - $200
 Item #2: Carpet Cleaning - $150

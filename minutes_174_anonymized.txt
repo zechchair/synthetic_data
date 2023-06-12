@@ -2,7 +2,7 @@ Date: June 11th, 2023
 Time: 10:00 AM
 Location: Hilton Hotel, Los Angeles
 Attendees:
-Sarah Johnson, Sales Director
+Sarah Bumpass, Sales Director
 Daniel Ramirez, Marketing Manager
 Michael Thompson, Project Manager
 Agenda:
@@ -10,7 +10,7 @@ Review Sales Performance
 Discuss Marketing Strategy for Next Year
 Review Project Milestones
 Minutes:
-10:00 AM - Sarah Johnson starts the meeting and welcomes the attendees.
+10:00 AM - Sarah Bumpass starts the meeting and welcomes the attendees.
 10:05 AM - Daniel Ramirez presents the marketing plan for the next year, highlighting the target audience, marketing channels, and budget.
-10:20 AM - Sarah Johnson presents the sales performance report and discusses the areas that need improvement.
+10:20 AM - Sarah Bumpass presents the sales performance report and discusses the areas that need improvement.
 10:35 AM - Michael Thompson reviews the project milestones and provides an update on the progress.

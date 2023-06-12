@@ -9,7 +9,7 @@ Tenant: Olivia Adams
 Address: 5 Butterfield Avenue, Iizuka, Japan
 Phone: +81 (650) 403-8735
 Email: olivia.adams@yahoo.com
-Property: 123 Elm Street, Apartment 3C, Maplewood, STU 98765
+Property: 20 Elka Plaza, Obama, Japan
 Lease Term: 1 year
 Monthly Rent: $900
 Security Deposit: $1,000

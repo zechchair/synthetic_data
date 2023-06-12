@@ -1,5 +1,5 @@
 Invoice 2
-Invoice To: John Smith
+Invoice To: Albrecht Perri
 Invoice From: Lajo Corporation
 Description Amount
 Website Design $7,500.00

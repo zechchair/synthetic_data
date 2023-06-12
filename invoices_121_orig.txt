@@ -1,7 +1,7 @@
 Invoice 1:
 Invoice Number: INV-20230512-037
 Date: May 12, 2023
-Customer: Johnson's Supplies
+Customer: Holton's Supplies
 Address: 541 Mccormick Trail, Simnas, Lithuania
 Item Description: Plumbing Fixtures and Accessories
 Quantity: 10 units

@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Number: INV-20230621-039
 Date: June 21, 2023
-Customer: Johnson's Stationery Shop
+Customer: Holton's Stationery Shop
 Address: 5298 Heffernan Center, Las Vegas, USA
 Item Description: Stationery Purchase
 Quantity: 6 items

@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Date: June 5, 2023
 Invoice Number: INV-2022-0605-003
-Customer Name: Johnson Advertising Agency
+Customer Name: HoltonAdvertising Agency
 Customer Address: 75 Bellgrove Plaza, Xuexi, China
 Billing Email: billing@johnsonadvertising.com
 Payment Due Date: July 5, 2022
@@ -12,4 +12,4 @@ Graphic Design 5 $190 $950
 Subtotal $5,030
 Sales Tax (8%) $402.40
 Total Due $5,432.40
-Thank you for choosing Johnson Advertising Agency for your marketing needs. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonadvertising.com.
+Thank you for choosing HoltonAdvertising Agency for your marketing needs. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonadvertising.com.

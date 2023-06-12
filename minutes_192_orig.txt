@@ -3,7 +3,7 @@ Business Domain: Advertising
 Attendees:
 Jane Creighton
 John Doe
-Bob Johnson
+Bob Grocutt
 Sam Lee
 Agenda:
 Introductions

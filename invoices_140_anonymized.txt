@@ -1,11 +1,11 @@
 Invoice 3:
 Kwimbee
 29 Burrows Alley, Ohio, Cincinnati, USA
-Phone: (555) 123-4567
+Phone: +1 (636) 337-4127
 Invoice No: INV-67840
 Date: November 25, 2022
 Bill To:
-Robert Smith
+Robert Chaplain
 29 Burrows Alley, Ohio, Cincinnati, USA
 Description Qty Rate Amount
 Monthly Subscription 1 $75 $75

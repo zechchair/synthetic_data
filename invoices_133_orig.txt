@@ -1,7 +1,7 @@
 Invoice 1
 | Invoice No. | Date       | Due Date   | Customer Name        | Total Amount |
 |-------------|------------|------------|----------------------|--------------|
-| INV-001     | 2021-07-15 | 2021-08-15 | John's Auto Service | $1,400.00    |
+| INV-001     | 2021-07-15 | 2021-08-15 | Albrecht's Auto Service | $1,400.00    |
 | Item Description           | Quantity | Price/Unit | Amount |
 |-----------------------------|----------|-------------|---------|
 | Engine Repair             | 1         | $800.00     | $800.00 |

@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Date: September 15, 2023
 Invoice Number: INV-2023-0915-003
-Customer Name: Johnson's Stationery Store
+Customer Name: Holtons Stationery Store
 Customer Address: 80648 Farragut Way, Solikamsk, Russia
 Billing Email: billing@johnsonsstationery.com
 Payment Due Date: October 15, 2023
@@ -12,4 +12,4 @@ Children's Books 2 $15 $30
 Subtotal: $195
 Sales Tax (8%): $15.6
 Total Due: $195,08
-Thank you for choosing Johnson's Stationery Store. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonsstationery.com.
+Thank you for choosing Holtons Stationery Store. We kindly request that you make the payment for this invoice by the due date mentioned above. Should you have any questions or require further assistance, please contact our billing department at billing@johnsonsstationery.com.

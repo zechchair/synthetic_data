@@ -1,7 +1,7 @@
 Invoice #2:
 Invoice Number: INV-20230512-032
 Date: May 12, 2023
-Customer: Johnson's Print Services
+Customer: Nicholass's Print Services
 Address: 92 Sachs Alley, Viseu, Portela, Portugal	
 Item Description: Printing and Copying Services
 Quantity: 300 copies

@@ -2,7 +2,7 @@ Date: September 2, 2023
 Time: 2:30 PM - 4:00 PM
 Location: Conference Room B, Dabvine Corporation
 Attendees:
-Laura Johnson (Chair)
+Laura Bumpass (Chair)
 Michael Thompson
 Emily Martinez
 Daniel Walker
@@ -13,7 +13,7 @@ Quality assurance review
 Communication plan discussion
 Next steps and closing
 Minutes:
-The meeting began at 2:30 PM, chaired by Laura Johnson. She welcomed the attendees and outlined the agenda for the meeting.
+The meeting began at 2:30 PM, chaired by Laura Bumpass. She welcomed the attendees and outlined the agenda for the meeting.
 Project status update:
 Michael Thompson provided a comprehensive update on the project's status, highlighting completed milestones, ongoing activities, and any deviations from the original plan. He discussed the overall progress and addressed any concerns or issues raised by the team members. The team members acknowledged the update and expressed their support.
 Quality assurance review:

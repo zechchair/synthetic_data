@@ -2,7 +2,7 @@ Invoice 1:
 Invoice Number: INV-20210221-02554
 Date: February 21, 2021
 Bill To:
-Customer Name: Smith & Co.
+Customer Name: Cuzen & Co.
 Address: 97 Brentwood Parkway, Lisboa, São Pedro, Portugal
 Email: smithco@smith.com
 Phone:+351 (760) 383-2076

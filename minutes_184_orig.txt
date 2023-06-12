@@ -2,7 +2,7 @@ Date: March 5th, 2023
 Time: 2:00 PM
 Location: Zoom Conference
 Attendees:
-James Brown, Project Manager
+James Shank, Project Manager
 Alice Green, Software Engineer
 David Rodriguez, QA Engineer
 Agenda:
@@ -10,9 +10,9 @@ Project Progress Report
 Discuss Issues and Risks
 Action Items Review
 Minutes:
-2:00 PM - James Brown starts the meeting and welcomes the attendees.
+2:00 PM - James Shank starts the meeting and welcomes the attendees.
 2:05 PM - Alice Green presents the progress report, indicating that the project is on schedule and within budget.
 2:20 PM - David Rodriguez raises an issue with the QA process, stating that some defects are being missed during testing.
 2:35 PM - The team discusses the issue and agrees to revise the testing plan to address the problem.
-2:50 PM - James Brown reviews the action items from the previous meeting and confirms that all items are completed.
+2:50 PM - James Shank reviews the action items from the previous meeting and confirms that all items are completed.
 3:00 PM - The meeting concludes with a discussion of risks and next steps.

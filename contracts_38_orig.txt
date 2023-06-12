@@ -4,7 +4,7 @@ This Confidentiality Agreement (the "Agreement") is made and entered into this 1
 Disclosing Party:
 GlobalTech Corporation, a corporation organized and existing under the laws of the State of Florida, with its principal place of business at 25 Manufacturers Court, Florida, Jacksonville, United States, represented by Mr. Benjamin Thompson, hereinafter referred to as the "Disclosing Party."
 Receiving Party:
-Tech Innovations Inc., a corporation organized and existing under the laws of the State of Pennsylvania, with its principal place of business at 12830 Division Way, Pennsylvania, Philadelphia, United States, represented by Ms. Sarah Johnson, hereinafter referred to as the "Receiving Party."
+Tech Innovations Inc., a corporation organized and existing under the laws of the State of Pennsylvania, with its principal place of business at 12830 Division Way, Pennsylvania, Philadelphia, United States, represented by Ms. Sarah Johncson, hereinafter referred to as the "Receiving Party."
 WHEREAS, the Disclosing Party possesses certain confidential information related to its business operations;
 WHEREAS, the Receiving Party desires to access and use the confidential information for the purpose of evaluating a potential business partnership;
 NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Disclosing Party and the Receiving Party hereby agree as follows:
@@ -22,5 +22,5 @@ GlobalTech Corporation
 Benjamin Thompson
 Authorized Representative
 Tech Innovations Inc.
-Sarah Johnson
+Sarah Johncson
 Authorized Representative

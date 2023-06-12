@@ -2,7 +2,7 @@ Invoice 1:
 Invoice Date: July 12, 2023
 Due Date: July 27, 2023
 Invoice Number: INV-2023-001
-Customer: Johnson Industries
+Customer: Brewsterr Industries
 Address: 8660 Bunker Hill Parkway, Texas, USA
 Email: billing@johnsonindustries.com
 Description Quantity Unit Price Total

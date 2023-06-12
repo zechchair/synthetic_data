@@ -4,7 +4,7 @@ Address: 42387 Stoughton Way, Hufang, China
 Invoice Number: INV20230516-658
 Date: May 16, 2023
 Bill To:
-John Doe
+Albrecht Doe
 099 Burrows Road, Matina, Costa Rica
 Description Quantity Unit Price Total
 Product A 5 units $20 $100

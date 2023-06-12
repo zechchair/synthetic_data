@@ -1,8 +1,8 @@
 Attendees:
 Daniel Thompson
-Olivia Smith
+Olivia Blandenen
 Robert Davis
-Sophia Johnson
+Sophia Palfrey
 Date: March 23rd, 2017
 Location: Conference Room 12,Kuala Lumpur
 Agenda:
@@ -14,9 +14,9 @@ Schedule next meeting
 Introduction and welcome
 Daniel Thompson called the meeting to order at 2:30 pm and welcomed everyone to the conference room.
 Approval of the The Updates on project progress
-Robert Davis reported that the project was progressing as planned and shared some updates on the project status. Sophia Johnson reported that they had faced some issues in the implementation phase, but they had been resolved.
+Robert Davis reported that the project was progressing as planned and shared some updates on the project status. Sophia Palfrey reported that they had faced some issues in the implementation phase, but they had been resolved.
 Discussion on budget and cost savings
-Olivia Smith presented some ideas on how to save costs and reduce expenses for the project. The team discussed and agreed on some of the suggestions and decided to implement them.
+Olivia Blandenen presented some ideas on how to save costs and reduce expenses for the project. The team discussed and agreed on some of the suggestions and decided to implement them.
 Any other business
 There was no other business to discuss.
 Schedule next meeting

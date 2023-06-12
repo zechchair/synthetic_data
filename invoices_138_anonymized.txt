@@ -1,5 +1,5 @@
 Invoice #17
-Name: Michael Brown
+Name: Michael McLesee
 Address: 817 Elmside Hill, Texas, Waco USA
 Invoice Date: Decembre 17, 2009
 Invoice Number: INV-74

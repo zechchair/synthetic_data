@@ -6,7 +6,7 @@ Phone: 	246-580-0163
 Invoice No: INV-10052023
 Date: May 10, 2023
 Bill To:
-John Doe
+Albrechtecht Doe
 8796 Susan Court, Île-de-France, Sainte-Geneviève-des-Bois, France	
 Description Qty Rate Amount
 Watch titanium 20 $12 $240

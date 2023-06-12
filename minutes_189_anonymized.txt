@@ -1,7 +1,7 @@
 Content: Financial Report
 Business Domain: Accounting
 Attendees:
-Robert Johnson  CEO
+Robert Grocutt  CEO
 Michael Davis   CFO 
 Laura Thompson  Controller
 Emily Wilson    Accountant

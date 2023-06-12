@@ -1,11 +1,11 @@
 Date: May 22, 2023
 Attendees:
-Mark Johnson, CEO of Johnson Technologies
-Sarah Lee, COO of Johnson Technologies
-Jennifer Kim, CIO of Johnson Technologies
+Mark Clipston, CEO of Clipston Technologies
+Sarah Lee, COO of Clipston Technologies
+Jennifer Kim, CIO of Clipston Technologies
 Peter Chen, Head of R&D
 Meeting Agenda: Discuss the development of a new software product
-The meeting was called to order at 2:00 PM by Mark Johnson, CEO of Johnson Technologies. The attendees discussed the development of a new software product and strategies to speed up the release date. Peter Chen, Head of R&D, presented a detailed plan which included the development process, milestones, and risks.
-Jennifer Kim, CIO of Johnson Technologies, provided feedback on the proposed development plan and made suggestions for optimization. The attendees discussed the feasibility of the proposed plan and made additional suggestions for improvement.
-Sarah Lee, COO of Johnson Technologies, raised concerns about the potential impact on the company's operations and cash flow. The attendees discussed the potential benefits and drawbacks of the proposed software product.
+The meeting was called to order at 2:00 PM by Mark Clipston, CEO of Clipston Technologies. The attendees discussed the development of a new software product and strategies to speed up the release date. Peter Chen, Head of R&D, presented a detailed plan which included the development process, milestones, and risks.
+Jennifer Kim, CIO of Clipston Technologies, provided feedback on the proposed development plan and made suggestions for optimization. The attendees discussed the feasibility of the proposed plan and made additional suggestions for improvement.
+Sarah Lee, COO of Clipston Technologies, raised concerns about the potential impact on the company's operations and cash flow. The attendees discussed the potential benefits and drawbacks of the proposed software product.
 The meeting was adjourned at 4:00 PM.

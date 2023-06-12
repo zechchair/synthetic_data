@@ -5,7 +5,7 @@ Landlord: Hillside Properties LLC
 Address: 0651 Claremont Lane, Minakuchi, Japan
 Phone: +81 (298) 192-1504
 Email: info@hillsideproperties.com
-Tenant: Emma Johnson
+Tenant: Emma Ghioni
 Address: 263 Melby Drive, Nakatsu, Japan
 Phone: +81 (375) 937-6361
 Email: emma.johnson@yahoo.com
@@ -23,4 +23,4 @@ Signatures:
 Landlord:
 Hillside Properties LLC
 Tenant:
-Emma Johnson
+Emma Ghioni

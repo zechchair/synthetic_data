@@ -5,7 +5,7 @@ Attendees:
 David Rodriguez, Project Manager
 Alice Green, Software Engineer
 Daniel Taylor, Quality Assurance Analyst
-Michelle Johnson, UX Designer
+Michelle Grocutt, UX Designer
 Agenda:
 Review of progress on software development
 Discussion of any issues or roadblocks

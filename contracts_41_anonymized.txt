@@ -5,7 +5,7 @@ Employer: Horizon Manufacturing Corp.
 Address: 82214 Green Pass, Ciénaga, Colombia
 Phone: +57 (812) 623-9852
 Email: hr@horizonmanufacturing.com
-Employee: Olivia Johnson
+Employee: Olivia Ghioni
 Address: 9592 American Crossing, Pitalito, Colombia
 Phone: +57 (749) 322-9225
 Email: olivia.johnson@hotmail.com

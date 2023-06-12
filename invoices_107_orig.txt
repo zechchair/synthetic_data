@@ -1,7 +1,7 @@
 Invoice 1:
 Invoice Date: August 23, 2023
 Invoice Number: INV-2023-0823-001
-Customer Name: Smith's Hardware Store
+Customer Name: Perri's Hardware Store
 Customer Address: 14402 Florence Point, Ketapang, Indonesia	
 Billing Email: billing@smithshardware.com
 Payment Due Date: September 23, 2023

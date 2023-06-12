@@ -3,7 +3,7 @@ Time: 10:00 AM - 11:30 AM
 Location: Conference Room C, Browsetype Enterprises
 Attendees:
 Sarah Roberts (Chair)
-John Burberry
+Ken Burberry
 Olly  Collins
 David Wilson
 Jessica Adams
@@ -15,7 +15,7 @@ Next steps and closing
 Minutes:
 The meeting began at 10:00 AM, chaired by Sarah Roberts. She welcomed the attendees and outlined the agenda for the meeting.
 Project status update:
-John Burberry provided a comprehensive update on the project's status, highlighting completed milestones, ongoing activities, and any deviations from the original plan. He discussed the overall progress and addressed any concerns or issues raised by the team members. The team members acknowledged the update and expressed their support.
+Ken Burberry provided a comprehensive update on the project's status, highlighting completed milestones, ongoing activities, and any deviations from the original plan. He discussed the overall progress and addressed any concerns or issues raised by the team members. The team members acknowledged the update and expressed their support.
 Quality assurance review:
 Olly  Collins led a discussion on the quality assurance process for the project. She emphasized the importance of maintaining high standards and ensuring deliverables meet the required quality criteria. The team members shared their perspectives on quality assurance practices and suggested improvements. They agreed on implementing regular quality checks and feedback loops to enhance the project's quality.
 Communication plan discussion:
@@ -23,7 +23,7 @@ David Wilson presented a draft communication plan for the project, outlining key
 Next steps and closing:
 Jessica Adams summarized the key decisions and action items discussed during the meeting. She emphasized the importance of clear communication, adherence to quality standards, and timely execution. The team members confirmed their understanding of the next steps and committed to their respective responsibilities.
 Action Items:
-John Burberry to provide an updated project timeline to stakeholders by May 15.
+Ken Burberry to provide an updated project timeline to stakeholders by May 15.
 Olly  Collins to establish a quality assurance checklist and share it with the team for implementation by May 12.
 David Wilson to finalize the communication plan and distribute it to the team and stakeholders by May 17.
 Jessica Adams to schedule a follow-up meeting to review progress and address any outstanding issues by May 18.

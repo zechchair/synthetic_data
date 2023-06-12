@@ -1,11 +1,11 @@
 Date: July 17, 2020
 Attendees:
-John Anderson, CEO of Anderson Solutions
+Albrechtecht Anderson, CEO of Anderson Solutions
 Emily Moore, COO of Anderson Solutions
 Jessica Martinez, CIO of Anderson Solutions
 David Taylor, Head of R&D
 Meeting Agenda: Discuss the development of a new software product
-The meeting was called to order at 1:00 PM by John Anderson, CEO of Anderson Solutions. The attendees discussed the development of a new software product and strategies to speed up the release date. David Taylor, Head of R&D, presented a detailed plan which included the development process, milestones, and risks.
+The meeting was called to order at 1:00 PM by Albrechtecht Anderson, CEO of Anderson Solutions. The attendees discussed the development of a new software product and strategies to speed up the release date. David Taylor, Head of R&D, presented a detailed plan which included the development process, milestones, and risks.
 Jessica Martinez, CIO of Anderson Solutions, provided feedback on the proposed development plan and made suggestions for optimization. The attendees discussed the feasibility of the proposed plan and made additional suggestions for improvement.
 Emily Moore, COO of Anderson Solutions, raised concerns about the potential impact on the company's operations and cash flow. The attendees discussed the potential benefits and drawbacks of the proposed software product.
 The meeting was adjourned at 3:00 PM.

@@ -1,7 +1,6 @@
-Here are three synthetic Partnership contracts:
 Contract 1:
 Partnership Agreement between Alpha Consulting Services, Inc. and Omega Enterprises LLC
-This agreement (the "Agreement") is made and entered into as of the 1st day of August, 2024, by and between Alpha Consulting Services, Inc., a fictional corporation with its principal place of business at 789 Elm St, Springfield, AB 12345 ("Alpha"), and Omega Enterprises LLC, a fictional limited liability company with its principal place of business at 316 Darwin Center, Edgeworthstown, Ireland ("Omega").
+This agreement (the "Agreement") is made and entered into as of the 1st day of August, 2024, by and between Alpha Consulting Services, Inc., a fictional corporation with its principal place of business at 541 Mccormick Trail, Simnas, Lithuania ("Alpha"), and Omega Enterprises LLC, a fictional limited liability company with its principal place of business at 316 Darwin Center, Edgeworthstown, Ireland ("Omega").
 Purpose. The purpose of this Agreement is to establish a partnership between Alpha and Omega (the "Partnership") for the purpose of providing consulting services to clients.
 Contributions. Alpha shall contribute $80,000 in cash to the Partnership, and Omega shall contribute $45,000 in cash and equipment with a fair market value of $20,000.
 Profits and Losses. The Partnership's profits and losses shall be allocated 55% to Alpha and 45% to Omega.

@@ -1,9 +1,9 @@
 Contract 3:
 Seller: Green Valley Auto Sales
-Buyer: Michael Johnson
+Buyer: Michael Johnon
 Date: February 20, 2022
 Vehicle Purchase Agreement
 Green Valley Auto Sales
-This Vehicle Purchase Agreement ("Agreement") is made and entered into between Green Valley Auto Sales ("Seller") and Michael Johnson ("Buyer") on February 20, 2024.
+This Vehicle Purchase Agreement ("Agreement") is made and entered into between Green Valley Auto Sales ("Seller") and Michael Johnon ("Buyer") on February 20, 2024.
 Vehicle Description
-The Seller agrees to sell and the Buyer agrees to purchase a used 2018 Toyota Camry, VIN: 987654
+The Seller agrees to sell and the Buyer agrees to purchase a used 2018 Toyota Camry, VIN: GM739

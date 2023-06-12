@@ -6,7 +6,7 @@ Phone: 778-571-4407
 Invoice No: INV-15042023
 Date: April 15, 2023
 Bill To:
-Jane Smith
+Jane Cuzen
 69 Gale Road, Île-de-France, Paris La Défense, France
 Description Qty Rate Amount
 Watch titanium 20 $10 $200

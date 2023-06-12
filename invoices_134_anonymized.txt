@@ -1,7 +1,7 @@
 Invoice 3:
 Invoice Number: 53725
 Date: May 12, 2010
-Customer: Johnson's Health Club
+Customer: Nicholass's Health Club
 Address: 8833 Village Green Road, Kalmar, Västervik, Sweden
 Item Description: Monthly Gym Membership
 Quantity: 1 membership

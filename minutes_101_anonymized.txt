@@ -1,11 +1,11 @@
 Date: July 21, 2019
 Attendees:
-John Lyburn, CEO of Aimbo Corporation
-Emily Johnson, COO of Aimbo Corporation
+Albrecht Lyburn, CEO of Aimbo Corporation
+Emily Nicholass, COO of Aimbo Corporation
 Michael Thompson, CTO of Aimbo Corporation
 Oliver Davis, Head of Engineering
 Meeting Agenda: Discuss progress of new software development project
-The meeting was called to order at 2:00 PM by John Lyburn, CEO of Aimbo Corporation. The attendees discussed the progress of a new software development project and initiatives to ensure timely completion. Oliver Davis, Head of Engineering, provided an update on the project's status and identified potential risks and challenges.
+The meeting was called to order at 2:00 PM by Albrecht Lyburn, CEO of Aimbo Corporation. The attendees discussed the progress of a new software development project and initiatives to ensure timely completion. Oliver Davis, Head of Engineering, provided an update on the project's status and identified potential risks and challenges.
 Michael Thompson, CTO of Aimbo Corporation, provided feedback on the proposed plan and made suggestions for improvement. The attendees discussed the feasibility of the proposed plan and made additional suggestions for optimization.
-Emily Johnson, COO of Aimbo Corporation, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed strategies to ensure timely completion of the project.
+Emily Nicholass, COO of Aimbo Corporation, raised concerns about the potential impact on the company's operations and financials. The attendees discussed the potential benefits and drawbacks of the proposed strategies to ensure timely completion of the project.
 The meeting was adjourned at 4:00 PM.
