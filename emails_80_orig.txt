@@ -1,16 +1,16 @@
 Email 55:
-From: Lauren Wilson lauren.wilson@example.com
-To: Thomas Thompson thomas.thompson@example.com
+From: Lauren Wilson lauren.wilson@gmail.com
+To: Thomas Thompson thomas.thompson@hotmail.com
 Subject: Invitation to Wedding Celebration
 Dear Thomas,
 I hope this email finds you well. My name is Lauren Wilson, and I am delighted to invite you to celebrate the joyous occasion of my wedding with me and my partner, James Smith.
 Event Details:
-Date: [Wedding Date]
-Time: [Wedding Time]
-Venue: [Wedding Venue]
+Date: February 15th, 2023
+Time: 8:00 AM - 11:00 AM
+Venue: 58 Park Meadow Alley, Nyrkiv, Ukraine
 Our wedding day is a significant milestone in our lives, and we would be honored to have you join us in the celebration. It would mean a great deal to us to have our friends and family there to share in our happiness.
 The day will be filled with love, laughter, and cherished moments as we exchange vows and begin this new chapter together. We have planned a beautiful ceremony followed by a reception filled with delicious food, music, and dancing.
-Please RSVP by [RSVP Date] to confirm your attendance and let us know if you have any dietary preferences or special requirements. If you have any questions or need further information, please do not hesitate to reach out to me.
+Please RSVP by February 10th, 2023 to confirm your attendance and let us know if you have any dietary preferences or special requirements. If you have any questions or need further information, please do not hesitate to reach out to me.
 We look forward to having you as a part of our special day and creating lasting memories together. Your presence would truly make our celebration complete.
 Warm regards,
 Lauren Wilson

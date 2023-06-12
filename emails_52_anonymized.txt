@@ -1,6 +1,6 @@
 Email 3:
-From: Emily Johnson emily.johnson@example.com
-To: Michael Thompson michael.thompson@example.com
+From: Emily Johnson emily.johnson@gmail.com
+To: Michael Thompson michael.thompson@hotmail.com
 Subject: Urgent IT Support Request
 Dear Michael,
 I hope you are doing well. I am reaching out to you regarding an urgent IT issue that our team is currently facing. It appears that several systems and applications are experiencing intermittent connectivity problems, which is severely impacting our productivity and daily operations.
@@ -9,5 +9,5 @@ If you are available, we would greatly appreciate your immediate attention to th
 Your prompt action would be of immense help to our organization, and we sincerely appreciate your support in this critical situation.
 Thank you in advance for your assistance, and we look forward to your positive response.
 Best regards,
-Olivia Mitchell
+Emily Johnson
 Operations Manager

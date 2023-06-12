@@ -1,6 +1,6 @@
 Email 2:
-From: Sophia Adams sophia.adams@example.com
-To: David Wilson david.wilson@example.com
+From: Sophia Adams sophia.adams@Browsetype.com
+To: David Wilson david.wilson@hotmail.com
 Subject: Follow-Up Meeting Request
 Dear David,
 I hope this email finds you well. I wanted to express my appreciation for the insightful discussion we had during the industry conference last week. Your expertise in project management and your innovative ideas left a lasting impression.
@@ -10,4 +10,4 @@ I look forward to hearing from you and discussing our shared interests in more d
 Best regards,
 Sophia Adams
 Business Development Manager
-ABC Corporation
+Browsetype Corporation

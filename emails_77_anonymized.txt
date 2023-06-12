@@ -1,11 +1,12 @@
 Email 3:
-From: Emma Parker emma.parker@example.com
-To: Alex Thompson alex.thompson@example.com
+From: Emma Parker emma.parker@gmail.com
+To: Alex Thompson alex.thompson@hotmail.com
 Subject: Invitation to Annual Charity Run
 Dear Alex,
 I hope this email finds you in good health. We are excited to announce our upcoming Annual Charity Run, organized by Bright Futures, and we cordially invite you to participate.
 Date: Sunday, December 3rd, 2023
 Time: 9:30 AM - 12:30 PM
-Venue: Riverside Park, Pleasantville, USA
+Venue: Riverside Park, 43 Delladonna Road, Turangi, New Zealand
 The Charity Run aims to raise funds for underprivileged children and support various educational initiatives. Participants can choose between a 5K or 10K run/walk, and there will be prizes for the top performers in different age categories.
-To register for the run, please visit our website at [Charity Run Registration Link]. The registration fee is $35.
+To register for the run, please visit our website at RiversidePark.com/Charity_Run_Registration The registration fee is $35.
+Emma Parker

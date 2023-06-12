@@ -1,6 +1,6 @@
 Email 3:
-From: Olivia Mitchell olivia.mitchell@example.com
-To: Jason Davis jason.davis@example.com
+From: Olivia Mitchell olivia.mitchell@gmail.com
+To: Jason Davis jason.davis@hotmail.com
 Subject: Urgent IT Support Request
 Dear Jason,
 I hope you are doing well. I am reaching out to you regarding an urgent IT issue that our team is currently facing. It appears that several systems and applications are experiencing intermittent connectivity problems, which is severely impacting our productivity and daily operations.
