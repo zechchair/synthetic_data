@@ -1,6 +1,6 @@
 Email 1:
-From: Robert Turner robert.turner@example.com
-To: Sarah Peterson sarah.peterson@example.com
+From: Robert Turner robert.turner@outlook.com
+To: Sarah Peterson sarah.peterson@outlook.com
 Subject: Job Inquiry
 Dear Sarah,
 I hope this email finds you well. My name is Robert Turner, and I recently came across an opening for a Marketing Manager position at your company, XYZ Enterprises. I am writing to express my interest in the position and to inquire about the application process.

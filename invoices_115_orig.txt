@@ -4,7 +4,7 @@ Date: May 21, 2023
 Bill To:
 Customer Name: FreddySkein Corporation
 Address:25404 Scott Lane, Besole, Indonesia	
-Email: FreddySkeincorp@example.com
+Email: FreddySkeincorp@outlook.com
 Phone: +62 (520) 833-1221
 Item Quantity Unit Price Amount
 Product A 5 $10 $50

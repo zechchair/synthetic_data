@@ -1,6 +1,6 @@
 Email 1:
-From: James Thompson james.thompson@example.com
-To: Emma Wilson emma.wilson@example.com
+From: James Thompson james.thompson@gmail.com
+To: Emma Wilson emma.wilson@gmail.com
 Subject: Invitation to Tech Summit
 Dear Emma,
 I hope this email finds you well. My name is James Thompson, and I am reaching out to invite you to an upcoming Tech Summit in your area. The summit will gather professionals and experts from the tech industry to discuss the latest trends and advancements.

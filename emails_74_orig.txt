@@ -1,6 +1,6 @@
 Email 32:
-From: John Roberts john.roberts@example.com
-To: Samantha Wilson samantha.wilson@example.com
+From: John Roberts john.roberts@hotmail.com
+To: Samantha Wilson samantha.wilson@hotmail.com
 Subject: Request for Quote - Office Renovation Project
 Dear Samantha,
 I hope this email finds you well. I am writing to request a quote for an office renovation project

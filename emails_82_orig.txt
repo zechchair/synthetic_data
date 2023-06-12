@@ -1,6 +1,6 @@
 Email 2:
-From: Karen Thompson karen.thompson@example.com
-To: Support Team support@example.com
+From: Karen Thompson karen.thompson@gmail.com
+To: Support Team support@gmail.com
 Subject: Urgent Technical Issue with Software
 Dear Support Team,
 I hope this email finds you well. My name is Karen Thompson, and I am a customer of your software, XYZ Pro. I am currently experiencing a critical technical issue that requires immediate attention and resolution.
