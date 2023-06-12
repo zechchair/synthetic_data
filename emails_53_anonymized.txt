@@ -1,6 +1,6 @@
 Email 2:
-From: Jane Smith jane.smith@email.com
-To: David Brown david.brown@email.com
+From: Jane Smith jane.smith@gmail.com
+To: David Brown david.brown@hotmail.com
 Subject: Request for Collaboration
 Dear David,
 I hope this email finds you well. I am reaching out to discuss a potential collaboration opportunity between our organizations. Given our shared expertise and complementary services, I believe a partnership could be mutually beneficial.

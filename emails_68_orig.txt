@@ -1,6 +1,6 @@
 Email 3:
-From: Olivia Thompson olivia.thompson@email.com
-To: Support Team support@company.com
+From: Olivia Thompson olivia.thompson@hotmail.com
+To: Support Team support@Rhyboxsoftware.com
 Subject: Request for Technical Assistance
 Dear Support Team,
 I hope this email finds you well. I am experiencing some technical difficulties with the software I purchased from your company. I would appreciate your assistance in resolving the issue.

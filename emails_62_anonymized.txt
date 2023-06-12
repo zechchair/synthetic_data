@@ -1,6 +1,6 @@
 Email 2:
-From: Olivia Taylor olivia.taylor@example.com
-To: John Smith john.smith@example.com
+From: Olivia Taylor olivia.taylor@Quinu .com
+To: John Smith john.smith@hotmail.com
 Subject: Follow-Up Meeting Request
 Dear John,
 I hope this email finds you well. I wanted to express my appreciation for the insightful discussion we had during the industry conference last week. Your expertise in project management and your innovative ideas left a lasting impression.
@@ -10,4 +10,4 @@ I look forward to hearing from you and discussing our shared interests in more d
 Best regards,
 Olivia Taylor
 Business Development Manager
-XYZ Corporation
+Quinu Corporation

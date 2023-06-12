@@ -1,9 +1,12 @@
 Email 3:
-From: Andrew Bennett andrew.bennett@xyzuniversity.edu
+From: Andrew Bennett andrew.bennett@Vinteuniversity.edu
 To: Dr. Olivia Thompson olivia.thompson@gmail.com
 Subject: Invitation to Guest Lecture
 Dear Dr. Thompson,
-I hope this email finds you well. My name is Andrew Bennett, and I am a faculty member at XYZ University. I am writing to extend an invitation for you to deliver a guest lecture to our [department] students.
+I hope this email finds you well. My name is Andrew Bennett, and I am a faculty member at Vinte University. I am writing to extend an invitation for you to deliver a guest lecture to our [department] students.
 Your extensive research and expertise in the field of [specialization] have made a significant impact in the academic community. As we strive to provide our students with exposure to leading professionals, we believe that your insights and knowledge would greatly benefit them.
 The guest lecture would typically last around 60 minutes, including a presentation and a question-and-answer session. It can cover topics such as your recent research findings, industry trends, or career advice for aspiring professionals in your field.
 We can accommodate a date and time that is most convenient for you. Our students are eager to learn from distinguished scholars like yourself, and we are confident
+Best regards,
+Andrew Bennett
+Vinte

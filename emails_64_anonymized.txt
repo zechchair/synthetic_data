@@ -1,8 +1,11 @@
 Email 3:
-From: Matthew Wilson matthew.wilson@example.com
+From: Matthew Wilson matthew.wilson@Mita.com
 To: Olivia Davis olivia.davis@example.com
 Subject: Congratulations on Your Graduation!
 Dear Olivia,
-I hope this email finds you celebrating and filled with pride. I wanted to extend my warmest congratulations on your recent graduation from ABC University.
+I hope this email finds you celebrating and filled with pride. I wanted to extend my warmest congratulations on your recent graduation from Mita University.
 Completing your degree is a significant accomplishment and a testament to your hard work, dedication, and intellectual curiosity. Your pursuit of knowledge and personal growth has paid off, and I have no doubt that you have a bright future ahead of you.
 As you embark on this new chapter of your life, may you
+Matthew Wilson
+teacher
+Mita University

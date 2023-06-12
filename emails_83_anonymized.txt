@@ -1,6 +1,6 @@
 Email 1:
-From: Emily Johnson emily.johnson@example.com
-To: Daniel Wilson daniel.wilson@example.com
+From: Emily Johnson emily.johnson@Brainbox.com
+To: Daniel Wilson daniel.wilson@hotmail.com
 Subject: Contract Renewal Reminder
 Dear Daniel,
 I hope this email finds you well. I am writing to remind you about the upcoming contract renewal for our business partnership.
@@ -11,4 +11,4 @@ Thank you for your attention to this matter, and we look forward to continuing o
 Best regards,
 Emily Johnson
 Business Development Manager
-XYZ Corporation
+Brainbox Corporation
