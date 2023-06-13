@@ -4,7 +4,7 @@ Date: February 21, 2021
 Bill To:
 Customer Name: Cuzen & Co.
 Address: 97 Brentwood Parkway, Lisboa, São Pedro, Portugal
-Email: smithco@smith.com
+Email: Cuzenco@Cuzen.com
 Phone:+351 (760) 383-2076
 Item Quantity Unit Price Amount
 Product A 5 $12 $60
