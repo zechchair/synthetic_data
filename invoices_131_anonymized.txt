@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-2000-736
+Invoice :
+ Number: INV-2000-736
 Date: January 15, 2000
 Due Date: February 10, 2000
 Bill To:

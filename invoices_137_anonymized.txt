@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: May 12, 2024
+Invoice :
+ Date: May 12, 2024
 Invoice Number: INV-2024-0512-87
 Customer Name: Mita
 Customer Address: 817 Elmside Hill, Texas, Waco, United States

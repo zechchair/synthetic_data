@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20230512-037
+Invoice :
+ Number: INV-20230512-037
 Date: May 12, 2023
 Customer: Holton's Supplies
 Address: 541 Mccormick Trail, Simnas, Lithuania

@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Ive Phalp
 Address: 4778 Mcguire Pass, Sufālat Samā’il, Oman
 Invoice Number: INV20230516-830

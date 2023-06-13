@@ -1,4 +1,4 @@
-Invoice #16
+Invoice :
 Name: Emily Jones
 Address: 570 Loomis Court, Alberta, Calmar, Canada	
 Invoice Date: March 20, 2023

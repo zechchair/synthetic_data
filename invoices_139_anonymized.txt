@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-824537
+Invoice :
+ Number: INV-824537
 Date: June 16, 2019
 Bill To:
 Company Name: Lazz

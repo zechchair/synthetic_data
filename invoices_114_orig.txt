@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-20230521-821
+Invoice :
+ Number: INV-20230521-821
 Date: June 21, 2023
 Customer: Green Valley Gym
 Address: 07 Farwell Lane, Västra Götaland, Göteborg, Sweden	

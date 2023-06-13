@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-20200512-012
+Invoice :
+ Number: INV-20200512-012
 Date: May 12, 2020
 Customer: Fitness First Center
 Address: 674 Nova Road, Poitou-Charentes, La Rochelle, France	

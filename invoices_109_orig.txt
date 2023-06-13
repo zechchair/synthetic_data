@@ -1,4 +1,4 @@
-Invoice 2:
+Invoice :
 Quatz Corporation
 2 Washington Parkway, 
 Sukapura, Indonesia

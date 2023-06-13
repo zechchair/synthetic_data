@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: June 9, 2023
+Invoice :
+ Date: June 9, 2023
 Invoice Number: INV-2023-0609-002
 Customer Name: Anderson & Associates Legal Services
 Customer Address: 5563 Lunder Hill, Korisós, Greece	

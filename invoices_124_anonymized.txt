@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-20230610-579
+Invoice :
+ Number: INV-20230610-579
 Date: June 10, 2023
 Bill To:
 Company Name: Jaxnation

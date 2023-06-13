@@ -1,4 +1,4 @@
-Invoice #4
+Invoice :
 Company: BlueSprout
 Address: 9033 Clyde Gallagher Circle, Kastrat, Albania	
 Date: July 4, 2002

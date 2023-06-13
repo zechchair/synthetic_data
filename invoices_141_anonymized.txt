@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-2022-001
+Invoice :
+ Number: INV-2022-001
 Date: June 23, 2022
 Customer: Hollie Garnham	
 Address: 36 Old Gate Hill, Cruz das Almas, Brazil	

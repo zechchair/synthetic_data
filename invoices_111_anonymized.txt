@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20230928-724
+Invoice :
+ Number: INV-20230928-724
 Date: September 28, 2022
 Bill To:
 Company Name: Emerald Enterprises

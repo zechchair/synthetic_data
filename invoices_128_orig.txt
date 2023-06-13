@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20220616-745
+Invoice :
+ Number: INV-20220616-745
 Date: June 16, 2022
 Customer: Castele's Legal Services
 Address: 4844 Fallview Parkway, Florianópolis, Brazil	

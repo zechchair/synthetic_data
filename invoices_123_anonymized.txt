@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Date: November 10, 2022
+Invoice :
+ Date: November 10, 2022
 Invoice Number: INV-2022-1110-829
 Customer Name: Anderson's Supermarket
 Customer Address: 709 Dixon Alley, Palalang, Indonesia

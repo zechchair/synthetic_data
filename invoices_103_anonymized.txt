@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: July 12, 2023
+Invoice :
+ Date: July 12, 2023
 Due Date: July 27, 2023
 Invoice Number: INV-2023-001
 Customer: Brewsterr Industries

@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Greenway Landscaping Services
 Invoice Date: April 28, 2023
 Invoice Number: GLS-2023-1275

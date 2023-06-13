@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: July 25, 2023
+Invoice :
+ Date: July 25, 2023
 Invoice Number: INV-2023-0725-003
 Customer Name: Anderson's Bookstore
 Customer Address: 5 Forest Run Terrace, Kohlu, Pakistan	

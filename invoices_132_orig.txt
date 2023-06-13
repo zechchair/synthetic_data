@@ -1,4 +1,4 @@
-Invoice #9
+Invoice :
 Company: EcoFriendly Cleaning
 Address: 9138 Badeau Hill, Dengfang, China
 Date: January 9, 2023

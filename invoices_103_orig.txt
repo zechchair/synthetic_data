@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: January 5, 2023
+Invoice :
+ Date: January 5, 2023
 Due Date: January 20, 2023
 Invoice Number: INV-2023-001
 Customer: Perri Enterprises

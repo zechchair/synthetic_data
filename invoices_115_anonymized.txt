@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20210221-02554
+Invoice :
+ Number: INV-20210221-02554
 Date: February 21, 2021
 Bill To:
 Customer Name: Cuzen & Co.

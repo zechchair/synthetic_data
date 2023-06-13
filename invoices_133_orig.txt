@@ -1,4 +1,4 @@
-Invoice 1
+Invoice :
 | Invoice No. | Date       | Due Date   | Customer Name        | Total Amount |
 |-------------|------------|------------|----------------------|--------------|
 | INV-001     | 2021-07-15 | 2021-08-15 | Albrecht's Auto Service | $1,400.00    |

@@ -1,4 +1,4 @@
-Email 2:
+Email :
 Subject: Important Update: Password Reset Request
 From: Security Team securityteam@Lazz.com
 To: Abraham Sokell Abraham.Sokell@hotmail.com

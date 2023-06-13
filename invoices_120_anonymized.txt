@@ -1,4 +1,4 @@
-Invoice #11
+Invoice :
 Company: Tasty Delights Pastry Shop
 Address: 04690 Melby Parkway, Missouri, Saint Louis, United States
 Date: July 17, 2022

@@ -1,4 +1,4 @@
-Invoice #16
+Invoice :
 Name: Emma Chaplain
 Address: 429 Jenifer Pass, Ontario, Toronto, Canada	
 Invoice Date: May 16, 2008

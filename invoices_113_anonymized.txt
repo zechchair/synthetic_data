@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Evergreen Solutions
 Invoice Date: May 28, 2020
 Invoice Number: ELS-2020-1275

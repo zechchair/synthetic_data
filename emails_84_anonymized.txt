@@ -1,4 +1,4 @@
-Email 1:
+Email :
 From: Isaac Kemer Isaac.Kemer@imaginerealtors.com
 To: Emma Anderson emma.anderson@gmail.com
 Subject: Exclusive Property Listing

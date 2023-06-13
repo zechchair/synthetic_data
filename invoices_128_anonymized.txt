@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20230512-038
+Invoice :
+ Number: INV-20230512-038
 Date: May 12, 2023
 Customer: Nicholass's Consulting Firm
 Address: 0863 Westridge Point, Mococa, Brazil

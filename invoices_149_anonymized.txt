@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: December 15, 2008
+Invoice :
+ Date: December 15, 2008
 Invoice Number: INV-2008-1215-737
 Customer Name: Youspan
 Customer Address: 98 Mcguire Plaza, Solnice, Czech Republic

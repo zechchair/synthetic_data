@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: December 10, 2023
+Invoice :
+ Date: December 10, 2023
 Invoice Number: INV-2023-1210-003
 Customer Name: Wilson's Consulting Firm
 Customer Address: 2534 Ronald Regan Pass, Las Vegas, USA

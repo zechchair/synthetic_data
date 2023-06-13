@@ -1,4 +1,4 @@
-Invoice #17
+Invoice :
 Name: Albrecht Davis
 Address: 6662 Armistice Junction, Louisiana, Lafayette, USA
 Invoice Date: March 17, 2023

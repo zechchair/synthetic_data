@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: November 12, 2023
+Invoice :
+ Date: November 12, 2023
 Invoice Number: INV-2023-1112-4242
 Customer Name: Devcast
 Customer Address: 750 Judy Circle, Provincie Zuid-Holland, Delft, Netherlands

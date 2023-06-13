@@ -1,4 +1,4 @@
-Invoice 3:
+Invoice :
 Sender: Visionary Image Studio
 Recipient: Demimbu Boutique
 Invoice Number: VIS-2021-45

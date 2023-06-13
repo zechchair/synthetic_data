@@ -1,5 +1,5 @@
-Invoice 2
-Invoice To: Sarah Brewster
+Invoice :
+ To: Sarah Brewster
 Invoice From: Midel Enterprises
 Description: Amount
 Product Development: $8,200.00

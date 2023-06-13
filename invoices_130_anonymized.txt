@@ -1,4 +1,4 @@
-Invoice #2:
+Invoice ::
 Invoice Number: INV-20230512-032
 Date: May 12, 2023
 Customer: Nicholass's Print Services

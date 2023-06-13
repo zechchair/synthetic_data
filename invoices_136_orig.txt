@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: 73634
+Invoice :
+ Number: 73634
 Date: August 16, 2023
 Bill To:
 Company Name: Hetti Wilkerson

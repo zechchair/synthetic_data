@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20230512-044
+Invoice :
+ Number: INV-20230512-044
 Date: May 12, 2023
 Customer: Perri's IT Solutions
 Address: 8660 Bunker Hill Parkway, Techville, Ouahran, Algerie

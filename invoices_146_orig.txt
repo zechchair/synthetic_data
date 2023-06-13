@@ -1,4 +1,4 @@
-Invoice #11
+Invoice :
 Name: Orson Phipson
 Address: 1 Tomscot Crossing, Södermanland, Katrineholm, Sweden	
 Invoice Date: January 11, 2010

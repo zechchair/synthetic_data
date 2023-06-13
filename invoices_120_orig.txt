@@ -1,4 +1,4 @@
-Invoice #11
+Invoice :
 Company: Sweet Treats Bakery
 Address: 316 Hagan Point, North Carolina, Charlotte, United States
 Date: May 11, 2023

@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: May 20, 2023
+Invoice :
+ Date: May 20, 2023
 Invoice Number: INV-2023-0520-003
 Customer Name: Anderson Marketing Solutions
 Customer Address: 7178 Bobwhite Circle, Dakoutun, China	

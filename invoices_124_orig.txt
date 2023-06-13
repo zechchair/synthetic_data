@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-20230516-309
+Invoice :
+ Number: INV-20230516-309
 Date: May 16, 2023
 Bill To:
 Company Name: Jabbercube

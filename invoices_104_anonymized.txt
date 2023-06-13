@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20230621-044
+Invoice :
+ Number: INV-20230621-044
 Date: July 21, 2023
 Customer: Brewster's Bookstore
 Address: 2 Hintze Junction, Bordeau, France

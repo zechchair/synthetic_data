@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20160522-5295
+Invoice :
+ Number: INV-20160522-5295
 Date: May 22, 2016
 Customer: Aivee
 Address: 72147 Loeprich Way, Magoúla, Greece

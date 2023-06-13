@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: March 8, 2024
+Invoice :
+ Date: March 8, 2024
 Invoice Number: INV-2024-0308-542
 Customer Name: Flashdog
 Customer Address: 04690 Melby Parkway, Missouri, Saint Louis, United States	

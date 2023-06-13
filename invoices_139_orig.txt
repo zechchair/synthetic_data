@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Number: INV-836492
+Invoice :
+ Number: INV-836492
 Date: March 16, 2023
 Bill To:
 Company Name: Topiclounge

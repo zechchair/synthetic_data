@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20200218-524
+Invoice :
+ Number: INV-20200218-524
 Date: February 18, 2020
 Bill To:
 Customer Name: Karina Cursons

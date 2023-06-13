@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: 712556
+Invoice :
+ Number: 712556
 Date: September 16, 2015
 Bill To:
 Company Name: Wordpedia

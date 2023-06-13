@@ -1,4 +1,4 @@
-Invoice #1
+Invoice :
 Company: Yakijo
 Address: 09 Grover Parkway, Munjungan, Indonesia
 Phone: +62 (966) 601-7858

@@ -1,4 +1,4 @@
-Invoice #15
+Invoice :
 Company: Elite Cleaning Services
 Address: 6662 Armistice Junction, Louisiana, Lafayette, United States	
 Date: May 15, 2023

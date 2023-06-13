@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Browse drive
 Invoice Date: January 10, 2023
 Invoice Number: GLS-2023-7632

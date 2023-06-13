@@ -1,4 +1,4 @@
-Invoice 3
+Invoice :
 Customer Information
 Name: David Lee
 Address: 86 Commercial Trail, Illinois, Springfield, United States	

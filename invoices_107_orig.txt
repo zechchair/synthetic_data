@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Date: August 23, 2023
+Invoice :
+ Date: August 23, 2023
 Invoice Number: INV-2023-0823-001
 Customer Name: Perri's Hardware Store
 Customer Address: 14402 Florence Point, Ketapang, Indonesia	

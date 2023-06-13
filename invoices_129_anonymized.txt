@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: October 12, 2022
+Invoice :
+ Date: October 12, 2022
 Invoice Number: INV-2022-1012-37
 Customer Name: Nicholas & Co. Consulting
 Customer Address: 16248 Lawn Parkway, Madrid, Madrid, Spain

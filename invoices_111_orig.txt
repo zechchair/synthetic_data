@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20230516-957
+Invoice :
+ Number: INV-20230516-957
 Date: May 16, 2023
 Bill To:
 Company Name: Kennett Thomasson

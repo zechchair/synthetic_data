@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-20230618-035
+Invoice :
+ Number: INV-20230618-035
 Date: June 18, 2023
 Bill To:
 Customer Name: Calvin Gentery

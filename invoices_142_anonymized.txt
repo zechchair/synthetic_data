@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Livepath
 Invoice Date: June 12, 2022
 Invoice Number: ELS-2022-7632

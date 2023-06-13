@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20200221-835
+Invoice :
+ Number: INV-20200221-835
 Date: February 21, 2020
 Customer: Castele's Supplies
 Address: 53 Southridge Lane, Caitang, China	

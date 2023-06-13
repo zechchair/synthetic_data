@@ -1,4 +1,4 @@
-Email 1:
+Email :
 Subject: Invitation to Art Exhibition
 From: galleryevents@artspace.com
 To: jennifer.watson@gmail.com

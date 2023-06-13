@@ -1,4 +1,4 @@
-Invoice 1:
+Invoice :
 Company: Ossie Hymas
 Address: 42387 Stoughton Way, Hufang, China	
 Invoice Number: INV20230516-658

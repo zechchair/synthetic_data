@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-2023-5242
+Invoice :
+ Number: INV-2023-5242
 Date: March 10, 2023
 Customer: Alta Moncrieffe
 Address: 0863 Westridge Point, Mococa, Brazil	

@@ -1,5 +1,5 @@
-Invoice 1:
-Invoice Number: INV-20230521-85578
+Invoice :
+ Number: INV-20230521-85578
 Date: May 21, 2023
 Bill To:
 Customer Name: FreddySkein Corporation

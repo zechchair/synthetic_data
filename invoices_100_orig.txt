@@ -1,4 +1,4 @@
-Invoice 3:
+Invoice :
 Sender: Creative Photography Studio
 Recipient: Jane's Boutique
 Invoice Number: CPS-2023-055

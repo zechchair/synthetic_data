@@ -1,4 +1,4 @@
-Invoice #4
+Invoice :
 Company: GreenLeaf
 Address: 6 Hintze Parkway, Banjar Pande, Indonesia	
 Date: June 4, 2023

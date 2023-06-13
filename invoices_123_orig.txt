@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Date: September 5, 2023
+Invoice :
+ Date: September 5, 2023
 Invoice Number: INV-2023-0905-002
 Customer Name: Nicholas's Grocery Store
 Customer Address: 7 Mayer Avenue, Santarém, Vila Chã de Ourique, USA

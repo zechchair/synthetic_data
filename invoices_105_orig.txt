@@ -1,5 +1,5 @@
-Invoice 3:
-Invoice Date: November 5, 2023
+Invoice :
+ Date: November 5, 2023
 Invoice Number: INV-2023-1105-003
 Customer Name: Brewsterr's Accounting Services
 Customer Address: 5097 Kensington Pass, Newyork, USA

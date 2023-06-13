@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: INV-2023-825
+Invoice :
+ Number: INV-2023-825
 Date: January 8, 2023
 Due Date: January 30, 2023
 Bill To:

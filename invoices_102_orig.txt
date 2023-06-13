@@ -1,5 +1,5 @@
-Invoice 2
-Invoice To: Albrecht Perri
+Invoice :
+ To: Albrecht Perri
 Invoice From: Lajo Corporation
 Description Amount
 Website Design $7,500.00

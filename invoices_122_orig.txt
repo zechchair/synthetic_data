@@ -1,5 +1,5 @@
-Invoice 2:
-Invoice Number: 45324
+Invoice :
+ Number: 45324
 Date: 07/15/2021
 Bill To:
 Nowell Bechley
